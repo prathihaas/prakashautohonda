@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  return products.map(entry => ({
+    params: { slug: entry.slug }, props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const { name_en, name_te, price, whatsapp_message, seo_title, seo_description, featured_image } = entry.data;
+---
+
+<Layout title={seo_title} description={seo_description}>
+  <main class="max-w-7xl mx-auto px-4 py-12">
+    
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+        <!-- Image Gallery (Simple) -->
+        <div>
+            <img src={featured_image} alt={name_en} class="rounded-2xl shadow-lg w-full object-cover aspect-video" />
+        </div>
+
+        <!-- Details -->
+        <div>
+            <!-- Bilingual Header -->
+            <header class="mb-8 border-b border-gray-100 pb-8">
+              <h1 class="text-4xl font-black tracking-tight text-gray-900">{name_en}</h1>
+              <h2 class="text-2xl text-gray-500 font-noto font-medium mt-2">{name_te}</h2>
+              
+              <div class="mt-6 flex flex-wrap items-center gap-4">
+                <span class="text-3xl font-bold text-red-600">{price}</span>
+                <a 
+                  href={`https://wa.me/919876543210?text=${whatsapp_message}`} 
+                  class="bg-red-600 text-white px-8 py-3 rounded-lg font-bold hover:bg-red-700 transition flex items-center gap-2 shadow-lg shadow-red-200"
+                >
+                  Book Now / బుక్ చేయండి
+                </a>
+              </div>
+            </header>
+
+            <!-- Markdown Content -->
+            <article class="prose max-w-none text-gray-700">
+              <Content />
+            </article>
+        </div>
+    </div>
+
+  </main>
+</Layout>

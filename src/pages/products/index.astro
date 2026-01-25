@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import BilingualText from '../../components/BilingualText.astro';
+
+const products = await getCollection('products');
+---
+
+<Layout title="All Models | Sairam Honda" description="View all Honda bikes and scooters available in Nizamabad">
+  <div class="bg-gray-50 py-12 px-4 text-center">
+    <BilingualText size="h1" en="All Models" te="అన్ని మోడల్స్" />
+  </div>
+  
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        {products.map((product) => (
+          <ProductCard 
+            title_en={product.data.name_en}
+            title_te={product.data.name_te}
+            price={product.data.price}
+            mileage={product.data.mileage || 'N/A'}
+            image={product.data.featured_image || ''}
+            slug={product.slug}
+            category={product.data.category}
+          />
+        ))}
+    </div>
+  </div>
+</Layout>

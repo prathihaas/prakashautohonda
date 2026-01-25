@@ -1,0 +1,26 @@
+---
+interface Props {
+  en: string;
+  te: string;
+  size?: 'small' | 'normal' | 'large' | 'h1' | 'h2' | 'h3';
+  class?: string;
+}
+
+const { en, te, size = 'normal', class: className } = Astro.props;
+
+const sizes = {
+  small: { en: "text-sm", te: "text-xs" },
+  normal: { en: "text-base", te: "text-sm" },
+  large: { en: "text-xl", te: "text-lg" },
+  h1: { en: "text-4xl md:text-6xl tracking-tight", te: "text-xl md:text-3xl mt-2 font-medium" },
+  h2: { en: "text-3xl tracking-tight", te: "text-lg mt-1 font-medium" },
+  h3: { en: "text-xl font-bold", te: "text-sm font-medium opacity-80" },
+};
+
+const s = sizes[size];
+---
+
+<div class={`flex flex-col ${className}`}>
+  <span class={`font-bold text-gray-900 ${s.en}`}>{en}</span>
+  <span class={`font-noto text-gray-500 leading-snug ${s.te}`}>{te}</span>
+</div>
