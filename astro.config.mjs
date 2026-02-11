@@ -6,6 +6,6 @@ export default defineConfig({
   site: 'https://prakashautohonda.com', // Replace with production URL
   trailingSlash: 'never',
   build: {
-    format: 'file'
+    format: 'directory'
   }
 });
