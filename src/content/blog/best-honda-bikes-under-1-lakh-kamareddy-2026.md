@@ -1,12 +1,14 @@
 ---
-slug: "best-honda-bikes-under-1-lakh-kamareddy-2026"
-title_en: "Best Honda Bikes Under 1 Lakh in Kamareddy 2026 — Complete Buyer's Guide"
+title: "Best Honda Bikes Under 1 Lakh in Kamareddy 2026 — Complete Buyer's Guide"
 title_te: "కామారెడ్డిలో 1 లక్ష లోపు బెస్ట్ హోండా బైక్స్ 2026 — పూర్తి గైడ్"
 date: "2026-03-10"
 author: "Prakash Auto Honda Team"
+category: "Buying Guide"
 featured_image: "https://images.unsplash.com/photo-1558981359-219d6364c9c8?auto=format&fit=crop&q=80&w=800"
+excerpt: "Looking for the best Honda bike under 1 lakh in Kamareddy? Compare Honda Shine, Unicorn, CD 110 Dream and Activa. See prices, mileage, and EMI options at"
 seo_title: "Best Honda Bikes Under 1 Lakh in Kamareddy 2026 | Prakash Auto Honda"
 seo_description: "Looking for the best Honda bike under 1 lakh in Kamareddy? Compare Honda Shine, Unicorn, CD 110 Dream and Activa. See prices, mileage, and EMI options at Prakash Auto Honda."
+readTime: "6 min read"
 ---
 
 If you are in Kamareddy and looking for a reliable two-wheeler under ₹1 lakh, Honda has more options than most people realise. Whether you need a daily commuter for Kamareddy town, a bike for longer rides to Nizamabad or Banswada, or a fuel-efficient scooter for the family — Honda has something for every budget and every use case.
