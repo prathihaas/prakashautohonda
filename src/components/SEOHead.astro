@@ -4,12 +4,13 @@ const {
   title = "Prakash Auto Honda | Authorized Honda Dealer in Kamareddy, Telangana",
   description = "Prakash Auto Honda is an authorized Honda dealership in Kamareddy, Telangana 503111. Explore new Honda cars, book test drives, and get genuine service.",
   canonical = Astro.url.href,
-  image = "/og-image.svg",
+  image = "/og-image.jpg",
 } = Astro.props;
 ---
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 
 <!-- Open Graph -->
 <meta property="og:type" content="website" />
@@ -17,6 +18,9 @@ const {
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
 <meta property="og:image" content={new URL(image, Astro.site).toString()} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
 <meta property="og:site_name" content="Prakash Auto Honda" />
 <meta property="og:locale" content="en_IN" />
 
@@ -42,7 +46,7 @@ const {
   "logo": "https://www.prakashautohonda.com/logo.png",
   "image": "https://www.prakashautohonda.com/og-image.jpg",
   "description": "Authorized Honda dealership in Kamareddy, Telangana. New Honda cars, service, and genuine spare parts.",
-  "telephone": "+91-8886640573",
+  "telephone": "+91-8886604615",
   "brand": { "@type": "Brand", "name": "Honda" },
   "address": {
     "@type": "PostalAddress",
