@@ -1,6 +1,6 @@
 ---
 slug: "home"
-title_en: "Kamareddy's Authorized Honda Two-Wheeler Dealer"
+title_en: "Prakash Auto Honda — Authorized Honda Dealer, Kamareddy"
 title_te: "కామారెడ్డి అధీకృత హోండా టూ-వీలర్ డీలర్"
 description_en: "Prakash Auto Honda — authorized Honda dealership in Kamareddy, Telangana. Shop Honda Activa, SP Shine, Unicorn & more with genuine service and easy finance."
 description_te: "ప్రకాష్ ఆటో హోండా — కామారెడ్డిలో అధీకృత హోండా డీలర్. యాక్టివా, షైన్, యూనికార్న్ మరియు మరెన్నో."

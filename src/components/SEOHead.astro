@@ -67,5 +67,9 @@ const schema = {
 <meta name="geo.position" content="18.3220;78.3404" />
 <meta name="ICBM" content="18.3220, 78.3404" />
 
+<!-- Hreflang — signals English content with x-default fallback -->
+<link rel="alternate" hreflang="en" href={canonical} />
+<link rel="alternate" hreflang="x-default" href={canonical} />
+
 <!-- JSON-LD Structured Data — set:html renders parsed JSON, not literal expression -->
 <script type="application/ld+json" set:html={JSON.stringify(schema)} />
