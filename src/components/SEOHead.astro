@@ -1,4 +1,4 @@
-﻿---
+---
 // SEOHead.astro - Prakash Auto Honda
 const {
   title = "Prakash Auto Honda | Authorized Honda Dealer in Kamareddy, Telangana",
@@ -6,6 +6,37 @@ const {
   canonical = Astro.url.href,
   image = "/og-image.jpg",
 } = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "AutoDealer",
+  "name": "Prakash Auto Honda",
+  "url": "https://www.prakashautohonda.com",
+  "logo": "https://www.prakashautohonda.com/logo.png",
+  "image": "https://www.prakashautohonda.com/og-image.jpg",
+  "description": "Authorized Honda dealership in Kamareddy, Telangana. New Honda two-wheelers, service, and genuine spare parts.",
+  "telephone": "+91-8886604615",
+  "brand": { "@type": "Brand", "name": "Honda" },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kamareddy Main Road",
+    "addressLocality": "Kamareddy",
+    "addressRegion": "Telangana",
+    "postalCode": "503111",
+    "addressCountry": "IN"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 18.3220, "longitude": 78.3404 },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "09:00",
+    "closes": "19:00"
+  }],
+  "sameAs": [
+    "https://www.facebook.com/prakashautohonda",
+    "https://www.instagram.com/prakashautohonda"
+  ]
+};
 ---
 <title>{title}</title>
 <meta name="description" content={description} />
@@ -36,32 +67,5 @@ const {
 <meta name="geo.position" content="18.3220;78.3404" />
 <meta name="ICBM" content="18.3220, 78.3404" />
 
-<!-- JSON-LD Structured Data -->
-<script type="application/ld+json">
-{JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "AutoDealer",
-  "name": "Prakash Auto Honda",
-  "url": "https://www.prakashautohonda.com",
-  "logo": "https://www.prakashautohonda.com/logo.png",
-  "image": "https://www.prakashautohonda.com/og-image.jpg",
-  "description": "Authorized Honda dealership in Kamareddy, Telangana. New Honda cars, service, and genuine spare parts.",
-  "telephone": "+91-8886604615",
-  "brand": { "@type": "Brand", "name": "Honda" },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Kamareddy",
-    "addressLocality": "Kamareddy",
-    "addressRegion": "Telangana",
-    "postalCode": "503111",
-    "addressCountry": "IN"
-  },
-  "geo": { "@type": "GeoCoordinates", "latitude": 18.3220, "longitude": 78.3404 },
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-    "opens": "09:00", "closes": "19:00"
-  }],
-  "sameAs": ["https://www.facebook.com/prakashautohonda","https://www.instagram.com/prakashautohonda"]
-})}
-</script>
+<!-- JSON-LD Structured Data — set:html renders parsed JSON, not literal expression -->
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />
