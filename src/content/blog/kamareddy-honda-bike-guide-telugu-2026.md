@@ -1,7 +1,7 @@
 ---
 title: "కామారెడ్డిలో హోండా బైక్ కొనాలా? 2026 పూర్తి గైడ్"
 title_te: "కామారెడ్డిలో హోండా బైక్ కొనాలా? 2026 పూర్తి గైడ్"
-"2026-03-13"
+date: "2026-03-13"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

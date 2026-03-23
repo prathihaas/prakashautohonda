@@ -1,7 +1,7 @@
 ---
 title: "Honda Bikes in Kamareddy 2026 — Complete Buyer's Guide"
 title_te: "కామారెడ్డిలో హోండా బైక్స్ 2026 — పూర్తి కొనుగోలు గైడ్"
-"2026-02-19"
+date: "2026-02-19"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

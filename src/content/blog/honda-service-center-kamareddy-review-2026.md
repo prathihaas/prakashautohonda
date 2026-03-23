@@ -1,7 +1,7 @@
 ---
 title: "Honda Service Center Kamareddy — What Customers Say 2026"
 title_te: "కామారెడ్డి Honda Service Center — కస్టమర్లు ఏమంటున్నారు 2026"
-"2026-03-02"
+date: "2026-03-02"
 author: "Prakash Auto Honda Team"
 category: "Tips"
 tags:

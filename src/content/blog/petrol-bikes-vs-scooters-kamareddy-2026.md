@@ -1,7 +1,7 @@
 ---
 title: "Petrol Bikes vs Scooters in Kamareddy 2026 — Which Makes Sense?"
 title_te: "కామారెడ్డిలో Petrol Bikes vs Scooters 2026 — ఏది సెన్స్ అవుతుంది?"
-"2026-03-14"
+date: "2026-03-14"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

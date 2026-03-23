@@ -1,7 +1,7 @@
 ---
 title: "Best Bike for College Students in Kamareddy 2026"
 title_te: "కామారెడ్డిలో కాలేజీ స్టూడెంట్లకు బెస్ట్ బైక్ 2026"
-"2026-02-09"
+date: "2026-02-09"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

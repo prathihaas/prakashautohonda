@@ -1,7 +1,7 @@
 ---
 title: "Honda Activa vs TVS Jupiter — Which Wins in Kamareddy 2026?"
 title_te: "Honda Activa vs TVS Jupiter — కామారెడ్డిలో ఏది గెలుస్తుంది 2026?"
-"2026-02-18"
+date: "2026-02-18"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:
