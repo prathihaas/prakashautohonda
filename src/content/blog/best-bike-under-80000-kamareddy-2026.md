@@ -1,7 +1,7 @@
 ---
 title: "Best Bike Under ₹80,000 in Kamareddy 2026 — Top 5 Picks"
 title_te: "కామారెడ్డిలో ₹80,000 లోపు బెస్ట్ బైక్ 2026 — టాప్ 5 Picks"
-"2026-02-11"
+"2026-02-11"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

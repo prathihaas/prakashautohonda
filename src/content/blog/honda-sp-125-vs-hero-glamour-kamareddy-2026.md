@@ -1,7 +1,7 @@
 ---
 title: "Honda SP 125 vs Hero Glamour — Kamareddy Comparison 2026"
 title_te: "Honda SP 125 vs Hero Glamour — కామారెడ్డి పోలిక 2026"
-"2026-03-05"
+"2026-03-05"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:

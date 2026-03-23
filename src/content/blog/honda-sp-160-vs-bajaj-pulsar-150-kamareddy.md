@@ -1,7 +1,7 @@
 ---
 title: "Honda SP 160 vs Bajaj Pulsar 150 — Kamareddy 2026 Guide"
 title_te: "Honda SP 160 vs Bajaj Pulsar 150 — కామారెడ్డి 2026 గైడ్"
-"2026-03-06"
+"2026-03-06"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:

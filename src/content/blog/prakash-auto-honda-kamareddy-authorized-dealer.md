@@ -1,7 +1,7 @@
 ---
 title: "Prakash Auto Honda Kamareddy — Your Authorized Honda Dealer"
 title_te: "Prakash Auto Honda కామారెడ్డి — మీ అధికారిక హోండా డీలర్"
-"2026-03-15"
+"2026-03-15"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

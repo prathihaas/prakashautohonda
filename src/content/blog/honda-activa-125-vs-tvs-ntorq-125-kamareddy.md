@@ -1,7 +1,7 @@
 ---
 title: "Honda Activa 125 vs TVS NTorq 125 in Kamareddy 2026"
 title_te: "కామారెడ్డిలో Honda Activa 125 vs TVS NTorq 125 — 2026 పోలిక"
-"2026-02-15"
+"2026-02-15"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Honda vs Hero vs Bajaj — Which Brand Wins in Kamareddy 2026?"
 title_te: "Honda vs Hero vs Bajaj — కామారెడ్డిలో ఏ బ్రాండ్ గెలుస్తుంది 2026?"
-"2026-03-10"
+"2026-03-10"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:

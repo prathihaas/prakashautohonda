@@ -1,7 +1,7 @@
 ---
 title: "Best Scooter in Kamareddy 2026 — Activa vs Dio vs Jupiter"
 title_te: "కామారెడ్డిలో బెస్ట్ స్కూటర్ 2026 — Activa vs Dio vs Jupiter"
-"2026-02-13"
+"2026-02-13"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:

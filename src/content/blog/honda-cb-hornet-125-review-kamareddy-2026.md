@@ -1,7 +1,7 @@
 ---
 title: "Honda CB Hornet 125 Review — Kamareddy Riders Verdict 2026"
 title_te: "Honda CB Hornet 125 Review — కామారెడ్డి రైడర్ల నిర్ణయం 2026"
-"2026-02-22"
+"2026-02-22"
 author: "Prakash Auto Honda Team"
 category: "Review"
 tags:

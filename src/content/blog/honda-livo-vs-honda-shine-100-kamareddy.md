@@ -1,7 +1,7 @@
 ---
 title: "Honda Livo vs Honda Shine 100 — Which to Buy in Kamareddy?"
 title_te: "Honda Livo vs Honda Shine 100 — కామారెడ్డిలో ఏది కొనాలి?"
-"2026-03-01"
+"2026-03-01"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:
