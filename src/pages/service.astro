@@ -1,0 +1,285 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "AutoRepair",
+  "name": "Prakash Auto Honda — Authorized Honda Service Center, Kamareddy",
+  "url": "https://www.prakashautohonda.com/service",
+  "telephone": "+91-8886604615",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Kamareddy",
+    "addressRegion": "Telangana",
+    "postalCode": "503111",
+    "addressCountry": "IN"
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "09:00",
+    "closes": "19:00"
+  }],
+  "brand": { "@type": "Brand", "name": "Honda" },
+  "parentOrganization": { "@type": "AutoDealer", "name": "Prakash Auto Honda", "url": "https://www.prakashautohonda.com" }
+};
+---
+
+<Layout title="Honda Service Center Kamareddy | Prakash Auto Honda" description="Authorized Honda two-wheeler service center in Kamareddy. Expert technicians, genuine parts, AMC plans, free service. Book your Honda bike service via WhatsApp.">
+  <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} />
+
+  <div class="pt-28 pb-20 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+
+      <!-- Hero -->
+      <div class="text-center mb-12">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-100 text-red-700 mb-4">
+          <span class="text-xs font-bold uppercase tracking-wider">Authorized Honda Service</span>
+        </div>
+        <h1 class="text-4xl md:text-5xl font-black text-gray-900 mb-4">Honda Service Center <br class="hidden md:block">in Kamareddy</h1>
+        <p class="text-lg text-gray-600 max-w-2xl mx-auto mb-4">Prakash Auto Honda is the only authorized Honda two-wheeler service center in Kamareddy, Telangana. Factory-trained technicians, genuine Honda spare parts, and transparent pricing — no surprises.</p>
+        <p class="text-base text-gray-500 font-noto mb-8">కామారెడ్డిలో అధీకృత హోండా సర్వీస్ సెంటర్ — నిపుణులు, అసలైన పార్ట్స్, పారదర్శక ధరలు.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="https://wa.me/918886604615?text=Hi%2C%20I%20want%20to%20book%20a%20service%20for%20my%20Honda%20bike.%20%5BW-PA%5D" target="_blank"
+             class="inline-flex items-center justify-center gap-2 bg-[#25D366] text-white px-7 py-3 rounded-xl font-bold text-lg hover:bg-green-600 transition shadow-lg">
+            📱 Book Service via WhatsApp
+          </a>
+          <a href="tel:+918886604615"
+             class="inline-flex items-center justify-center gap-2 bg-red-600 text-white px-7 py-3 rounded-xl font-bold text-lg hover:bg-red-700 transition shadow-lg">
+            📞 Call: 8886604615
+          </a>
+        </div>
+      </div>
+
+      <!-- Why Authorized Service -->
+      <div class="bg-red-50 rounded-2xl p-8 mb-10">
+        <h2 class="text-2xl font-black text-gray-900 mb-2">Why Choose Authorized Honda Service?</h2>
+        <p class="text-gray-600 mb-6">Many riders in Kamareddy district take their Honda bikes to local roadside mechanics to save money — but this costs more in the long run. Here's why authorized service at Prakash Auto Honda is the smarter choice.</p>
+        <div class="grid md:grid-cols-2 gap-4">
+          <div class="flex items-start gap-3">
+            <span class="text-red-600 font-bold text-lg mt-1">✓</span>
+            <div><strong>Genuine Honda Spare Parts</strong> — factory-sourced, warranty-backed parts only. No duplicate or local substitutes that silently damage your engine or brakes.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-red-600 font-bold text-lg mt-1">✓</span>
+            <div><strong>Factory-Trained Technicians</strong> — Honda-certified mechanics who know every model from Activa 6G to CB Unicorn 160 inside out.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-red-600 font-bold text-lg mt-1">✓</span>
+            <div><strong>Warranty Protection</strong> — servicing at an unauthorized shop voids your Honda warranty. Regular authorized service keeps your warranty valid for the full 2-year period.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-red-600 font-bold text-lg mt-1">✓</span>
+            <div><strong>Digital Service Record</strong> — all service history maintained in Honda's nationwide system, which significantly boosts resale value when you sell.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-red-600 font-bold text-lg mt-1">✓</span>
+            <div><strong>Transparent Billing</strong> — itemized invoice for every job. You see exactly what parts were replaced and what labour was charged. No inflated bills.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-red-600 font-bold text-lg mt-1">✓</span>
+            <div><strong>Quick Turnaround</strong> — most standard services completed the same day. We value your time as much as you do.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Service Schedule -->
+      <div class="mb-10">
+        <h2 class="text-2xl font-black text-gray-900 mb-2">Honda Bike Service Schedule</h2>
+        <p class="text-gray-600 mb-4">Honda recommends servicing your two-wheeler every <strong>3,000 km or 3 months</strong>, whichever comes first. New bikes get free services in the first year — don't miss them, they're critical for engine break-in.</p>
+        <div class="overflow-x-auto rounded-xl border border-gray-200">
+          <table class="w-full border-collapse">
+            <thead>
+              <tr class="bg-red-600 text-white">
+                <th class="p-3 text-left text-sm font-bold">Service</th>
+                <th class="p-3 text-left text-sm font-bold">At KM / Period</th>
+                <th class="p-3 text-left text-sm font-bold">Type</th>
+                <th class="p-3 text-left text-sm font-bold">Approx Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-100">
+                <td class="p-3 font-semibold">1st Free Service</td>
+                <td class="p-3">500–1,000 km / 1 month</td>
+                <td class="p-3 text-green-600 font-bold">FREE</td>
+                <td class="p-3">₹0 (consumables extra if needed)</td>
+              </tr>
+              <tr class="border-b border-gray-100 bg-gray-50">
+                <td class="p-3 font-semibold">2nd Free Service</td>
+                <td class="p-3">3,000 km / 3 months</td>
+                <td class="p-3 text-green-600 font-bold">FREE</td>
+                <td class="p-3">₹0</td>
+              </tr>
+              <tr class="border-b border-gray-100">
+                <td class="p-3 font-semibold">3rd Free Service</td>
+                <td class="p-3">6,000 km / 6 months</td>
+                <td class="p-3 text-green-600 font-bold">FREE</td>
+                <td class="p-3">₹0</td>
+              </tr>
+              <tr class="border-b border-gray-100 bg-gray-50">
+                <td class="p-3 font-semibold">Regular Service</td>
+                <td class="p-3">Every 3,000 km / 3 months</td>
+                <td class="p-3">Paid</td>
+                <td class="p-3">₹450–₹800</td>
+              </tr>
+              <tr class="border-b border-gray-100">
+                <td class="p-3 font-semibold">Full Service</td>
+                <td class="p-3">Every 12,000 km / 1 year</td>
+                <td class="p-3">Paid</td>
+                <td class="p-3">₹1,500–₹2,500</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-sm text-gray-500 mt-2">* Costs are approximate and vary by model. Labour charges only — spare parts billed separately at Honda MRP.</p>
+      </div>
+
+      <!-- Services Offered -->
+      <div class="mb-10">
+        <h2 class="text-2xl font-black text-gray-900 mb-2">Services We Offer</h2>
+        <p class="text-gray-600 mb-4">From a quick oil change to full engine overhaul, our Honda-certified service bay handles everything your two-wheeler needs.</p>
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          {[
+            "Engine oil change & filter",
+            "Air filter cleaning / replacement",
+            "Brake inspection & adjustment",
+            "Chain lubrication & adjustment",
+            "Tyre pressure check & rotation",
+            "Battery check & replacement",
+            "Electrical system diagnostics",
+            "Carburetor / PGM-FI tune-up",
+            "Spark plug replacement",
+            "Coolant flush (liquid-cooled models)",
+            "Body wash & polish",
+            "Accident repair & insurance claim",
+            "Genuine Honda spare parts",
+            "Annual Maintenance Contract (AMC)",
+          ].map(service => (
+            <div class="flex items-center gap-2 bg-gray-50 rounded-lg p-3 text-sm font-medium text-gray-700">
+              <span class="text-red-500 flex-shrink-0">●</span> {service}
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- Models We Service -->
+      <div class="mb-10">
+        <h2 class="text-2xl font-black text-gray-900 mb-2">Honda Models We Service</h2>
+        <p class="text-gray-600 mb-4">We service the complete Honda two-wheeler lineup — scooters, commuter bikes, and sports bikes.</p>
+        <div class="flex flex-wrap gap-2">
+          {[
+            "Honda Activa 6G", "Honda Activa 125", "Honda Dio", "Honda Grazia",
+            "Honda SP 125", "Honda Shine", "Honda CB Unicorn 160",
+            "Honda Hornet 2.0", "Honda CB300R", "Honda H'Ness CB350",
+            "Honda Cliq", "Honda Navi", "Honda CD 110 Dream",
+          ].map(model => (
+            <span class="bg-red-50 text-red-700 px-3 py-1 rounded-full text-sm font-semibold border border-red-100">{model}</span>
+          ))}
+        </div>
+      </div>
+
+      <!-- AMC -->
+      <div class="bg-gray-900 text-white rounded-2xl p-8 mb-10">
+        <h2 class="text-2xl font-black mb-3">Annual Maintenance Contract (AMC)</h2>
+        <p class="text-gray-300 mb-4">Our Honda AMC plan is ideal for daily commuters and business riders who clock high mileage. One fixed annual payment covers all scheduled services — no surprise bills, priority booking slots, and 10% discount on Honda spare parts throughout the year.</p>
+        <div class="grid sm:grid-cols-3 gap-4 mb-6">
+          <div class="bg-white/10 rounded-xl p-4 text-center">
+            <p class="font-black text-lg">Basic AMC</p>
+            <p class="text-2xl font-black text-red-400 mt-1">₹1,999</p>
+            <p class="text-gray-400 text-sm mt-1">3 services/year</p>
+          </div>
+          <div class="bg-white/10 rounded-xl p-4 text-center border-2 border-red-500">
+            <p class="font-black text-lg">Standard AMC</p>
+            <p class="text-2xl font-black text-red-400 mt-1">₹2,999</p>
+            <p class="text-gray-400 text-sm mt-1">4 services + priority</p>
+          </div>
+          <div class="bg-white/10 rounded-xl p-4 text-center">
+            <p class="font-black text-lg">Premium AMC</p>
+            <p class="text-2xl font-black text-red-400 mt-1">₹3,999</p>
+            <p class="text-gray-400 text-sm mt-1">Unlimited services</p>
+          </div>
+        </div>
+        <a href="https://wa.me/918886604615?text=Hi%2C%20I%20want%20to%20know%20about%20Honda%20AMC%20plans.%20%5BW-PA%5D" target="_blank"
+           class="inline-flex items-center gap-2 bg-white text-gray-900 px-6 py-3 rounded-xl font-bold hover:bg-gray-100 transition">
+          WhatsApp for AMC Details →
+        </a>
+      </div>
+
+      <!-- Location & Hours -->
+      <div class="border border-gray-200 rounded-2xl p-8 mb-10">
+        <h2 class="text-2xl font-black text-gray-900 mb-4">Service Center Location & Hours</h2>
+        <div class="grid md:grid-cols-2 gap-6">
+          <div>
+            <h3 class="font-bold text-gray-700 mb-2">📍 Address</h3>
+            <p class="text-gray-600">Prakash Auto Honda<br>Kamareddy, Telangana 503111<br>(Near NH44, Kamareddy Town)</p>
+            <p class="font-noto text-gray-500 mt-2">ప్రకాష్ ఆటో హోండా, కామారెడ్డి, తెలంగాణ</p>
+            <a href="https://www.google.com/maps/search/Prakash+Auto+Honda+Kamareddy" target="_blank"
+               class="inline-flex items-center gap-1 text-red-600 font-semibold text-sm mt-3 hover:text-red-700">
+              Get Directions on Google Maps →
+            </a>
+          </div>
+          <div>
+            <h3 class="font-bold text-gray-700 mb-2">🕐 Service Hours</h3>
+            <div class="space-y-2 text-gray-600">
+              <div class="flex justify-between"><span>Monday – Saturday</span><span class="font-bold text-red-600">9:00 AM – 7:00 PM</span></div>
+              <div class="flex justify-between"><span>Sunday</span><span class="text-gray-400">Closed</span></div>
+            </div>
+            <p class="text-gray-500 mt-3 text-sm">Walk-ins welcome. WhatsApp for priority slot booking and reduced wait times.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Areas Served -->
+      <div class="mb-10">
+        <h2 class="text-2xl font-black text-gray-900 mb-2">Serving Honda Owners Across Kamareddy District</h2>
+        <p class="text-gray-600 mb-4">Customers ride from across the district to service their Honda at our authorized center. We are the only Honda-authorized service facility within 50 km of Kamareddy — riders from Banswada, Yellareddy, Bibipet, and Nizamsagar regularly visit us for guaranteed quality.</p>
+        <div class="flex flex-wrap gap-2">
+          {["Kamareddy", "Banswada", "Nizamsagar", "Yellareddy", "Bibipet", "Pitlam", "Tadwai", "Dharpally", "Bheemgal", "Varni", "Domakonda", "Sadasivanagar"].map(area => (
+            <span class="bg-red-50 text-red-700 px-3 py-1 rounded-full text-sm font-semibold">{area}</span>
+          ))}
+        </div>
+      </div>
+
+      <!-- FAQ -->
+      <div class="mb-10">
+        <h2 class="text-2xl font-black text-gray-900 mb-4">Frequently Asked Questions</h2>
+        <div class="space-y-4">
+          <div class="border border-gray-200 rounded-xl p-5">
+            <h3 class="font-bold text-gray-900 mb-2">Do I need to book an appointment for Honda service?</h3>
+            <p class="text-gray-600 text-sm">Walk-ins are always welcome, but we recommend booking via WhatsApp to get a priority slot and avoid waiting. Send us a message and we'll confirm a time within 30 minutes.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-5">
+            <h3 class="font-bold text-gray-900 mb-2">How long does a regular Honda service take?</h3>
+            <p class="text-gray-600 text-sm">A standard service (oil change, filter check, chain adjustment, brake inspection) typically takes 1–2 hours. Full service with parts replacement may take 3–4 hours. We'll give you an accurate estimate when you drop off your bike.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-5">
+            <h3 class="font-bold text-gray-900 mb-2">Will servicing here void my Honda warranty?</h3>
+            <p class="text-gray-600 text-sm">No — servicing at Prakash Auto Honda is servicing at an authorized Honda center. Your warranty remains fully intact. In fact, skipping authorized service or going to an unauthorized shop is what voids your warranty.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-5">
+            <h3 class="font-bold text-gray-900 mb-2">Do you use genuine Honda spare parts?</h3>
+            <p class="text-gray-600 text-sm">Yes, 100%. As an authorized Honda dealer, we are required to use only genuine Honda parts sourced directly from Honda Motorcycle & Scooter India (HMSI). Each part comes with a manufacturer's warranty.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Final CTA -->
+      <div class="bg-red-600 text-white rounded-2xl p-8 text-center">
+        <h2 class="text-2xl font-black mb-2">Book Your Honda Service Today</h2>
+        <p class="text-red-100 mb-2">Don't wait for a breakdown. Regular authorized service keeps your Honda running at peak performance and protects your warranty.</p>
+        <p class="font-noto text-red-200 mb-6">మీ హోండా బైక్ సర్వీస్ ఇప్పుడే బుక్ చేయండి.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="https://wa.me/918886604615?text=Hi%2C%20I%20want%20to%20book%20a%20service%20for%20my%20Honda.%20%5BW-PA%5D" target="_blank"
+             class="inline-flex items-center justify-center gap-2 bg-white text-red-600 px-6 py-3 rounded-xl font-bold hover:bg-red-50 transition">
+            📱 WhatsApp to Book
+          </a>
+          <a href="tel:+918886604615"
+             class="inline-flex items-center justify-center gap-2 border-2 border-white text-white px-6 py-3 rounded-xl font-bold hover:bg-red-700 transition">
+            📞 Call 8886604615
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</Layout>
