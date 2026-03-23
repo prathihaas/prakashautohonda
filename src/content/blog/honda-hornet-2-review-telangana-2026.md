@@ -1,7 +1,7 @@
 ---
 title: "Honda Hornet 2.0 — Sports Commuter Review for Telangana 2026"
 title_te: "Honda Hornet 2.0 — తెలంగాణకు Sports Commuter Review 2026"
-date: "2026-03-18"
+"2026-02-27"
 author: "Prakash Auto Honda Team"
 category: "Review"
 tags:

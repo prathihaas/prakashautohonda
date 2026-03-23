@@ -1,7 +1,7 @@
 ---
 title: "Honda Shine 100 vs Hero Splendor Plus — Kamareddy 2026"
 title_te: "Honda Shine 100 vs Hero Splendor Plus — కామారెడ్డి 2026"
-date: "2026-03-18"
+"2026-03-03"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:

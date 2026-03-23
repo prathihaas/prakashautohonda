@@ -1,7 +1,7 @@
 ---
 title: "Honda Activa Price in Kamareddy 2026 — On-Road Details"
 title_te: "కామారెడ్డిలో Honda Activa ధర 2026 — On-Road వివరాలు"
-date: "2026-03-18"
+"2026-02-17"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

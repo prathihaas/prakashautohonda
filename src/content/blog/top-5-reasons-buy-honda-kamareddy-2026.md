@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Reasons to Buy Honda in Kamareddy — 2026 Guide"
 title_te: "కామారెడ్డిలో Honda కొనడానికి టాప్ 5 కారణాలు — 2026 గైడ్"
-date: "2026-03-18"
+"2026-03-17"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Honda CB200X Adventure Bike — Review for Telangana Roads 2026"
 title_te: "Honda CB200X Adventure Bike — తెలంగాణ రోడ్లకు Review 2026"
-date: "2026-03-18"
+"2026-02-23"
 author: "Prakash Auto Honda Team"
 category: "Review"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Honda Dio 125 vs Suzuki Access 125 — Kamareddy 2026"
 title_te: "Honda Dio 125 vs Suzuki Access 125 — కామారెడ్డి 2026"
-date: "2026-03-18"
+"2026-02-25"
 author: "Prakash Auto Honda Team"
 category: "Comparison"
 tags:
