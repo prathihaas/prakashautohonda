@@ -1,0 +1,237 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = "About Prakash Auto Honda | Authorized Honda Dealer Kamareddy";
+const description = "Prakash Auto Honda — Kamareddy's authorized Honda two-wheeler dealer. Learn about our history, credentials, team, and commitment to Honda excellence since our founding.";
+
+const aboutSchema = {
+  "@context": "https://schema.org",
+  "@type": "AutoDealer",
+  "name": "Prakash Auto Honda",
+  "url": "https://www.prakashautohonda.com/about",
+  "telephone": "+91-8886604615",
+  "description": "Authorized Honda Motorcycle & Scooter India (HMSI) dealership in Kamareddy, Telangana. Sales, service, and genuine spare parts for all Honda two-wheelers.",
+  "brand": { "@type": "Brand", "name": "Honda" },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Kamareddy",
+    "addressRegion": "Telangana",
+    "postalCode": "503111",
+    "addressCountry": "IN"
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "09:00",
+    "closes": "19:00"
+  }],
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Honda Motorcycle & Scooter India Pvt. Ltd.",
+    "url": "https://www.honda2wheelersindia.com"
+  }
+};
+---
+
+<Layout title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(aboutSchema)} />
+
+  <main class="pt-28 pb-20 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Page Header -->
+      <div class="mb-12">
+        <a href="/" class="inline-flex items-center gap-2 text-red-600 font-semibold mb-6 hover:text-red-700 transition text-sm">
+          ← Back to Home
+        </a>
+        <h1 class="text-4xl md:text-5xl font-black tracking-tight text-gray-900 mb-3">
+          About Prakash Auto Honda
+        </h1>
+        <h2 class="font-noto text-2xl font-bold text-gray-500 mb-4">
+          ప్రకాష్ ఆటో హోండా గురించి
+        </h2>
+        <p class="text-lg text-gray-600 max-w-3xl">
+          Kamareddy's trusted authorized Honda two-wheeler dealership — serving the district with genuine Honda bikes, scooters, and authorized service since our founding. We are the go-to Honda dealer for riders across Kamareddy, Banswada, Yellareddy, and the surrounding region.
+        </p>
+      </div>
+
+      <!-- Our Story + Stats -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16 items-center">
+        <div>
+          <h2 class="text-2xl font-black text-gray-900 uppercase mb-4">Our Story</h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed">
+            <p>Prakash Auto Honda was established with a clear purpose: to bring world-class Honda two-wheelers to the people of Kamareddy district with the trust, service quality, and after-sales support that Honda buyers deserve.</p>
+            <p>Starting from our showroom in Kamareddy town — conveniently located near NH44 — we built our reputation on transparency, genuine products, and technicians who treat every customer's bike as if it were their own.</p>
+            <p>Over the years, we've helped thousands of families in Kamareddy, Banswada, Yellareddy, Nizamsagar, and surrounding mandals get onto their first Honda scooter, upgrade to a commuter bike, or service a machine they've trusted for a decade.</p>
+            <p>Today, Prakash Auto Honda is Kamareddy district's most trusted Honda showroom — a full-service authorized Honda dealership covering sales, service, spare parts, and finance assistance under one roof.</p>
+          </div>
+          <p class="font-noto text-gray-500 mt-4">మేము కామారెడ్డి జిల్లా ప్రజలకు అధికారిక హోండా సేవలు అందిస్తున్నాము.</p>
+        </div>
+        <div class="bg-red-600 rounded-2xl p-10 text-white text-center">
+          <div class="grid grid-cols-2 gap-8">
+            <div>
+              <p class="text-4xl font-black text-white">10+</p>
+              <p class="text-sm font-bold uppercase tracking-wide mt-1 text-red-100">Years Serving Kamareddy</p>
+              <p class="font-noto text-red-200 text-xs mt-1">సంవత్సరాల అనుభవం</p>
+            </div>
+            <div>
+              <p class="text-4xl font-black text-white">5000+</p>
+              <p class="text-sm font-bold uppercase tracking-wide mt-1 text-red-100">Happy Customers</p>
+              <p class="font-noto text-red-200 text-xs mt-1">సంతుష్ట కస్టమర్లు</p>
+            </div>
+            <div>
+              <p class="text-4xl font-black text-white">15+</p>
+              <p class="text-sm font-bold uppercase tracking-wide mt-1 text-red-100">Honda Models Available</p>
+              <p class="font-noto text-red-200 text-xs mt-1">హోండా మోడళ్లు</p>
+            </div>
+            <div>
+              <p class="text-4xl font-black text-white">1</p>
+              <p class="text-sm font-bold uppercase tracking-wide mt-1 text-red-100">Authorized Honda Dealer in Kamareddy</p>
+              <p class="font-noto text-red-200 text-xs mt-1">అధికారిక డీలర్</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Authorization & Credentials -->
+      <div class="bg-gray-50 rounded-2xl p-8 mb-12 border border-gray-100">
+        <h2 class="text-2xl font-black text-gray-900 uppercase mb-6">Honda Authorization & Credentials</h2>
+        <p class="text-gray-600 mb-6">Prakash Auto Honda holds an official dealership authorization from <strong>Honda Motorcycle & Scooter India Pvt. Ltd. (HMSI)</strong> — the Indian subsidiary of Honda Motor Co., Japan. This authorization is not easy to obtain and comes with strict requirements for showroom quality, technician training, parts authenticity, and customer satisfaction standards.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+          <div class="text-center">
+            <div class="w-14 h-14 bg-red-600 rounded-xl flex items-center justify-center mx-auto mb-3">
+              <span class="text-white text-2xl font-black">★</span>
+            </div>
+            <p class="font-bold text-gray-800">Authorized Honda Dealer</p>
+            <p class="text-gray-500 text-sm mt-1">Official HMSI dealership license — authorized to sell all Honda two-wheeler models and operate an authorized service center in Kamareddy.</p>
+          </div>
+          <div class="text-center">
+            <div class="w-14 h-14 bg-red-600 rounded-xl flex items-center justify-center mx-auto mb-3">
+              <span class="text-white text-2xl font-black">⚙</span>
+            </div>
+            <p class="font-bold text-gray-800">Certified Service Team</p>
+            <p class="text-gray-500 text-sm mt-1">All service technicians are trained and certified by Honda through HMSI's official technical training programs.</p>
+          </div>
+          <div class="text-center">
+            <div class="w-14 h-14 bg-red-600 rounded-xl flex items-center justify-center mx-auto mb-3">
+              <span class="text-white text-2xl font-black">✓</span>
+            </div>
+            <p class="font-bold text-gray-800">Genuine Parts Authorized</p>
+            <p class="text-gray-500 text-sm mt-1">Direct supply chain from Honda India — 100% genuine parts with manufacturer warranty at every service and sale.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- What Makes Us Different -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-gray-900 uppercase mb-4">What Makes Us Different</h2>
+        <p class="text-gray-600 mb-6">There are other two-wheeler shops in Kamareddy. Here's why customers consistently choose Prakash Auto Honda for their Honda purchase and service needs.</p>
+        <div class="grid md:grid-cols-2 gap-5">
+          <div class="border border-gray-200 rounded-xl p-6 hover:border-red-300 hover:bg-red-50 transition">
+            <h3 class="font-black text-gray-900 mb-2">100% Genuine Honda Products</h3>
+            <p class="text-gray-600 text-sm">Every bike, every spare part, every accessory we sell comes directly from Honda India. We never stock or install non-genuine parts — not to save cost, and not when you ask. Your Honda stays Honda.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-6 hover:border-red-300 hover:bg-red-50 transition">
+            <h3 class="font-black text-gray-900 mb-2">Transparent Pricing, Always</h3>
+            <p class="text-gray-600 text-sm">We display Honda's official on-road price with all charges itemized. Service invoices show exact part numbers, Honda MRP, and labour charges. No hidden additions, no ambiguity.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-6 hover:border-red-300 hover:bg-red-50 transition">
+            <h3 class="font-black text-gray-900 mb-2">Finance & Zero Down-Payment Options</h3>
+            <p class="text-gray-600 text-sm">We work with leading NBFCs and banks to offer flexible EMI plans. Many customers in Kamareddy drive home on a Honda with zero down payment — we'll help you find the right scheme for your income.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-6 hover:border-red-300 hover:bg-red-50 transition">
+            <h3 class="font-black text-gray-900 mb-2">WhatsApp-First Support</h3>
+            <p class="text-gray-600 text-sm">Our team is available on WhatsApp for bookings, service queries, price checks, and support. You don't need to drive to the showroom to get answers — message us and we respond quickly.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-6 hover:border-red-300 hover:bg-red-50 transition">
+            <h3 class="font-black text-gray-900 mb-2">Free Services Don't Expire Unused</h3>
+            <p class="text-gray-600 text-sm">We proactively remind customers about their upcoming free service slots via WhatsApp. You paid for 3 free services when you bought your Honda — we make sure you actually use all of them.</p>
+          </div>
+          <div class="border border-gray-200 rounded-xl p-6 hover:border-red-300 hover:bg-red-50 transition">
+            <h3 class="font-black text-gray-900 mb-2">Local Knowledge, Global Standards</h3>
+            <p class="text-gray-600 text-sm">We understand the roads, terrain, and riding conditions of Kamareddy district. We give honest advice on which Honda model suits your daily commute, farm access roads, or school run — not just what's highest margin for us.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Products We Sell -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-gray-900 uppercase mb-4">Honda Models Available at Our Showroom</h2>
+        <p class="text-gray-600 mb-4">We stock the complete Honda two-wheeler lineup — scooters for the city, commuter bikes for daily use, and premium motorcycles for enthusiasts.</p>
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          {[
+            { name: "Honda Activa 6G", type: "Scooter", slug: "activa-6g" },
+            { name: "Honda Activa 125", type: "Premium Scooter", slug: "activa-125" },
+            { name: "Honda Dio", type: "Sporty Scooter", slug: "dio" },
+            { name: "Honda SP 125", type: "Commuter Bike", slug: "sp-125" },
+            { name: "Honda Shine", type: "Commuter Bike", slug: "shine" },
+            { name: "Honda CB Unicorn 160", type: "Premium Commuter", slug: "unicorn-160" },
+            { name: "Honda Hornet 2.0", type: "Sports Bike", slug: "hornet-20" },
+            { name: "Honda CD 110 Dream", type: "Economy Bike", slug: "cd-110-dream" },
+            { name: "Honda Grazia", type: "Premium Scooter", slug: "grazia" },
+          ].map(product => (
+            <a href={`/products/${product.slug}`}
+               class="flex flex-col bg-gray-50 rounded-xl p-4 hover:bg-red-50 hover:border-red-200 border border-gray-100 transition">
+              <span class="font-bold text-gray-900 text-sm">{product.name}</span>
+              <span class="text-gray-400 text-xs mt-1">{product.type}</span>
+            </a>
+          ))}
+        </div>
+        <div class="mt-4">
+          <a href="/products" class="inline-flex items-center gap-2 text-red-600 font-bold hover:text-red-700 transition text-sm">
+            View All Honda Models →
+          </a>
+        </div>
+      </div>
+
+      <!-- Service Highlight -->
+      <div class="bg-gray-900 text-white rounded-2xl p-8 mb-12">
+        <h2 class="text-2xl font-black uppercase mb-3">Authorized Honda Service Center</h2>
+        <p class="text-gray-300 mb-4">Beyond selling Honda bikes, Prakash Auto Honda operates Kamareddy's only authorized Honda two-wheeler service center. Our certified technicians use Honda-approved tools and 100% genuine parts to keep your bike running at factory specifications.</p>
+        <ul class="text-gray-300 space-y-2 mb-6">
+          <li class="flex items-center gap-2"><span class="text-red-400">✓</span> 3 free services for all new Honda purchases</li>
+          <li class="flex items-center gap-2"><span class="text-red-400">✓</span> Annual Maintenance Contract (AMC) plans</li>
+          <li class="flex items-center gap-2"><span class="text-red-400">✓</span> Accident repair and insurance claim processing</li>
+          <li class="flex items-center gap-2"><span class="text-red-400">✓</span> Quick turnaround — most services same day</li>
+        </ul>
+        <a href="/service" class="inline-flex items-center gap-2 bg-red-600 text-white px-6 py-3 rounded-xl font-bold hover:bg-red-700 transition">
+          Learn About Our Service Center →
+        </a>
+      </div>
+
+      <!-- Areas We Serve -->
+      <div class="bg-gray-50 rounded-2xl p-8 mb-12 border border-gray-100">
+        <h2 class="text-xl font-black text-gray-900 mb-4">Serving Kamareddy District & Nearby Areas</h2>
+        <p class="text-gray-600 mb-4">Riders come to Prakash Auto Honda from across Kamareddy district and beyond. We are the closest authorized Honda dealer for customers in:</p>
+        <div class="flex flex-wrap gap-2">
+          {['Kamareddy', 'Banswada', 'Yellareddy', 'Bibipet', 'Pitlam', 'Tadwai', 'Nizamsagar', 'Dharpally', 'Bheemgal', 'Varni', 'Domakonda', 'Sadasivanagar', 'Bhiknoor', 'Machareddy'].map(area => (
+            <span class="bg-white border border-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm font-medium">{area}</span>
+          ))}
+        </div>
+      </div>
+
+      <!-- Contact CTA -->
+      <div class="bg-red-600 rounded-2xl p-10 text-center text-white">
+        <h2 class="text-2xl font-black mb-2">Visit Prakash Auto Honda</h2>
+        <p class="font-noto text-lg font-bold text-white/70 mb-4">ప్రకాష్ ఆటో హోండాను సందర్శించండి</p>
+        <p class="text-white/80 max-w-lg mx-auto mb-2">Kamareddy, Telangana 503111 | Mon–Sat 9 AM–7 PM</p>
+        <p class="text-white/60 mb-8">Your trusted Honda partner in Kamareddy district.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="https://wa.me/918886604615?text=Hi%2C%20I%20want%20to%20visit%20Prakash%20Auto%20Honda%20showroom.%20%5BW-PA%5D" target="_blank"
+             class="inline-flex items-center justify-center gap-2 bg-white text-red-600 font-black px-8 py-3 rounded-xl hover:bg-gray-100 transition uppercase tracking-wide">
+            📱 WhatsApp Us
+          </a>
+          <a href="tel:+918886604615"
+             class="inline-flex items-center justify-center gap-2 bg-white/10 text-white font-bold px-8 py-3 rounded-xl hover:bg-white/20 transition border border-white/30">
+            📞 Call 8886604615
+          </a>
+          <a href="/products"
+             class="inline-flex items-center justify-center gap-2 bg-white/10 text-white font-bold px-8 py-3 rounded-xl hover:bg-white/20 transition border border-white/30">
+            View All Models
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+</Layout>
