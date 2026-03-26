@@ -11,9 +11,13 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
-const { name_en, name_te, price, whatsapp_message, seo_title, seo_description, featured_image } = entry.data;
+const { name_en, name_te, price, whatsapp_message, seo_title, seo_description, featured_image, mileage, category } = entry.data;
 
-// Extract numeric price for schema (e.g. "₹77,337 onwards" → "77337")
+const WA    = "https://wa.me/918886604615";
+const PHONE = "tel:+918886604615";
+const waMsg = whatsapp_message || `Hi Prakash Auto Honda, I am interested in ${name_en} in Kamareddy. Please share the best price.`;
+const waLink = `${WA}?text=${encodeURIComponent(waMsg)}`;
+
 const priceNumber = price ? price.replace(/[^0-9]/g, '').slice(0, 8) : undefined;
 
 const productSchema = {
@@ -39,41 +43,179 @@ const productSchema = {
     }
   } : {})
 };
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home",     "item": "https://www.prakashautohonda.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://www.prakashautohonda.com/products" },
+    { "@type": "ListItem", "position": 3, "name": name_en,    "item": `https://www.prakashautohonda.com/products/${entry.slug}` },
+  ]
+};
+
+const crossSellModels = [
+  { slug: "activa-125",  name: "Activa 125"  },
+  { slug: "activa-110",  name: "Activa 110"  },
+  { slug: "shine-125",   name: "Shine 125"   },
+  { slug: "sp-160",      name: "SP 160"      },
+  { slug: "unicorn",     name: "Unicorn"     },
+  { slug: "sp-125",      name: "SP 125"      },
+  { slug: "hornet-2-0",  name: "Hornet 2.0"  },
+  { slug: "dio-125",     name: "Dio 125"     },
+].filter(m => m.slug !== entry.slug);
 ---
 
 <Layout title={seo_title} description={seo_description}>
 
-  <!-- Product JSON-LD schema for rich results -->
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
-  <main class="max-w-7xl mx-auto px-4 py-12">
-    
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
-        <div>
-            <img src={featured_image} alt={name_en} class="rounded-2xl shadow-lg w-full object-cover aspect-video" />
+  <main class="max-w-5xl mx-auto px-4 py-10 pb-28 sm:pb-12">
+
+    <!-- Breadcrumb -->
+    <nav class="flex items-center gap-2 text-xs text-gray-400 mb-8 flex-wrap">
+      <a href="/" class="hover:text-red-600 transition">Honda Showroom Kamareddy</a>
+      <span>›</span>
+      <a href="/products" class="hover:text-red-600 transition">All Models</a>
+      <span>›</span>
+      <span class="text-gray-600 font-semibold">{name_en}</span>
+    </nav>
+
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+
+      <!-- LEFT: Image linked to WhatsApp (fixes dead click on image) -->
+      <div>
+        <a href={waLink} target="_blank" rel="noopener noreferrer" aria-label={`WhatsApp for ${name_en} best price`}>
+          <img
+            src={featured_image}
+            alt={`${name_en} — Honda Showroom Kamareddy`}
+            class="rounded-2xl shadow-lg w-full object-cover aspect-video hover:opacity-90 transition cursor-pointer"
+          />
+        </a>
+        <p class="text-center text-xs text-gray-400 mt-2">Tap image to get best price on WhatsApp</p>
+
+        <!-- Test ride CTA -->
+        <a href={`${WA}?text=${encodeURIComponent(`Hi Prakash Auto Honda, I want to book a free test ride for ${name_en} in Kamareddy. [W-TR]`)}`}
+          target="_blank" rel="noopener noreferrer"
+          class="mt-4 w-full flex items-center justify-center gap-2 border-2 border-gray-200 rounded-xl py-3 font-bold text-sm text-gray-700 hover:border-red-300 hover:bg-red-50 transition">
+          🏍️ Book Free Test Ride
+        </a>
+      </div>
+
+      <!-- RIGHT: Details + CTAs -->
+      <div>
+        <header class="mb-6 border-b border-gray-100 pb-6">
+          <div class="text-xs font-bold text-red-600 uppercase tracking-wider mb-2">{category}</div>
+          <h1 class="text-3xl md:text-4xl font-black tracking-tight text-gray-900">{name_en}</h1>
+          <h2 class="text-xl text-gray-500 font-noto font-medium mt-2">{name_te}</h2>
+
+          <div class="mt-5 flex flex-wrap items-center gap-4">
+            <div>
+              <span class="text-3xl font-bold text-red-600">{price}</span>
+              {mileage && <p class="text-sm text-gray-500 mt-1">⛽ Mileage: {mileage}</p>}
+            </div>
+          </div>
+        </header>
+
+        <!-- PRIMARY CTAs -->
+        <div class="flex flex-col gap-3 mb-6">
+          <a href={waLink} target="_blank" rel="noopener noreferrer"
+            class="flex items-center justify-center gap-3 bg-green-600 text-white py-4 rounded-xl font-bold text-lg hover:bg-green-700 transition shadow-lg shadow-green-100">
+            💬 Get Best Price on WhatsApp
+          </a>
+          <a href={PHONE}
+            class="flex items-center justify-center gap-3 bg-red-600 text-white py-4 rounded-xl font-bold text-lg hover:bg-red-700 transition shadow-lg shadow-red-100">
+            📞 Call Now — 8886604615
+          </a>
         </div>
 
-        <div>
-            <header class="mb-8 border-b border-gray-100 pb-8">
-              <h1 class="text-4xl font-black tracking-tight text-gray-900">{name_en}</h1>
-              <h2 class="text-2xl text-gray-500 font-noto font-medium mt-2">{name_te}</h2>
-              
-              <div class="mt-6 flex flex-wrap items-center gap-4">
-                <span class="text-3xl font-bold text-red-600">{price}</span>
-                <a 
-                  href={`https://wa.me/918886604615?text=${whatsapp_message}`} 
-                  class="bg-red-600 text-white px-8 py-3 rounded-lg font-bold hover:bg-red-700 transition flex items-center gap-2 shadow-lg shadow-red-200"
-                >
-                  Book Now / బుక్ చేయండి
-                </a>
-              </div>
-            </header>
-
-            <article class="prose max-w-none text-gray-700">
-              <Content />
-            </article>
+        <!-- EMI teaser -->
+        <div class="bg-red-50 border border-red-100 rounded-xl p-4 mb-6">
+          <p class="font-bold text-gray-800 text-sm mb-1">💰 Easy EMI Available</p>
+          <p class="text-xs text-gray-500">Zero down payment on select models · Instant approval via HDFC, SBI, Bajaj Finance</p>
+          <a href={`${WA}?text=${encodeURIComponent(`Hi, I want to check EMI options for ${name_en} in Kamareddy. [W-EMI]`)}`}
+            target="_blank" rel="noopener noreferrer"
+            class="inline-block mt-2 text-xs text-red-600 font-bold hover:underline">
+            Check My EMI Eligibility →
+          </a>
         </div>
+
+        <!-- Specs summary -->
+        <div class="grid grid-cols-2 gap-3 mb-6 text-sm">
+          {[
+            { label: "Brand",      value: "Honda" },
+            { label: "Category",   value: category || "Two-Wheeler" },
+            { label: "Mileage",    value: mileage || "Check with us" },
+            { label: "Warranty",   value: "Honda Standard Warranty" },
+            { label: "Dealer",     value: "Prakash Auto Honda" },
+            { label: "Location",   value: "Kamareddy, Telangana" },
+          ].map(s => (
+            <div class="bg-gray-50 rounded-lg p-3">
+              <p class="text-gray-400 text-xs">{s.label}</p>
+              <p class="font-bold text-gray-800">{s.value}</p>
+            </div>
+          ))}
+        </div>
+
+        <!-- Trust badges -->
+        <div class="flex flex-wrap gap-2">
+          {["✅ Authorized Honda Dealer", "🔧 Genuine Parts", "📋 Easy Finance", "🏍️ Free Test Ride"].map(b => (
+            <span class="text-xs bg-gray-100 text-gray-600 px-3 py-1 rounded-full font-semibold">{b}</span>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <!-- Full product content (markdown) -->
+    <article class="prose max-w-none text-gray-700 mt-12 mb-10">
+      <Content />
+    </article>
+
+    <!-- Cross-sell: Other Honda Models -->
+    <section class="mb-8">
+      <h2 class="text-xl font-black text-gray-900 mb-5">Other Honda Models at Kamareddy Showroom</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+        {crossSellModels.slice(0, 8).map(m => (
+          <a href={`/products/${m.slug}`}
+            class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-red-200 hover:bg-red-50 transition font-semibold text-sm text-gray-700 hover:text-red-600">
+            <span class="text-red-500">→</span> Honda {m.name}
+          </a>
+        ))}
+      </div>
+      <p class="mt-4 text-sm text-gray-400">
+        <a href="/products" class="text-red-600 font-bold hover:underline">View complete Honda lineup →</a>
+      </p>
+    </section>
+
+    <!-- Branch CTA -->
+    <div class="bg-red-50 rounded-2xl p-8 text-center">
+      <h3 class="text-2xl font-black text-gray-900 mb-2">Visit Our Showroom in Kamareddy</h3>
+      <p class="font-noto text-gray-600 mb-2">కామారెడ్డిలో మా షోరూమ్‌ను సందర్శించండి</p>
+      <p class="text-gray-500 text-sm mb-6">2 branches — Kamareddy & Lingampet · Mon–Sat, 9 AM–7 PM</p>
+      <div class="flex flex-col sm:flex-row gap-3 justify-center">
+        <a href={waLink} target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center justify-center gap-2 bg-green-600 text-white px-8 py-3 rounded-lg font-bold hover:bg-green-700 transition">
+          💬 WhatsApp for Best Price
+        </a>
+        <a href="/#branches" class="inline-flex items-center justify-center gap-2 bg-red-600 text-white px-8 py-3 rounded-lg font-bold hover:bg-red-700 transition">
+          📍 View All Branches
+        </a>
+      </div>
     </div>
 
   </main>
+
+  <!-- STICKY MOBILE BOTTOM CTA BAR -->
+  <div class="fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-gray-200 shadow-2xl p-3 flex gap-3 sm:hidden">
+    <a href={PHONE}
+      class="flex-1 flex items-center justify-center gap-2 bg-red-600 text-white py-3 rounded-xl font-bold text-sm">
+      📞 Call
+    </a>
+    <a href={waLink} target="_blank" rel="noopener noreferrer"
+      class="flex items-center justify-center gap-2 bg-green-600 text-white py-3 px-5 rounded-xl font-bold text-sm" style="flex:2">
+      💬 Get Best Price
+    </a>
+  </div>
+
 </Layout>

@@ -1,10 +1,10 @@
 ---
 slug: "home"
-title_en: "Prakash Auto Honda — Authorized Honda Dealer, Kamareddy"
-title_te: "కామారెడ్డి అధీకృత హోండా టూ-వీలర్ డీలర్"
-description_en: "Prakash Auto Honda — authorized Honda dealership in Kamareddy, Telangana. Shop Honda Activa, SP Shine, Unicorn & more with genuine service and easy finance."
-description_te: "ప్రకాష్ ఆటో హోండా — కామారెడ్డిలో అధీకృత హోండా డీలర్. యాక్టివా, షైన్, యూనికార్న్ మరియు మరెన్నో."
+title_en: "Honda Showroom Kamareddy — Activa, Shine, SP & More"
+title_te: "కామారెడ్డి నంబర్ 1 హోండా టూ-వీలర్ డీలర్"
+description_en: "Prakash Auto Honda — Kamareddy's trusted authorized Honda dealer. Best price on Activa 125, Shine 125, SP 160, Unicorn. Easy EMI. Call 8886604615 for today's offers."
+description_te: "ప్రకాష్ ఆటో హోండాలో అన్ని హోండా బైకులు పొందండి. కామారెడ్డిలో 2 శాఖలు — యాక్టివా, షైన్, యూనికార్న్."
 hero_image: "https://images.financialexpressdigital.com/2017/07/honda-activa-6g-1.jpg"
-seo_title: "Prakash Auto Honda | Authorized Honda Dealer, Kamareddy"
-seo_description: "Authorized Honda two-wheeler dealer in Kamareddy, Telangana 503111. Buy Activa, Shine, Unicorn. Genuine service, easy EMI options available."
+seo_title: "Honda Showroom Kamareddy | Activa, Shine, SP 160 | Prakash Auto Honda"
+seo_description: "Prakash Auto Honda — authorized Honda dealer in Kamareddy. Best price on Activa 125, Shine, SP 160. 2 branches. Call 8886604615 for today's offers."
 ---
