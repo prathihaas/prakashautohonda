@@ -58,7 +58,7 @@ const featuredBikes = [
 ];
 ---
 
-<Layout title={seo_title} description={seo_description} image={featured_image}>
+<Layout title={seo_title} description={seo_description} image={featured_image} canonical={`https://www.prakashautohonda.com/blog/${post.slug}/`}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <nav class="pt-24 pb-2 max-w-3xl mx-auto px-4">
