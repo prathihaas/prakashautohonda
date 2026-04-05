@@ -14,10 +14,10 @@ tags:
   - "Nizamabad district"
   - "Telangana"
   - "2026"
-featured_image: "/images/blog/honda-cd110-dream-farmer.jpg"
-excerpt: "Honda SP 125 vs Hero Glamour 125 vs Bajaj Pulsar 125 — complete 2026 comparison for Kamareddy buyers. Fuel injection vs carburetor, real mileage, on-road price, and 5-year ownership. Which 125cc wins?"
-seo_title: "Honda SP 125 vs Hero Glamour 125 vs Bajaj Pulsar 125 2026 | Best 125cc Kamareddy"
-seo_description: "Honda SP 125 vs Hero Glamour 125 vs Bajaj Pulsar 125 comparison for Kamareddy 2026. Is Bajaj Pulsar 125 better than Honda SP 125? Is Hero Glamour worth it? Real data, honest verdict."
+featured_image: "/images/blog/honda-sp125-vs-glamour-pulsar125-2026.jpg"
+excerpt: "Honda SP 125 vs Hero Glamour 125 vs Bajaj Pulsar 125 2026 — Kamareddy comparison. FI vs carb, real mileage, price, 5-year ownership. Best 125cc?"
+seo_title: "Honda SP 125 vs Hero Glamour vs Bajaj Pulsar 125 2026"
+seo_description: "Honda SP 125 vs Hero Glamour 125 vs Bajaj Pulsar 125 for Kamareddy 2026. Is Bajaj Pulsar 125 better than Honda SP 125? Real mileage, resale, honest verdict."
 readTime: "8 min read"
 ---
 

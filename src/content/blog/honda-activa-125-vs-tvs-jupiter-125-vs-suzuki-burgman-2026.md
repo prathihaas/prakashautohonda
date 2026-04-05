@@ -14,10 +14,10 @@ tags:
   - "Nizamabad district"
   - "Telangana"
   - "2026"
-featured_image: "/images/blog/honda-activa-125-premium.jpg"
-excerpt: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 — which premium 125cc scooter is best for Kamareddy buyers in 2026? Real prices, mileage, service, and resale value analysis."
-seo_title: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman 2026 | Kamareddy Best Premium Scooter"
-seo_description: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 comparison for Kamareddy 2026. Is TVS Jupiter 125 better than Activa 125? Is Suzuki Burgman worth it in Telangana? Complete analysis."
+featured_image: "/images/blog/honda-activa125-vs-tvs-jupiter-burgman-2026.jpg"
+excerpt: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 — best 125cc scooter for Kamareddy 2026. Price, mileage, service & resale."
+seo_title: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman 2026"
+seo_description: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman 125 for Kamareddy 2026. TVS Jupiter vs Activa? Is Burgman worth it in Telangana? Honest verdict."
 readTime: "8 min read"
 ---
 

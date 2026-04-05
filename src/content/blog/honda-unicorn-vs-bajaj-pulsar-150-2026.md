@@ -13,10 +13,10 @@ tags:
   - "Nizamabad district"
   - "Telangana"
   - "2026"
-featured_image: "/images/blog/honda-showroom-interior.jpg"
-excerpt: "Honda CB Unicorn vs Bajaj Pulsar 150 2026 comparison for Kamareddy buyers. Daily commuter vs sporty — which 150cc bike wins on reliability, mileage, service, and resale value? Complete honest analysis."
-seo_title: "Honda CB Unicorn vs Bajaj Pulsar 150 2026 | Kamareddy Which 150cc to Buy"
-seo_description: "Honda CB Unicorn vs Bajaj Pulsar 150 comparison for Kamareddy buyers 2026. Is Bajaj Pulsar 150 better than Honda Unicorn? Real mileage, maintenance cost, resale data. Honest verdict."
+featured_image: "/images/blog/honda-unicorn-vs-bajaj-pulsar-150-2026.jpg"
+excerpt: "Honda CB Unicorn vs Bajaj Pulsar 150 2026 — Kamareddy comparison. Mileage, maintenance cost, resale value. Which 150cc bike wins for daily use?"
+seo_title: "Honda CB Unicorn vs Bajaj Pulsar 150 2026 | Kamareddy"
+seo_description: "Honda CB Unicorn vs Bajaj Pulsar 150 for Kamareddy 2026. Is Bajaj Pulsar 150 better than Honda Unicorn? Real mileage, maintenance, resale. Honest verdict."
 readTime: "8 min read"
 ---
 
