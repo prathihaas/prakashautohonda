@@ -11,7 +11,7 @@ tags:
   - "184cc Honda review 2026"
 featured_image: "/images/blog/honda-bike-review-2026.jpg"
 excerpt: "Honda Hornet 2.0 review for Telangana roads 2026 — is this 184cc sports commuter worth ₹1.36 lakh in Kamareddy? Performance, mileage & daily use assessed."
-seo_title: "Honda Hornet 2.0 Review Telangana 2026 | Prakash Auto Honda Kamareddy"
+seo_title: "Honda Hornet 2.0 Review Telangana 2026"
 seo_description: "Honda Hornet 2.0 sports commuter review for Kamareddy & Telangana roads 2026. Real mileage, highway performance, features & value for money assessment."
 readTime: "7 min read"
 ---

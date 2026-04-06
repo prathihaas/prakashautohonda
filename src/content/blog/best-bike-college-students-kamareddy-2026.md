@@ -11,7 +11,7 @@ tags:
   - "first bike Kamareddy"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Best bikes for college students in Kamareddy 2026 — affordable, fuel-efficient Honda options with EMI plans suited to student budgets and local roads."
-seo_title: "Best Bike for College Students Kamareddy 2026 | Prakash Auto Honda"
+seo_title: "Best Bike for College Students Kamareddy 2026"
 seo_description: "Looking for the best bike for college in Kamareddy 2026? Honda Shine 100, SP 125 & CB Hornet 125 compared for students — price, mileage & EMI options."
 readTime: "7 min read"
 ---

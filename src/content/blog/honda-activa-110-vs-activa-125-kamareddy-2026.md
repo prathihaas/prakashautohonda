@@ -11,7 +11,7 @@ tags:
   - "Honda Activa price Kamareddy"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda Activa 110 vs Activa 125 — Kamareddy 2026 comparison. Is the ₹15,000 price gap worth it? Real mileage, features and local road performance compared."
-seo_title: "Activa 110 vs Activa 125 Kamareddy 2026 — Which to Buy? | Prakash Auto Honda"
+seo_title: "Activa 110 vs Activa 125 Kamareddy 2026 — Which to Buy?"
 seo_description: "Honda Activa 110 vs Activa 125 comparison for Kamareddy buyers 2026. Price difference, mileage, features & highway performance — find which Activa suits you."
 readTime: "6 min read"
 ---

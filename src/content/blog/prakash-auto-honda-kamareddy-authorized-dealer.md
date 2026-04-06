@@ -11,8 +11,8 @@ tags:
   - "Honda service Kamareddy"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Prakash Auto Honda — Kamareddy's authorized Honda two-wheeler dealer. Complete showroom, service, finance and after-sales information for buyers across Nizamabad district."
-seo_title: "Prakash Auto Honda Kamareddy — Authorized Honda Dealer | Prakash Auto Honda"
-seo_description: "Prakash Auto Honda is Kamareddy's authorized Honda two-wheeler dealer. Full lineup, authorized service, easy finance & serving Banswada, Nizamabad, Yellareddy & more."
+seo_title: "Prakash Auto Honda Kamareddy — Authorized Honda Dealer"
+seo_description: "Prakash Auto Honda is Kamareddy's authorized Honda two-wheeler dealer. Full lineup, authorized service, easy finance & serving Banswada, Nizamabad,..."
 readTime: "6 min read"
 ---
 

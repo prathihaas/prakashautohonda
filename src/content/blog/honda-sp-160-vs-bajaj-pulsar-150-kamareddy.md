@@ -11,7 +11,7 @@ tags:
   - "commuter sports bike Telangana"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda SP 160 vs Bajaj Pulsar 150 in Kamareddy 2026 — performance, mileage, features and total ownership cost compared for Telangana's commuter-sports riders."
-seo_title: "Honda SP 160 vs Bajaj Pulsar 150 Kamareddy 2026 | Prakash Auto Honda"
+seo_title: "Honda SP 160 vs Bajaj Pulsar 150 Kamareddy 2026"
 seo_description: "Honda SP 160 vs Bajaj Pulsar 150 comparison for Kamareddy 2026. Mileage, highway performance, features & 3-year ownership cost for Telangana riders."
 readTime: "7 min read"
 ---

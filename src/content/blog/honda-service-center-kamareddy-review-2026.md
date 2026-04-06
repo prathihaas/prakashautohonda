@@ -11,7 +11,7 @@ tags:
   - "two wheeler service Kamareddy"
 featured_image: "/images/blog/honda-bike-review-2026.jpg"
 excerpt: "What customers say about Honda service at Prakash Auto Honda Kamareddy — service quality, wait times, genuine parts, pricing and tips for best service experience."
-seo_title: "Honda Service Center Kamareddy 2026 — Customer Reviews | Prakash Auto Honda"
+seo_title: "Honda Service Center Kamareddy 2026 — Customer Reviews"
 seo_description: "Honda service center reviews in Kamareddy 2026. What customers from Kamareddy, Banswada & Nizamabad say about Prakash Auto Honda's service quality & value."
 readTime: "6 min read"
 ---

@@ -11,7 +11,7 @@ tags:
   - "best bike brand Kamareddy"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda vs Yamaha bikes in Kamareddy 2026 — head-to-head comparison of popular models across segments covering mileage, performance, reliability and real ownership costs."
-seo_title: "Honda vs Yamaha Bikes Kamareddy 2026 — Buyer's Guide | Prakash Auto Honda"
+seo_title: "Honda vs Yamaha Bikes Kamareddy 2026 — Buyer's Guide"
 seo_description: "Honda vs Yamaha comparison for Kamareddy buyers 2026. FZ vs SP 160, R15 vs Hornet 2.0, Fascino vs Activa — find which brand wins for your riding needs."
 readTime: "7 min read"
 ---

@@ -11,7 +11,7 @@ tags:
   - "Honda entry bike Telangana"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda Livo vs Honda Shine 100 in Kamareddy 2026 — two Honda commuters compared on mileage, features, comfort and which suits different rider profiles better."
-seo_title: "Honda Livo vs Shine 100 Kamareddy 2026 — Which to Buy? | Prakash Auto Honda"
+seo_title: "Honda Livo vs Shine 100 Kamareddy 2026 — Which to Buy?"
 seo_description: "Honda Livo vs Honda Shine 100 comparison for Kamareddy 2026. Price, mileage, features & riding comfort compared to help you choose the right Honda commuter."
 readTime: "6 min read"
 ---

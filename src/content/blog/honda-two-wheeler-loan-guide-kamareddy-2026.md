@@ -11,8 +11,8 @@ tags:
   - "two wheeler EMI Kamareddy"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Complete guide to Honda two-wheeler loans in Kamareddy 2026 — interest rates, EMI calculation, eligibility, documents and tips to get the best loan deal."
-seo_title: "Honda Two-Wheeler Loan Guide Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Honda two-wheeler loan guide for Kamareddy buyers 2026. Interest rates, EMI calculations, eligibility criteria, required documents & tips for getting loan approval."
+seo_title: "Honda Two-Wheeler Loan Guide Kamareddy 2026"
+seo_description: "Honda two-wheeler loan guide for Kamareddy buyers 2026. Interest rates, EMI calculations, eligibility criteria, required documents & tips for getting loan..."
 readTime: "7 min read"
 ---
 

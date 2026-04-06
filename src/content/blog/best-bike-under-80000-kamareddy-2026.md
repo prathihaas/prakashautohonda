@@ -11,7 +11,7 @@ tags:
   - "affordable bike Kamareddy"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Top 5 best bikes under ₹80,000 in Kamareddy 2026 — Honda Shine 100, Activa 110, Livo and more. Real prices, mileage and which suits your daily commuting needs."
-seo_title: "Best Bike Under ₹80,000 Kamareddy 2026 — Top 5 Picks | Prakash Auto Honda"
+seo_title: "Best Bike Under ₹80,000 Kamareddy 2026 — Top 5 Picks"
 seo_description: "Best bikes under ₹80,000 in Kamareddy 2026. Honda Shine 100, Activa 110 & more compared — real mileage, features & which offers best value for Telangana riders."
 readTime: "6 min read"
 ---

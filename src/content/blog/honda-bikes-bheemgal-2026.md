@@ -12,7 +12,7 @@ tags:
 featured_image: "/images/blog/honda-showroom-interior.jpg"
 excerpt: "Looking for Honda bikes in Bheemgal, Kamareddy district? Prakash Auto Honda offers Honda CD 110 Dream at ₹68,500 with EMI from ₹1,899/mo. Free test ride. Bheemgal buyers served directly. ☎ 8886680259."
 seo_title: "Honda Bikes in Bheemgal Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Honda two-wheelers in Bheemgal, Kamareddy district. Honda CD 110 Dream ₹68,500 | EMI ₹1,899/mo | 68 kmpl | Best price guaranteed | Free test ride | ☎ 8886680259."
+seo_description: "Honda two-wheelers in Bheemgal, Kamareddy district. Honda CD 110 Dream ₹68,500 | EMI ₹1,899/mo | 68 kmpl | Best price guaranteed | Free test ride | ☎..."
 readTime: "7 min read"
 draft: false
 ---

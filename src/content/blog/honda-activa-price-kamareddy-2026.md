@@ -11,7 +11,7 @@ tags:
   - "Honda Activa 125 price"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Honda Activa 110 and Activa 125 on-road prices in Kamareddy 2026 — ex-showroom, registration, insurance, and total cost breakdown for Telangana buyers."
-seo_title: "Honda Activa Price Kamareddy 2026 — On-Road Details | Prakash Auto Honda"
+seo_title: "Honda Activa Price Kamareddy 2026 — On-Road Details"
 seo_description: "Honda Activa 110 & 125 on-road price in Kamareddy 2026. Ex-showroom + registration + insurance + road tax breakdown. Get exact Telangana pricing details."
 readTime: "5 min read"
 ---

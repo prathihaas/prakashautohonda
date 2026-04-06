@@ -6,8 +6,8 @@ author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 featured_image: "/images/blog/best-honda-bikes-under-1-lakh.jpg"
 excerpt: "Looking for the best Honda bike under 1 lakh in Kamareddy? Compare Honda Shine, Unicorn, CD 110 Dream and Activa. See prices, mileage, and EMI options at"
-seo_title: "Best Honda Bikes Under 1 Lakh in Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Looking for the best Honda bike under 1 lakh in Kamareddy? Compare Honda Shine, Unicorn, CD 110 Dream and Activa. See prices, mileage, and EMI options at Prakash Auto Honda."
+seo_title: "Best Honda Bikes Under 1 Lakh in Kamareddy 2026"
+seo_description: "Looking for the best Honda bike under 1 lakh in Kamareddy? Compare Honda Shine, Unicorn, CD 110 Dream and Activa. See prices, mileage, and EMI options at..."
 readTime: "6 min read"
 ---
 

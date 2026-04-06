@@ -11,7 +11,7 @@ tags:
   - "Honda SP 125 Kamareddy"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda SP 125 vs Hero Glamour in Kamareddy 2026 — detailed comparison of mileage, features, price and real-world performance on Telangana roads."
-seo_title: "Honda SP 125 vs Hero Glamour Kamareddy 2026 | Prakash Auto Honda"
+seo_title: "Honda SP 125 vs Hero Glamour Kamareddy 2026"
 seo_description: "Honda SP 125 vs Hero Glamour 2026 comparison for Kamareddy riders. Mileage, price, features & service quality compared — find the best 125cc bike for you."
 readTime: "6 min read"
 ---

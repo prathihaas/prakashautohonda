@@ -11,8 +11,8 @@ tags:
   - "HMCL Finance Telangana"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Step-by-step guide to getting Honda finance in Kamareddy 2026 — from choosing your bike to riding home. Documents, process, timeline and tips explained simply."
-seo_title: "How to Get Honda Finance in Kamareddy 2026 — Step by Step | Prakash Auto Honda"
-seo_description: "Complete step-by-step guide to Honda finance in Kamareddy 2026. Documents needed, application process, approval timeline & tips to get approved faster at Prakash Auto Honda."
+seo_title: "How to Get Honda Finance in Kamareddy 2026 — Step by Step"
+seo_description: "Complete step-by-step guide to Honda finance in Kamareddy 2026. Documents needed, application process, approval timeline & tips to get approved faster at..."
 readTime: "6 min read"
 ---
 

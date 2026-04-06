@@ -11,7 +11,7 @@ tags:
   - "Honda adventure bike 2026"
 featured_image: "/images/blog/honda-bike-review-2026.jpg"
 excerpt: "Honda CB200X review for Telangana roads 2026 — is this 200cc adventure bike the perfect companion for Kamareddy's highways and rural roads? Full assessment."
-seo_title: "Honda CB200X Review Telangana Roads 2026 | Prakash Auto Honda Kamareddy"
+seo_title: "Honda CB200X Review for Telangana Roads 2026"
 seo_description: "Honda CB200X adventure bike review for Telangana & Kamareddy roads 2026. Real-world performance on NH44, rural roads & weekend rides. Is it worth ₹1.47 lakh?"
 readTime: "8 min read"
 ---

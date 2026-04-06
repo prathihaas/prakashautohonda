@@ -11,7 +11,7 @@ tags:
   - "Honda Unicorn price"
 featured_image: "/images/blog/honda-bike-review-2026.jpg"
 excerpt: "Honda Unicorn 2026 review for Kamareddy riders — is this classic 162cc commuter still the best choice? Mileage, comfort, and highway performance tested."
-seo_title: "Honda Unicorn Review Kamareddy 2026 — Worth Buying? | Prakash Auto Honda"
+seo_title: "Honda Unicorn Review Kamareddy 2026 — Worth Buying?"
 seo_description: "Honda Unicorn 2026 review for Kamareddy buyers. Real mileage, highway performance on Kamareddy-Nizamabad road, pricing & whether it's worth buying in 2026."
 readTime: "7 min read"
 ---

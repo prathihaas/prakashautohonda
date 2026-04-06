@@ -11,7 +11,7 @@ tags:
   - "Honda Telangana"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Complete 2026 buyer's guide to every Honda two-wheeler available in Kamareddy — prices, mileage, and which one suits you best."
-seo_title: "Honda Bikes in Kamareddy 2026 — Complete Buyer's Guide | Prakash Auto Honda"
+seo_title: "Honda Bikes in Kamareddy 2026 — Complete Buyer's Guide"
 seo_description: "Explore every Honda bike & scooter available in Kamareddy 2026. Real prices, mileage, EMI options & expert advice from your authorized Honda dealer."
 readTime: "8 min read"
 ---

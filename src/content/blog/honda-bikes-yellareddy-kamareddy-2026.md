@@ -11,7 +11,7 @@ tags:
   - "two wheeler Yellareddy Telangana"
 featured_image: "/images/blog/honda-cd110-dream-farmer.jpg"
 excerpt: "Looking for Honda bikes in Yellareddy, Kamareddy district? Prakash Auto Honda offers Honda Shine 100 at ₹72,599 with EMI from ₹1,999/mo. Free test ride. Yellareddy buyers served directly. ☎ 8886680259."
-seo_title: "Honda Bikes in Yellareddy Kamareddy 2026 | Prakash Auto Honda"
+seo_title: "Honda Bikes in Yellareddy Kamareddy 2026"
 seo_description: "Honda two-wheelers in Yellareddy, Kamareddy district. Honda Shine 100 ₹72,599 | EMI ₹1,999/mo | 65 kmpl | Best price guaranteed | Free test ride | ☎ 8886680259."
 readTime: "7 min read"
 draft: false

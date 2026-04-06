@@ -11,7 +11,7 @@ tags:
   - "best scooter Kamareddy"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda Activa 125 vs TVS NTorq 125 — a no-nonsense 2026 comparison for Kamareddy riders covering power, mileage, comfort and real ownership costs."
-seo_title: "Honda Activa 125 vs TVS NTorq 125 Kamareddy 2026 | Prakash Auto Honda"
+seo_title: "Honda Activa 125 vs TVS NTorq 125 Kamareddy 2026"
 seo_description: "Activa 125 vs TVS NTorq 125 in Kamareddy 2026. Detailed comparison of price, mileage, features & performance for Telangana roads. Which should you buy?"
 readTime: "6 min read"
 ---

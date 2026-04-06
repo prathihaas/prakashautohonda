@@ -11,7 +11,7 @@ tags:
   - "Access 125 comparison"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda Dio 125 vs Suzuki Access 125 in Kamareddy 2026 — two premium 125cc scooters compared on performance, mileage, comfort and value for Telangana riders."
-seo_title: "Honda Dio 125 vs Suzuki Access 125 Kamareddy 2026 | Prakash Auto Honda"
+seo_title: "Honda Dio 125 vs Suzuki Access 125 Kamareddy 2026"
 seo_description: "Honda Dio 125 vs Suzuki Access 125 comparison for Kamareddy 2026. Price, mileage, features & real-world performance compared for Telangana scooter buyers."
 readTime: "6 min read"
 ---

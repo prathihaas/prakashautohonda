@@ -11,7 +11,7 @@ tags:
   - "scooter comparison Telangana"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda Activa vs TVS Jupiter vs Honda Dio — a detailed 2026 comparison for Kamareddy buyers covering price, mileage, comfort and local road performance."
-seo_title: "Best Scooter Kamareddy 2026 — Activa vs Dio vs Jupiter | Prakash Auto Honda"
+seo_title: "Best Scooter Kamareddy 2026 — Activa vs Dio vs Jupiter"
 seo_description: "Comparing Honda Activa 125, Honda Dio 125 & TVS Jupiter in Kamareddy 2026. Real prices, mileage & rider reviews to help you choose the best scooter."
 readTime: "7 min read"
 ---

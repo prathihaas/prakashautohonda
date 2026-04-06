@@ -6,8 +6,8 @@ author: "Prakash Auto Honda Team"
 category: "Finance & Offers"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
 excerpt: "Discover the most fuel-efficient Honda bikes available in Kamareddy. Top mileage picks from Prakash Auto Honda."
-seo_title: "Best Mileage Honda Bikes in 2026 | Prakash Auto Honda Kamareddy"
-seo_description: "Discover the most fuel-efficient Honda bikes available in Kamareddy. Best mileage bikes for 2026 from Prakash Auto Honda, authorized Honda dealer in Kamareddy, Telangana."
+seo_title: "Best Mileage Honda Bikes Kamareddy 2026"
+seo_description: "Discover the most fuel-efficient Honda bikes available in Kamareddy. Best mileage bikes for 2026 from Prakash Auto Honda, authorized Honda dealer in..."
 readTime: "1 min read"
 ---
 

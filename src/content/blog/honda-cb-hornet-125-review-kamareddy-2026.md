@@ -11,8 +11,8 @@ tags:
   - "Honda sporty bike Telangana"
 featured_image: "/images/blog/honda-bike-review-2026.jpg"
 excerpt: "Honda CB Hornet 125 review by Kamareddy riders — is this sporty 125cc bike worth buying in 2026? Real mileage, performance and daily use insights."
-seo_title: "Honda CB Hornet 125 Review Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Honda CB Hornet 125 review for Kamareddy buyers 2026. Sports styling meets 125cc commuting — real mileage, riding comfort & value assessment for Telangana roads."
+seo_title: "Honda CB Hornet 125 Review Kamareddy 2026"
+seo_description: "Honda CB Hornet 125 review for Kamareddy buyers 2026. Sports styling meets 125cc commuting — real mileage, riding comfort & value assessment for Telangana..."
 readTime: "6 min read"
 ---
 

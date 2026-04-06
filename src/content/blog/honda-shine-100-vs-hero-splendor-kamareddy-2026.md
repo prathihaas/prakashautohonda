@@ -11,7 +11,7 @@ tags:
   - "Shine 100 review"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
 excerpt: "Honda Shine 100 vs Hero Splendor Plus in Kamareddy 2026 — the two most popular entry commuters compared on mileage, reliability, price and road performance."
-seo_title: "Honda Shine 100 vs Hero Splendor Kamareddy 2026 | Prakash Auto Honda"
+seo_title: "Honda Shine 100 vs Hero Splendor Kamareddy 2026"
 seo_description: "Honda Shine 100 vs Hero Splendor Plus 2026 comparison for Kamareddy buyers. Real mileage, price, service costs & which bike suits Telangana commuters better."
 readTime: "6 min read"
 ---

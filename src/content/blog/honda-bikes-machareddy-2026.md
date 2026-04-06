@@ -11,8 +11,8 @@ tags:
   - "two wheeler Machareddy Telangana"
 featured_image: "/images/blog/honda-cd110-dream-farmer.jpg"
 excerpt: "Looking for Honda bikes in Machareddy, Kamareddy district? Prakash Auto Honda offers Honda CD 110 Dream at ₹68,500 with EMI from ₹1,899/mo. Free test ride. Machareddy buyers served directly. ☎ 8886680259."
-seo_title: "Honda Bikes in Machareddy Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Honda two-wheelers in Machareddy, Kamareddy district. Honda CD 110 Dream ₹68,500 | EMI ₹1,899/mo | 68 kmpl | Best price guaranteed | Free test ride | ☎ 8886680259."
+seo_title: "Honda Bikes in Machareddy Kamareddy 2026"
+seo_description: "Honda two-wheelers in Machareddy, Kamareddy district. Honda CD 110 Dream ₹68,500 | EMI ₹1,899/mo | 68 kmpl | Best price guaranteed | Free test ride | ☎..."
 readTime: "7 min read"
 draft: false
 ---

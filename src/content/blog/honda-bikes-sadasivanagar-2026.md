@@ -11,8 +11,8 @@ tags:
   - "two wheeler Sadasivanagar Telangana"
 featured_image: "/images/blog/honda-unicorn-highway.jpg"
 excerpt: "Looking for Honda bikes in Sadasivanagar, Kamareddy district? Prakash Auto Honda offers Honda Shine 100 at ₹72,599 with EMI from ₹1,999/mo. Free test ride. Sadasivanagar buyers served directly. ☎ 8886680259."
-seo_title: "Honda Bikes in Sadasivanagar Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Honda two-wheelers in Sadasivanagar, Kamareddy district. Honda Shine 100 ₹72,599 | EMI ₹1,999/mo | 65 kmpl | Best price guaranteed | Free test ride | ☎ 8886680259."
+seo_title: "Honda Bikes in Sadasivanagar Kamareddy 2026"
+seo_description: "Honda two-wheelers in Sadasivanagar, Kamareddy district. Honda Shine 100 ₹72,599 | EMI ₹1,999/mo | 65 kmpl | Best price guaranteed | Free test ride | ☎..."
 readTime: "7 min read"
 draft: false
 ---
