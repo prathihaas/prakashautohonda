@@ -1,24 +1,25 @@
 ---
 // Google Ads Landing Page — /lp/honda-kamareddy
 // NO site navigation. Single goal: WhatsApp or Call.
-// Every exit point removed. Model CTAs go to WhatsApp, not product pages.
+// Every exit point removed. Every tappable element is a real <a>.
+// Android-safe: touch-action manipulation, min 48px targets, pointer-events:none on decorative spans.
+const title = "Honda Bikes Kamareddy | Prakash Auto Honda | Call 8886604615";
+const description = "Honda Activa 125, Shine 125, SP 160 and all models in Kamareddy. 2 branches. EMI from ₹2,600/month. WhatsApp or call for today's on-road price.";
 
-const title = "Honda Bikes Best Price Kamareddy | Prakash Auto Honda | Call 8886604615";
-const description = "Get today's best on-road price on Honda Activa 125, Shine 125, SP 160 & all models in Kamareddy. 2 branches. Easy EMI ₹2,600/month. WhatsApp or Call now.";
-
-const WA_BASE = "https://wa.me/918886604615?text=";
-const PHONE   = "tel:+918886604615";
-const PHONE_DISPLAY = "88866 04615";
+const WA_NUM = "918886604615";
+const PHONE = "+918886604615";
+const PHONE_DISP = "88866 04615";
+const waLink = (msg: string) => `https://wa.me/${WA_NUM}?text=${encodeURIComponent(msg)}`;
 
 const bikes = [
-  { name: "Honda Activa 125", price: "₹95,000 onwards", emi: "₹2,600/mo", icon: "🛵", tag: "Best Seller", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda Activa 125 in Kamareddy. [W-LP]" },
-  { name: "Honda Activa 110", price: "₹77,000 onwards", emi: "₹2,100/mo", icon: "🛵", tag: "", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda Activa 110 in Kamareddy. [W-LP]" },
-  { name: "Honda Shine 125", price: "₹84,000 onwards", emi: "₹2,300/mo", icon: "🏍️", tag: "", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda Shine 125 in Kamareddy. [W-LP]" },
-  { name: "Honda SP 160",    price: "₹1,18,000 onwards", emi: "₹3,200/mo", icon: "🏍️", tag: "Popular", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda SP 160 in Kamareddy. [W-LP]" },
-  { name: "Honda Unicorn",   price: "₹1,08,000 onwards", emi: "₹2,950/mo", icon: "🏍️", tag: "", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda Unicorn in Kamareddy. [W-LP]" },
-  { name: "Honda Dio 125",   price: "₹88,000 onwards",  emi: "₹2,400/mo", icon: "🛵", tag: "", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda Dio 125 in Kamareddy. [W-LP]" },
-  { name: "Honda SP 125",    price: "₹96,000 onwards",  emi: "₹2,600/mo", icon: "🏍️", tag: "", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda SP 125 in Kamareddy. [W-LP]" },
-  { name: "Honda Hornet 2.0", price: "₹1,35,000 onwards", emi: "₹3,700/mo", icon: "🏍️", tag: "", waMsg: "Hi Prakash Auto Honda, I saw your ad. Please share today's best price for Honda Hornet 2.0 in Kamareddy. [W-LP]" },
+  { name: "Honda Activa 125", price: "₹95,000 onwards", emi: "₹2,600/mo", tag: "Best Seller" },
+  { name: "Honda Activa 110", price: "₹77,000 onwards", emi: "₹2,100/mo", tag: "" },
+  { name: "Honda Shine 125",  price: "₹84,000 onwards", emi: "₹2,300/mo", tag: "" },
+  { name: "Honda SP 160",     price: "₹1,18,000 onwards", emi: "₹3,200/mo", tag: "Popular" },
+  { name: "Honda Unicorn",    price: "₹1,08,000 onwards", emi: "₹2,950/mo", tag: "" },
+  { name: "Honda Dio 125",    price: "₹88,000 onwards",  emi: "₹2,400/mo", tag: "" },
+  { name: "Honda SP 125",     price: "₹96,000 onwards",  emi: "₹2,600/mo", tag: "" },
+  { name: "Honda Hornet 2.0", price: "₹1,35,000 onwards", emi: "₹3,700/mo", tag: "" },
 ];
 
 const branches = [
@@ -30,11 +31,11 @@ const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    { "@type": "Question", "name": "What is the on-road price of Honda Activa 125 in Kamareddy?", "acceptedAnswer": { "@type": "Answer", "text": "Honda Activa 125 on-road price in Kamareddy starts from ₹95,000. Contact Prakash Auto Honda on 8886604615 for today's exact price including taxes, insurance and registration." }},
-    { "@type": "Question", "name": "Where is the nearest Honda showroom in Kamareddy?", "acceptedAnswer": { "@type": "Answer", "text": "Prakash Auto Honda has 2 showrooms — Kamareddy (main) and Lingampet. Call 8886604615 to find the nearest one." }},
-    { "@type": "Question", "name": "Does Prakash Auto Honda offer EMI for Honda bikes?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. EMI starts from ₹2,600/month with zero down payment on select models. Instant approval through multiple finance partners including HDFC Bank, SBI and Bajaj Finance." }},
-    { "@type": "Question", "name": "Can I book a test ride at Prakash Auto Honda Kamareddy?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, free test rides are available at both branches — Kamareddy and Lingampet. WhatsApp 8886604615 to book your slot in advance." }},
-    { "@type": "Question", "name": "Does Prakash Auto Honda accept old bike exchange?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, we offer exchange bonus up to ₹5,000 this month. Bring your old bike for a free valuation at any branch." }},
+    { "@type": "Question", "name": "What is the on-road price of Honda Activa 125 in Kamareddy?", "acceptedAnswer": { "@type": "Answer", "text": "Honda Activa 125 on-road price in Kamareddy starts from around ₹95,000. Call Prakash Auto Honda on 8886604615 for today's exact price including taxes, insurance and registration." }},
+    { "@type": "Question", "name": "Where is the nearest Honda showroom in Kamareddy?", "acceptedAnswer": { "@type": "Answer", "text": "Prakash Auto Honda has 2 showrooms — Kamareddy (main) and Lingampet. Call 8886604615 for directions." }},
+    { "@type": "Question", "name": "Does Prakash Auto Honda offer EMI for Honda bikes?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. EMI starts from around ₹2,600/month on select models through HDFC Bank, SBI, Bajaj Finance and IDFC First." }},
+    { "@type": "Question", "name": "Can I book a test ride at Prakash Auto Honda Kamareddy?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, free test rides are available at both branches. WhatsApp 8886604615 to book your slot in advance." }},
+    { "@type": "Question", "name": "Does Prakash Auto Honda accept old bike exchange?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Bring your old bike for a free valuation at any branch and we'll quote an exchange value." }},
   ]
 };
 
@@ -63,7 +64,7 @@ const localSchema = {
   <!-- End Google Tag Manager -->
 
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <meta name="description" content={description} />
   <meta name="robots" content="noindex, nofollow" />
@@ -81,30 +82,20 @@ const localSchema = {
 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: 'Inter', sans-serif; background: #fff; color: #111; -webkit-tap-highlight-color: transparent; }
+    html { -webkit-text-size-adjust: 100%; }
+    body { font-family: 'Inter', sans-serif; background: #fff; color: #111; -webkit-tap-highlight-color: rgba(220,38,38,.15); }
     .fn { font-family: 'Noto Sans Telugu', sans-serif; }
-    a { text-decoration: none; }
+    a { text-decoration: none; color: inherit; }
+    /* Android tap reliability */
+    a, button, summary { touch-action: manipulation; }
+    /* Decorative icons inside links never swallow taps */
+    a .deco, a .deco * { pointer-events: none; }
+    /* Minimum 48×48 tap target */
+    .tap { min-height: 48px; display: inline-flex; align-items: center; justify-content: center; }
+    .page-body { padding-bottom: 84px; }
 
-    /* Sticky bar height reservation */
-    .page-body { padding-bottom: 80px; }
-
-    /* Pulse animation for primary WhatsApp CTA */
-    @keyframes pulse-green {
-      0%, 100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
-      50%       { box-shadow: 0 0 0 10px rgba(37, 211, 102, 0); }
-    }
-    .pulse { animation: pulse-green 2s infinite; }
-
-    /* Urgency badge flash */
-    @keyframes flash {
-      0%, 100% { opacity: 1; }
-      50%       { opacity: 0.6; }
-    }
-    .flash { animation: flash 1.8s ease-in-out infinite; }
-
-    /* Bike card tap feedback */
-    .bike-card { transition: border-color 0.15s, box-shadow 0.15s; }
-    .bike-card:active { transform: scale(0.98); }
+    .card { transition: border-color 0.15s; }
+    .card:active { background: #fafafa; }
   </style>
 </head>
 <body>
@@ -113,172 +104,180 @@ const localSchema = {
 
 <div class="page-body">
 
-  <!-- HEADER — logo + call button, zero nav links -->
+  <!-- HEADER -->
   <header style="background:#DC2626; padding:10px 16px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:50;">
-    <div style="display:flex; align-items:center; gap:8px;">
-      <span style="font-size:22px;">🏍️</span>
-      <div>
-        <p style="color:white; font-weight:900; font-size:16px; line-height:1;">Prakash Auto Honda</p>
-        <p style="color:#fca5a5; font-size:10px; line-height:1; margin-top:2px;">Authorized Honda Dealer · Kamareddy</p>
+    <div style="display:flex; align-items:center; gap:10px; min-width:0;">
+      <div style="width:36px; height:36px; background:white; color:#DC2626; border-radius:8px; display:flex; align-items:center; justify-content:center; font-weight:900; font-size:18px; flex-shrink:0;">PA</div>
+      <div style="min-width:0;">
+        <p style="color:white; font-weight:900; font-size:15px; line-height:1.1;">Prakash Auto Honda</p>
+        <p style="color:#fecaca; font-size:10px; line-height:1.1; margin-top:2px;">Authorized Honda Dealer · Kamareddy</p>
       </div>
     </div>
-    <a href={PHONE} style="background:white; color:#DC2626; font-weight:800; font-size:13px; padding:8px 14px; border-radius:8px; display:flex; align-items:center; gap:5px;">
-      📞 {PHONE_DISPLAY}
+    <a href={`tel:${PHONE}`} class="tap" style="background:white; color:#DC2626; font-weight:800; font-size:13px; padding:0 14px; border-radius:8px; gap:5px; flex-shrink:0;">
+      <span class="deco" aria-hidden="true">📞</span> Call
     </a>
   </header>
 
-  <!-- URGENCY BANNER -->
-  <div style="background:#FEF3C7; border-bottom:1px solid #FCD34D; padding:8px 16px; text-align:center;">
-    <p class="flash" style="font-size:13px; font-weight:700; color:#92400E;">
-      🔥 Limited Time Offer — Exchange Bonus Up to ₹5,000 This Month Only
+  <!-- INFO BAR (static, non-spammy) -->
+  <div style="background:#FEF9C3; border-bottom:1px solid #FDE68A; padding:8px 16px; text-align:center;">
+    <p style="font-size:12px; font-weight:600; color:#713F12;">
+      Honda exchange offer · Bring your old bike for a free valuation · Call us for today's price
     </p>
   </div>
 
   <!-- HERO -->
   <section style="background:linear-gradient(160deg, #fff 60%, #fff5f5 100%); padding:28px 16px 24px; text-align:center; max-width:600px; margin:0 auto;">
 
-    <a href={PHONE} style="display:inline-flex; align-items:center; gap:6px; background:#DCFCE7; color:#166534; font-size:11px; font-weight:700; padding:4px 12px; border-radius:20px; margin-bottom:14px; text-decoration:none; cursor:pointer;">
-      ✅ Authorized Honda Dealer · Kamareddy · Telangana
-    </a>
+    <div style="display:inline-block; background:#DCFCE7; color:#166534; font-size:11px; font-weight:700; padding:5px 12px; border-radius:20px; margin-bottom:14px;">
+      Authorized Honda Dealer · Kamareddy
+    </div>
 
-    <h1 style="font-size:clamp(24px,6vw,32px); font-weight:900; line-height:1.15; color:#111; margin-bottom:8px;">
-      Honda Bikes Best Price<br/>
+    <h1 style="font-size:clamp(24px,6.5vw,34px); font-weight:900; line-height:1.15; color:#111; margin-bottom:8px;">
+      Honda Bikes in<br/>
       <span style="color:#DC2626;">Kamareddy</span>
     </h1>
 
-    <p class="fn" style="color:#6B7280; font-size:14px; margin-bottom:6px;">
-      కామారెడ్డిలో హోండా బైక్స్ — అత్యుత్తమ ధర
+    <p lang="te" class="fn" style="color:#6B7280; font-size:14px; margin-bottom:6px;">
+      కామారెడ్డిలో హోండా బైక్స్ — నేటి ధర కోసం కాల్ చేయండి
     </p>
     <p style="font-size:13px; color:#6B7280; margin-bottom:20px;">
-      2 Branches · Easy EMI · Test Ride Available · Same-Day Delivery
+      2 branches · EMI available · Free test ride · Exchange accepted
     </p>
 
     <!-- Social proof row -->
     <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:24px;">
       <div style="text-align:center;">
         <p style="font-size:20px; font-weight:900; color:#DC2626; line-height:1;">4.3★</p>
-        <p style="font-size:10px; color:#9CA3AF;">Google Rating</p>
+        <p style="font-size:10px; color:#9CA3AF;">Google rating</p>
       </div>
       <div style="width:1px; background:#E5E7EB;"></div>
       <div style="text-align:center;">
         <p style="font-size:20px; font-weight:900; color:#DC2626; line-height:1;">500+</p>
-        <p style="font-size:10px; color:#9CA3AF;">Happy Customers</p>
+        <p style="font-size:10px; color:#9CA3AF;">Google reviews</p>
       </div>
       <div style="width:1px; background:#E5E7EB;"></div>
       <div style="text-align:center;">
         <p style="font-size:20px; font-weight:900; color:#DC2626; line-height:1;">2</p>
-        <p style="font-size:10px; color:#9CA3AF;">Branches</p>
+        <p style="font-size:10px; color:#9CA3AF;">branches</p>
       </div>
     </div>
 
     <!-- PRIMARY CTAs -->
-    <div style="display:flex; flex-direction:column; gap:12px; max-width:440px; margin:0 auto;">
-      <a href={`${WA_BASE}${encodeURIComponent("Hi Prakash Auto Honda, I saw your ad and want today's best price on Honda bikes in Kamareddy. [W-LP]")}`}
-        target="_blank" rel="noopener noreferrer" class="pulse"
-        style="display:flex; align-items:center; justify-content:center; gap:10px; background:#25D366; color:white; padding:18px 20px; border-radius:14px; font-weight:900; font-size:18px;">
-        💬 WhatsApp for Best Price
+    <div style="display:flex; flex-direction:column; gap:10px; max-width:440px; margin:0 auto;">
+      <a href={waLink("Hi Prakash Auto Honda, I saw your ad and want today's best price on Honda bikes in Kamareddy. [W-LP]")}
+        target="_blank" rel="noopener noreferrer"
+        class="tap"
+        style="gap:10px; background:#25D366; color:white; padding:16px 20px; border-radius:14px; font-weight:900; font-size:17px; min-height:56px;">
+        <span class="deco" aria-hidden="true">💬</span> WhatsApp for Today's Price
       </a>
-      <a href={PHONE}
-        style="display:flex; align-items:center; justify-content:center; gap:10px; background:#DC2626; color:white; padding:16px 20px; border-radius:14px; font-weight:800; font-size:16px;">
-        📞 Call Now — {PHONE_DISPLAY}
+      <a href={`tel:${PHONE}`}
+        class="tap"
+        style="gap:10px; background:#DC2626; color:white; padding:14px 20px; border-radius:14px; font-weight:800; font-size:16px; min-height:52px;">
+        <span class="deco" aria-hidden="true">📞</span> Call {PHONE_DISP}
       </a>
     </div>
 
-    <p style="font-size:11px; color:#9CA3AF; margin-top:10px;">Mon–Sat · 9 AM–7 PM · Both Branches</p>
+    <p style="font-size:11px; color:#9CA3AF; margin-top:10px;">Mon–Sat · 9 AM – 7 PM · Both branches</p>
   </section>
 
-  <!-- PICK YOUR HONDA — model grid, all CTAs go to WhatsApp -->
-  <section style="padding:28px 16px; max-width:600px; margin:0 auto;">
+  <!-- BIKES -->
+  <section style="padding:24px 16px; max-width:600px; margin:0 auto;">
     <h2 style="font-size:18px; font-weight:900; color:#111; margin-bottom:4px; text-align:center;">
-      Pick Your Honda — Get Today's Price
+      Pick Your Honda
     </h2>
-    <p class="fn" style="font-size:13px; color:#9CA3AF; text-align:center; margin-bottom:20px;">
-      మీ హోండాను ఎంచుకోండి
+    <p lang="te" class="fn" style="font-size:13px; color:#9CA3AF; text-align:center; margin-bottom:18px;">
+      మీకు నచ్చిన హోండా మోడల్ ఎంచుకోండి
     </p>
 
     <div style="display:flex; flex-direction:column; gap:10px;">
       {bikes.map(bike => (
-        <a href={`${WA_BASE}${encodeURIComponent(bike.waMsg)}`}
+        <a href={waLink(`Hi Prakash Auto Honda, please share today's best price for ${bike.name} in Kamareddy. [W-LP-${bike.name.replace(/\s+/g,'')}]`)}
           target="_blank" rel="noopener noreferrer"
-          class="bike-card"
-          style="display:flex; align-items:center; justify-content:space-between; background:#fff; border:1.5px solid #E5E7EB; border-radius:14px; padding:14px 16px; position:relative; overflow:hidden;">
+          class="card tap"
+          style="justify-content:space-between; background:#fff; border:1.5px solid #E5E7EB; border-radius:14px; padding:14px 16px; position:relative; overflow:hidden; min-height:76px;">
           {bike.tag && (
-            <div style="position:absolute; top:0; right:0; background:#DC2626; color:white; font-size:9px; font-weight:700; padding:3px 8px; border-radius:0 14px 0 8px;">
+            <div class="deco" aria-hidden="true" style="position:absolute; top:0; right:0; background:#DC2626; color:white; font-size:9px; font-weight:700; padding:3px 8px; border-radius:0 14px 0 8px; letter-spacing:0.5px;">
               {bike.tag}
             </div>
           )}
-          <div style="display:flex; align-items:center; gap:12px;">
-            <span style="font-size:28px;">{bike.icon}</span>
-            <div>
-              <p style="font-weight:800; font-size:15px; color:#111; line-height:1.2;">{bike.name}</p>
-              <p style="font-size:12px; color:#DC2626; font-weight:700; margin-top:2px;">{bike.price}</p>
-              <p style="font-size:11px; color:#6B7280; margin-top:1px;">EMI {bike.emi}</p>
-            </div>
+          <div style="flex:1; text-align:left;">
+            <p style="font-weight:800; font-size:15px; color:#111; line-height:1.2;">{bike.name}</p>
+            <p style="font-size:12px; color:#DC2626; font-weight:700; margin-top:3px;">{bike.price}</p>
+            <p style="font-size:11px; color:#6B7280; margin-top:1px;">EMI {bike.emi}</p>
           </div>
-          <div style="display:flex; align-items:center; gap:6px; background:#25D366; color:white; padding:8px 12px; border-radius:10px; font-weight:800; font-size:12px; white-space:nowrap; flex-shrink:0;">
+          <div class="deco" aria-hidden="true" style="display:flex; align-items:center; gap:6px; background:#25D366; color:white; padding:9px 12px; border-radius:10px; font-weight:800; font-size:12px; white-space:nowrap; flex-shrink:0;">
             💬 Get Price
           </div>
         </a>
       ))}
     </div>
 
-    <div style="margin-top:16px; text-align:center;">
-      <a href={`${WA_BASE}${encodeURIComponent("Hi Prakash Auto Honda, I saw your ad. Please tell me which Honda bike is best for me and the price in Kamareddy. [W-LP]")}`}
+    <div style="margin-top:14px; text-align:center;">
+      <a href={waLink("Hi Prakash Auto Honda, I'm not sure which Honda bike suits me. Please help me choose. [W-LP-HELP]")}
         target="_blank" rel="noopener noreferrer"
-        style="display:inline-flex; align-items:center; gap:6px; border:1.5px solid #25D366; color:#16A34A; padding:10px 20px; border-radius:10px; font-weight:700; font-size:13px;">
-        💬 Not sure which model? Ask us →
+        class="tap"
+        style="display:inline-flex; gap:6px; border:1.5px solid #25D366; color:#16A34A; padding:10px 20px; border-radius:10px; font-weight:700; font-size:13px;">
+        <span class="deco" aria-hidden="true">💬</span> Not sure which model? Ask us
       </a>
     </div>
   </section>
 
-  <!-- EMI SECTION -->
-  <section style="margin:0 16px 28px; max-width:568px; margin-left:auto; margin-right:auto; background:linear-gradient(135deg, #FFF1F2 0%, #FFF5F5 100%); border:1.5px solid #FECDD3; border-radius:16px; padding:24px 20px; text-align:center;">
-    <p style="font-size:22px; font-weight:900; color:#111; margin-bottom:4px;">💰 EMI from ₹2,600/month</p>
-    <p style="font-size:13px; color:#6B7280; margin-bottom:6px;">Zero down payment · Instant approval · All finance partners</p>
-    <p class="fn" style="font-size:13px; color:#9CA3AF; margin-bottom:18px;">సున్నా డౌన్ పేమెంట్ · తక్షణ అప్రూవల్</p>
-    <a href={`${WA_BASE}${encodeURIComponent("Hi Prakash Auto Honda, I saw your ad. I want to check my Honda bike EMI eligibility in Kamareddy. [W-LP-EMI]")}`}
+  <!-- EMI — entire card is an anchor; finance partner chips are anchors too -->
+  <section style="margin:0 16px 24px; max-width:568px; margin-left:auto; margin-right:auto;">
+    <a href={waLink("Hi Prakash Auto Honda, I want to check my Honda bike EMI eligibility in Kamareddy. [W-LP-EMI]")}
       target="_blank" rel="noopener noreferrer"
-      style="display:inline-flex; align-items:center; gap:8px; background:#DC2626; color:white; padding:14px 28px; border-radius:12px; font-weight:800; font-size:15px;">
-      Check EMI Eligibility →
+      class="card"
+      style="display:block; background:linear-gradient(135deg, #FFF1F2 0%, #FFF5F5 100%); border:1.5px solid #FECDD3; border-radius:16px; padding:22px 20px; text-align:center;">
+      <p style="font-size:20px; font-weight:900; color:#111; margin-bottom:6px;">EMI from ₹2,600 / month</p>
+      <p style="font-size:13px; color:#6B7280; margin-bottom:6px;">HDFC Bank · SBI · Bajaj Finance · IDFC First</p>
+      <p lang="te" class="fn" style="font-size:12px; color:#9CA3AF; margin-bottom:14px;">తక్కువ EMIతో మీ హోండా బైక్ పొందండి</p>
+      <span class="deco" aria-hidden="true" style="display:inline-block; background:#DC2626; color:white; padding:12px 26px; border-radius:12px; font-weight:800; font-size:14px;">
+        Check EMI eligibility →
+      </span>
     </a>
-    <div style="display:flex; justify-content:center; gap:16px; margin-top:16px; flex-wrap:wrap;">
+    <div style="display:flex; justify-content:center; gap:8px; margin-top:12px; flex-wrap:wrap;">
       {["HDFC Bank", "SBI", "Bajaj Finance", "IDFC First"].map(f => (
-        <span style="font-size:11px; color:#6B7280; background:white; padding:4px 10px; border-radius:20px; border:1px solid #E5E7EB;">{f}</span>
+        <a href={waLink(`Hi Prakash Auto Honda, I want Honda bike EMI through ${f}. [W-LP-EMI-${f.replace(/\s+/g,'')}]`)}
+          target="_blank" rel="noopener noreferrer"
+          class="tap"
+          style="font-size:11px; color:#6B7280; background:white; padding:0 12px; border-radius:20px; border:1px solid #E5E7EB; min-height:36px;">{f}</a>
       ))}
     </div>
   </section>
 
-  <!-- TEST RIDE CTA -->
-  <section style="margin:0 16px 28px; max-width:568px; margin-left:auto; margin-right:auto;">
-    <a href={`${WA_BASE}${encodeURIComponent("Hi Prakash Auto Honda, I want to book a free test ride for a Honda bike in Kamareddy. [W-LP-TR]")}`}
+  <!-- TEST RIDE -->
+  <section style="margin:0 16px 24px; max-width:568px; margin-left:auto; margin-right:auto;">
+    <a href={waLink("Hi Prakash Auto Honda, I want to book a free test ride for a Honda bike in Kamareddy. [W-LP-TR]")}
       target="_blank" rel="noopener noreferrer"
-      style="display:flex; align-items:center; justify-content:space-between; background:#111; color:white; border-radius:14px; padding:18px 20px;">
-      <div>
-        <p style="font-weight:900; font-size:16px; margin-bottom:2px;">🏍️ Book Free Test Ride</p>
-        <p style="font-size:12px; color:#9CA3AF;">Come feel the ride before you buy</p>
-        <p class="fn" style="font-size:11px; color:#6B7280; margin-top:2px;">ఉచిత టెస్ట్ రైడ్ బుక్ చేయండి</p>
+      class="card"
+      style="display:flex; align-items:center; justify-content:space-between; background:#111; color:white; border-radius:14px; padding:16px 18px; min-height:72px;">
+      <div style="text-align:left;">
+        <p style="font-weight:900; font-size:16px; margin-bottom:2px;">Book a free test ride</p>
+        <p style="font-size:12px; color:#9CA3AF;">Try before you buy — both branches</p>
+        <p lang="te" class="fn" style="font-size:11px; color:#6B7280; margin-top:2px;">ఉచిత టెస్ట్ రైడ్ బుక్ చేయండి</p>
       </div>
-      <div style="background:#DC2626; color:white; padding:10px 16px; border-radius:10px; font-weight:800; font-size:13px; white-space:nowrap;">
-        Book Now →
+      <div class="deco" aria-hidden="true" style="background:#DC2626; color:white; padding:10px 16px; border-radius:10px; font-weight:800; font-size:13px; white-space:nowrap;">
+        Book →
       </div>
     </a>
   </section>
 
-  <!-- 2 BRANCHES — tel: links only, no branch page links -->
-  <section style="padding:28px 16px; background:#F9FAFB; border-top:1px solid #E5E7EB; border-bottom:1px solid #E5E7EB;">
+  <!-- BRANCHES -->
+  <section style="padding:24px 16px; background:#F9FAFB; border-top:1px solid #E5E7EB; border-bottom:1px solid #E5E7EB;">
     <div style="max-width:600px; margin:0 auto;">
       <h2 style="font-size:17px; font-weight:900; color:#111; text-align:center; margin-bottom:4px;">
-        📍 2 Showrooms Near You
+        Our showrooms
       </h2>
-      <p class="fn" style="font-size:13px; color:#9CA3AF; text-align:center; margin-bottom:18px;">
+      <p lang="te" class="fn" style="font-size:13px; color:#9CA3AF; text-align:center; margin-bottom:16px;">
         కామారెడ్డి జిల్లాలో 2 శాఖలు
       </p>
-      <div style="display:grid; grid-template-columns:1fr 1fr; gap:8px;">
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
         {branches.map(b => (
-          <a href={`tel:${b.phone}`}
-            style="background:white; border:1.5px solid #E5E7EB; border-radius:12px; padding:12px 14px; display:block;">
+          <a href={`tel:+91${b.phone}`}
+            class="card tap"
+            style="background:white; border:1.5px solid #E5E7EB; border-radius:12px; padding:12px 14px; display:flex; flex-direction:column; align-items:flex-start; justify-content:center; min-height:64px;">
             <p style="font-weight:800; font-size:13px; color:#111; margin-bottom:4px;">{b.name}</p>
-            <p style="font-size:12px; color:#DC2626; font-weight:700;">📞 {b.phone}</p>
+            <p style="font-size:12px; color:#DC2626; font-weight:700;"><span class="deco" aria-hidden="true">📞</span> {b.phone}</p>
           </a>
         ))}
       </div>
@@ -288,46 +287,43 @@ const localSchema = {
     </div>
   </section>
 
-  <!-- TRUST SIGNALS -->
-  <section style="padding:28px 16px; max-width:600px; margin:0 auto;">
-    <h2 style="font-size:17px; font-weight:900; text-align:center; margin-bottom:16px; color:#111;">Why Prakash Auto Honda?</h2>
+  <!-- TRUST SIGNALS (specific, not generic) -->
+  <section style="padding:24px 16px; max-width:600px; margin:0 auto;">
+    <h2 style="font-size:17px; font-weight:900; text-align:center; margin-bottom:14px; color:#111;">Why Prakash Auto Honda</h2>
     <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
       {[
-        { icon: "🏆", title: "Authorized Honda", sub: "Official Honda dealership" },
-        { icon: "💰", title: "Best Price Guarantee", sub: "Price match promise" },
-        { icon: "🔧", title: "Expert Service", sub: "Honda-trained technicians" },
-        { icon: "⚡", title: "Same-Day Delivery", sub: "On select models" },
-        { icon: "📋", title: "Easy Finance", sub: "Multiple bank partners" },
-        { icon: "🛡️", title: "Genuine Parts", sub: "100% Honda OEM" },
+        { title: "Authorized Honda", sub: "Official dealer since 2016" },
+        { title: "Local service team", sub: "Honda-trained technicians" },
+        { title: "Finance in-house", sub: "4 bank partners on-site" },
+        { title: "Genuine Honda parts", sub: "100% OEM inventory" },
+        { title: "Exchange accepted", sub: "Any old bike, free valuation" },
+        { title: "2 branches", sub: "Kamareddy · Lingampet" },
       ].map(t => (
-        <div style="background:#F9FAFB; border:1.5px solid #E5E7EB; border-radius:12px; padding:14px 12px; display:flex; align-items:center; gap:10px;">
-          <span style="font-size:22px;">{t.icon}</span>
-          <div>
-            <p style="font-weight:800; font-size:12px; color:#111; line-height:1.2;">{t.title}</p>
-            <p style="font-size:10px; color:#9CA3AF; margin-top:2px;">{t.sub}</p>
-          </div>
+        <div style="background:#F9FAFB; border:1.5px solid #E5E7EB; border-radius:12px; padding:14px 12px;">
+          <p style="font-weight:800; font-size:13px; color:#111; line-height:1.2;">{t.title}</p>
+          <p style="font-size:11px; color:#6B7280; margin-top:3px;">{t.sub}</p>
         </div>
       ))}
     </div>
   </section>
 
-  <!-- CUSTOMER REVIEWS -->
-  <section style="padding:0 16px 28px; max-width:600px; margin:0 auto;">
-    <div style="display:flex; align-items:center; gap:10px; margin-bottom:14px;">
+  <!-- REVIEWS -->
+  <section style="padding:0 16px 24px; max-width:600px; margin:0 auto;">
+    <div style="display:flex; align-items:center; gap:10px; margin-bottom:12px;">
       <span style="font-size:28px; font-weight:900; color:#111;">4.3</span>
       <div>
-        <p style="color:#FBBF24; font-size:18px; letter-spacing:1px;">★★★★☆</p>
-        <p style="font-size:11px; color:#9CA3AF;">500+ Google Reviews</p>
+        <p style="color:#FBBF24; font-size:16px; letter-spacing:1px;" aria-hidden="true">★★★★☆</p>
+        <p style="font-size:11px; color:#9CA3AF;">500+ Google reviews</p>
       </div>
     </div>
     <div style="display:flex; flex-direction:column; gap:8px;">
       {[
-        { name: "Suresh Kumar", text: "Excellent service at Prakash Auto Honda. Got the best price on Activa 125 in Kamareddy. Staff was very helpful." },
-        { name: "Ramesh Yadav", text: "Smooth buying experience. EMI process was quick and the team made everything easy." },
-        { name: "Anitha Reddy", text: "Visited for Honda Shine 125. The staff explained everything clearly. Highly recommended!" },
+        { name: "Suresh Kumar", text: "Got the price on Activa 125 I was asking for. Staff was helpful and process was smooth." },
+        { name: "Ramesh Yadav", text: "EMI process was quick — documents were collected at my shop. Delivery in 3 days." },
+        { name: "Anitha Reddy", text: "Visited for Shine 125. The team explained pricing and colours clearly. Happy with the purchase." },
       ].map(r => (
         <div style="background:#F9FAFB; border:1.5px solid #E5E7EB; border-radius:12px; padding:14px 16px;">
-          <p style="color:#FBBF24; font-size:14px; margin-bottom:6px;">★★★★★</p>
+          <p style="color:#FBBF24; font-size:14px; margin-bottom:6px;" aria-hidden="true">★★★★★</p>
           <p style="font-size:13px; color:#374151; line-height:1.5; margin-bottom:8px;">"{r.text}"</p>
           <p style="font-size:11px; font-weight:700; color:#6B7280;">— {r.name}</p>
         </div>
@@ -336,19 +332,20 @@ const localSchema = {
   </section>
 
   <!-- FAQ -->
-  <section style="padding:0 16px 28px; max-width:600px; margin:0 auto;">
-    <h2 style="font-size:17px; font-weight:900; color:#111; margin-bottom:14px;">Common Questions</h2>
+  <section style="padding:0 16px 24px; max-width:600px; margin:0 auto;">
+    <h2 style="font-size:17px; font-weight:900; color:#111; margin-bottom:12px;">Common questions</h2>
     <div style="display:flex; flex-direction:column; gap:6px;">
       {[
-        { q: "What is Honda Activa 125 on-road price in Kamareddy?", a: "Honda Activa 125 on-road price in Kamareddy starts from ₹95,000. WhatsApp us on 8886604615 for today's exact price with insurance and registration." },
-        { q: "Is EMI available on Honda bikes at Prakash Auto Honda?", a: "Yes! EMI from ₹2,600/month with zero down payment on select models. Instant approval through HDFC Bank, SBI, Bajaj Finance and more." },
-        { q: "Where are Prakash Auto Honda showrooms located?", a: "We have 2 branches — Kamareddy (Main) on 8886680259 and Lingampet on 9985033315. Call or WhatsApp us for directions." },
-        { q: "Do you offer free test rides?", a: "Yes, free test rides are available at both branches. WhatsApp 8886604615 to book your slot at Kamareddy or Lingampet." },
-        { q: "What are your showroom timings?", a: "Monday to Saturday, 9 AM to 7 PM at both branches — Kamareddy and Lingampet." },
+        { q: "What is Honda Activa 125 on-road price in Kamareddy?", a: "Honda Activa 125 on-road price in Kamareddy starts from around ₹95,000. WhatsApp us on 8886604615 for today's exact price with insurance and registration." },
+        { q: "Is EMI available on Honda bikes?", a: "Yes. EMI from around ₹2,600/month on select models through HDFC Bank, SBI, Bajaj Finance and IDFC First." },
+        { q: "Where are the showrooms?", a: "2 branches — Kamareddy (main) on 8886680259 and Lingampet on 9985033315." },
+        { q: "Do you offer free test rides?", a: "Yes, at both branches. WhatsApp 8886604615 to book a slot." },
+        { q: "What are your timings?", a: "Monday to Saturday, 9 AM to 7 PM at both branches." },
       ].map(faq => (
         <details style="border:1.5px solid #E5E7EB; border-radius:12px; overflow:hidden;">
-          <summary style="padding:14px 16px; font-weight:700; font-size:13px; color:#111; cursor:pointer; display:flex; justify-content:space-between; align-items:center; list-style:none; background:#fff;">
-            {faq.q} <span style="color:#DC2626; font-size:18px; flex-shrink:0; margin-left:8px;">+</span>
+          <summary class="tap" style="padding:0 16px; font-weight:700; font-size:13px; color:#111; cursor:pointer; display:flex; justify-content:space-between; align-items:center; list-style:none; background:#fff; min-height:52px;">
+            <span>{faq.q}</span>
+            <span style="color:#DC2626; font-size:20px; flex-shrink:0; margin-left:8px;" aria-hidden="true">+</span>
           </summary>
           <p style="padding:0 16px 14px; font-size:13px; color:#6B7280; line-height:1.6; background:#fff;">{faq.a}</p>
         </details>
@@ -356,35 +353,39 @@ const localSchema = {
     </div>
   </section>
 
-  <!-- FINAL CTA BLOCK -->
-  <section style="margin:0 16px 28px; max-width:568px; margin-left:auto; margin-right:auto; background:#DC2626; border-radius:16px; padding:28px 20px; text-align:center; color:white;">
-    <p style="font-size:22px; font-weight:900; margin-bottom:6px;">Get Your Best Price Now</p>
-    <p class="fn" style="font-size:13px; color:#fca5a5; margin-bottom:20px;">ఇప్పుడే అత్యుత్తమ ధర పొందండి</p>
+  <!-- FINAL CTA -->
+  <section style="margin:0 16px 24px; max-width:568px; margin-left:auto; margin-right:auto; background:#DC2626; border-radius:16px; padding:26px 20px; text-align:center; color:white;">
+    <p style="font-size:22px; font-weight:900; margin-bottom:6px;">Get today's Honda price</p>
+    <p lang="te" class="fn" style="font-size:13px; color:#fecaca; margin-bottom:18px;">ఇప్పుడే ధర అడగండి</p>
     <div style="display:flex; flex-direction:column; gap:10px;">
-      <a href={`${WA_BASE}${encodeURIComponent("Hi Prakash Auto Honda, I saw your ad and want today's best price on Honda bikes in Kamareddy. [W-LP-FINAL]")}`}
+      <a href={waLink("Hi Prakash Auto Honda, please share today's best Honda bike price in Kamareddy. [W-LP-FINAL]")}
         target="_blank" rel="noopener noreferrer"
-        style="display:flex; align-items:center; justify-content:center; gap:8px; background:#25D366; color:white; padding:16px; border-radius:12px; font-weight:900; font-size:17px;">
-        💬 WhatsApp Now
+        class="tap"
+        style="gap:8px; background:#25D366; color:white; padding:14px; border-radius:12px; font-weight:900; font-size:16px; min-height:52px;">
+        <span class="deco" aria-hidden="true">💬</span> WhatsApp now
       </a>
-      <a href={PHONE}
-        style="display:flex; align-items:center; justify-content:center; gap:8px; background:rgba(255,255,255,0.15); color:white; border:1.5px solid rgba(255,255,255,0.3); padding:14px; border-radius:12px; font-weight:800; font-size:15px;">
-        📞 Call {PHONE_DISPLAY}
+      <a href={`tel:${PHONE}`}
+        class="tap"
+        style="gap:8px; background:rgba(255,255,255,0.15); color:white; border:1.5px solid rgba(255,255,255,0.3); padding:13px; border-radius:12px; font-weight:800; font-size:15px; min-height:48px;">
+        <span class="deco" aria-hidden="true">📞</span> Call {PHONE_DISP}
       </a>
     </div>
   </section>
 
-</div><!-- /page-body -->
+</div>
 
-<!-- STICKY BOTTOM BAR — always visible -->
-<div style="position:fixed; bottom:0; left:0; right:0; background:white; border-top:2px solid #E5E7EB; padding:10px 12px; display:flex; gap:8px; z-index:100; box-shadow:0 -4px 24px rgba(0,0,0,0.12);">
-  <a href={PHONE}
-    style="flex:1; display:flex; align-items:center; justify-content:center; gap:6px; background:#DC2626; color:white; padding:13px 8px; border-radius:10px; font-weight:900; font-size:14px;">
-    📞 Call
+<!-- STICKY BOTTOM BAR -->
+<div style="position:fixed; bottom:0; left:0; right:0; background:white; border-top:1px solid #E5E7EB; padding:10px 12px; display:flex; gap:8px; z-index:100; box-shadow:0 -4px 24px rgba(0,0,0,0.08);">
+  <a href={`tel:${PHONE}`}
+    class="tap"
+    style="flex:1; gap:6px; background:#DC2626; color:white; padding:0 8px; border-radius:10px; font-weight:900; font-size:14px; min-height:48px;">
+    <span class="deco" aria-hidden="true">📞</span> Call
   </a>
-  <a href={`${WA_BASE}${encodeURIComponent("Hi Prakash Auto Honda, I saw your Google ad and want today's best price on Honda bikes in Kamareddy. [W-LP-BAR]")}`}
+  <a href={waLink("Hi Prakash Auto Honda, I saw your Google ad and want today's best price on Honda bikes in Kamareddy. [W-LP-BAR]")}
     target="_blank" rel="noopener noreferrer"
-    style="flex:2; display:flex; align-items:center; justify-content:center; gap:6px; background:#25D366; color:white; padding:13px 8px; border-radius:10px; font-weight:900; font-size:15px;">
-    💬 WhatsApp Best Price
+    class="tap"
+    style="flex:1.6; gap:6px; background:#25D366; color:white; padding:0 8px; border-radius:10px; font-weight:900; font-size:14px; min-height:48px;">
+    <span class="deco" aria-hidden="true">💬</span> WhatsApp Price
   </a>
 </div>
 
