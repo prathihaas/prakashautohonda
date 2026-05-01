@@ -84,7 +84,34 @@ const faqSchema = {
   <link rel="icon" type="image/png" href="/favicon.png" />
   <meta name="theme-color" content="#DC2626" />
 
-  <!-- GTM -->
+  <!-- Google tag (gtag.js) — direct install for GA4 + Google Ads conversion attribution -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B1B2N1PJP9"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-B1B2N1PJP9', { send_page_view: true });
+    gtag('config', 'AW-17920732372');
+
+    // WhatsApp + phone click conversions (Google Ads + GA4)
+    // Multiple event names: 'whatsapp_click' / 'phone_click' for our GA4 dashboards,
+    // 'Mobile_WhatsApp_Link_Click' for the Google Ads conversion action that imports it.
+    document.addEventListener('click', function(e){
+      var a = e.target && e.target.closest && e.target.closest('a');
+      if (!a) return;
+      var href = a.getAttribute('href') || '';
+      if (href.indexOf('wa.me') !== -1 || href.indexOf('whatsapp.com') !== -1 || href.indexOf('api.whatsapp.com') !== -1) {
+        gtag('event', 'whatsapp_click', { event_category: 'engagement', event_label: 'Auto Honda LP' });
+        gtag('event', 'Mobile_WhatsApp_Link_Click', { event_category: 'engagement', event_label: 'Auto Honda LP' });
+        gtag('event', 'conversion', { send_to: 'AW-17920732372' });
+      } else if (href.indexOf('tel:') === 0) {
+        gtag('event', 'phone_click', { event_category: 'engagement', event_label: 'Auto Honda LP' });
+        gtag('event', 'conversion', { send_to: 'AW-17920732372' });
+      }
+    }, false);
+  </script>
+
+  <!-- GTM (kept for any future GTM-managed tags) -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KL6X6MMB');</script>
 
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
