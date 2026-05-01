@@ -157,6 +157,6 @@ Both bikes are reliable, well-built Honda products backed by Prakash Auto Honda'
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to see both the [Honda Livo](/products/livo) and [Honda Shine 100](/products/shine-100) side by side. Test ride both and feel the difference yourself.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to see both the [Honda Livo](/products/livo) and [Honda Shine 100](/products/shine-100) side by side. Test ride both and feel the difference yourself.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

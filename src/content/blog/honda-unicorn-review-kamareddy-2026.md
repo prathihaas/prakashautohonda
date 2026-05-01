@@ -150,6 +150,6 @@ The Honda Unicorn is not "outdated" — it's timeless. For Kamareddy riders who 
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Unicorn](/products/unicorn) today. Our team will help you compare it with SP 160 and find the perfect fit.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Unicorn](/products/unicorn) today. Our team will help you compare it with SP 160 and find the perfect fit.
 
 We serve riders from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

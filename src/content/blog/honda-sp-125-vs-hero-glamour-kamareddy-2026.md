@@ -152,6 +152,6 @@ For riders on a tight budget who primarily ride within town, Hero Glamour's lowe
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 125](/products/sp-125) and feel the PGM-FI difference yourself.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 125](/products/sp-125) and feel the PGM-FI difference yourself.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

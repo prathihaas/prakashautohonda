@@ -175,6 +175,6 @@ For **highway commuters** (Kamareddy-Nizamabad and beyond): **Honda SP 125** —
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy for a test ride. Our team is experienced in guiding women buyers and can help you choose the right Honda without pressure.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy for a test ride. Our team is experienced in guiding women buyers and can help you choose the right Honda without pressure.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Walk in or call us anytime.

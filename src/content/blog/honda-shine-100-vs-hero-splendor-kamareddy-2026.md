@@ -165,6 +165,6 @@ Either way, you're getting a reliable Indian commuter bike that will serve Kamar
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Shine 100](/products/shine-100) and make your decision.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Shine 100](/products/shine-100) and make your decision.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

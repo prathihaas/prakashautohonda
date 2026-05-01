@@ -158,6 +158,6 @@ For most Kamareddy riders — especially those traveling to Nizamabad, Banswada,
 
 The best way to decide is to feel the difference yourself. **Prakash Auto Honda** in Kamareddy has the Activa 125 and Dio 125 ready for test rides every day.
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to schedule your test ride today. Our team will help you choose without any sales pressure.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to schedule your test ride today. Our team will help you choose without any sales pressure.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

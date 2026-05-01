@@ -198,6 +198,6 @@ For most Kamareddy families, owning one of each (scooter for town/family use + m
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy. Tell us your riding situation — we'll help you decide between scooter and motorcycle and find the specific Honda that fits your needs perfectly.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy. Tell us your riding situation — we'll help you decide between scooter and motorcycle and find the specific Honda that fits your needs perfectly.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

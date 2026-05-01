@@ -204,7 +204,7 @@ For exact on-road prices including registration, insurance, and Telangana road t
 
 Ready to buy? Our showroom at Kamareddy has every model on display for test rides. Our team speaks Telugu and English, and will guide you to the perfect Honda without any pressure.
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to book your test ride today.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to book your test ride today.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals — come see us or reach out online anytime.
 

@@ -168,7 +168,7 @@ A: Honda Shine 100 holds 37–41% depreciation at 3 years vs 48–53% for Hero S
 A: Annual maintenance is similar (₹2,500–₹4,000), but Honda's genuine parts availability through Prakash Auto Honda's network means fewer surprises. Hero bikes with non-genuine parts can have higher long-term repair costs.
 
 **Q: Is Honda Shine 100 available in Kamareddy?**
-A: Yes! Prakash Auto Honda stocks Honda Shine 100 in all colors with immediate delivery. Call **9030857333** or WhatsApp at **wa.me/919030857333** to check availability and book a test ride.
+A: Yes! Prakash Auto Honda stocks Honda Shine 100 in all colors with immediate delivery. Call **9030857333** or WhatsApp at **wa.me/918886604615** to check availability and book a test ride.
 
 ---
 
@@ -180,7 +180,7 @@ A: Yes! Prakash Auto Honda stocks Honda Shine 100 in all colors with immediate d
 
 **Prakash Auto Honda** | Kamareddy, Telangana
 - Call: **9030857333**
-- WhatsApp: **wa.me/919030857333**
+- WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 
 *Available in: Pearl Sparkel Black, Matte Axis Grey Metallic, Rebel Red Metallic, Athletic Blue Metallic*

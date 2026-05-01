@@ -120,7 +120,7 @@ Prakash Auto Honda's **Lingampet Showroom** is located right in Lingampet.
 📍 Main Road, Lingampetpet
 📞 **[9985033315](tel:+919985033315)**
 ⏰ Monday–Saturday: 9 AM – 7 PM | Sunday: 10 AM – 4 PM
-💬 [WhatsApp for Price](https://wa.me/919030857333?text=Honda+enquiry+from+Lingampet)
+💬 [WhatsApp for Price](https://wa.me/918886604615?text=Honda+enquiry+from+Lingampet)
 
 **Free home visit available**: For buyers in Lingampet who cannot visit the showroom, our sales executive can come to your location for paperwork and test ride arrangement. Call **9030857333** to schedule.
 
@@ -138,7 +138,7 @@ Prakash Auto Honda's **Lingampet Showroom** is located right in Lingampet.
 
 ## Book Your Honda from Lingampet in 3 Easy Steps
 
-**Step 1**: WhatsApp "Honda Lingampet" to **[9030857333](https://wa.me/919030857333)** — get instant price list + EMI options
+**Step 1**: WhatsApp "Honda Lingampet" to **[9030857333](https://wa.me/918886604615)** — get instant price list + EMI options
 
 **Step 2**: Visit **Lingampet Showroom** or request executive visit to Lingampet
 
@@ -173,5 +173,5 @@ A: Yes — bring your old bike to our Kamareddy showroom and get the best exchan
 
 **Prakash Auto Honda — Kamareddy's Trusted Honda Dealer**
 Authorized Honda Dealer | Kamareddy District | Telangana
-📞 **9030857333** | 💬 [WhatsApp Now](https://wa.me/919030857333)
+📞 **9030857333** | 💬 [WhatsApp Now](https://wa.me/918886604615)
 *Best price guaranteed. Free test ride. Home delivery available.*

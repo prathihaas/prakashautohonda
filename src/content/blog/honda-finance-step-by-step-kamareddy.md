@@ -238,6 +238,6 @@ A: Contact your lender immediately. One missed payment = late fee + CIBIL impact
 
 **Ready to start?**
 
-**[WhatsApp us](https://wa.me/919030857333)** your bike choice and we'll start the finance process even before you visit the showroom — saving you time. Or visit Prakash Auto Honda, Kamareddy with your documents.
+**[WhatsApp us](https://wa.me/918886604615)** your bike choice and we'll start the finance process even before you visit the showroom — saving you time. Or visit Prakash Auto Honda, Kamareddy with your documents.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Most loans approved within 24 hours.

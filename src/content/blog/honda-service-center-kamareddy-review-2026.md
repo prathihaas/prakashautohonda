@@ -86,7 +86,7 @@ Walk-in service is accepted, but booking in advance via WhatsApp ensures:
 - Specific technician availability for complex repairs
 - Parts pre-ordered if needed (avoids a second visit)
 
-**Book via WhatsApp**: **[WhatsApp us](https://wa.me/919030857333)**
+**Book via WhatsApp**: **[WhatsApp us](https://wa.me/918886604615)**
 
 ### 2. Know Your Service Interval
 Honda's recommended service interval is **6,000 km or 6 months** — whichever comes first. Don't wait for a problem to appear. Regular preventive service keeps your bike reliable.
@@ -172,6 +172,6 @@ These costs include genuine parts (oil, filter, etc.) at Honda-specified interva
 
 **Ready to service your Honda?**
 
-**[WhatsApp us](https://wa.me/919030857333)** to book a service slot at Prakash Auto Honda, Kamareddy. Share your bike model and approximate km to get an estimated service cost before visiting.
+**[WhatsApp us](https://wa.me/918886604615)** to book a service slot at Prakash Auto Honda, Kamareddy. Share your bike model and approximate km to get an estimated service cost before visiting.
 
 We welcome Honda owners from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Your Honda's health is our priority.

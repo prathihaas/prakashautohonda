@@ -176,6 +176,6 @@ For most college students in Kamareddy:
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy and bring your parents too — our team explains EMI plans, maintenance costs, and helps families make the right decision together.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy and bring your parents too — our team explains EMI plans, maintenance costs, and helps families make the right decision together.
 
 We serve students from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Test rides available daily.

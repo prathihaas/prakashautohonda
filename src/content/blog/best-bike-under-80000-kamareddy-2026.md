@@ -160,6 +160,6 @@ All bikes in this range are affordable for most Kamareddy household budgets.
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride Honda Shine 100, Activa 110, Dio 110, or Livo. Walk in with your documents and potentially ride home the same day.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride Honda Shine 100, Activa 110, Dio 110, or Livo. Walk in with your documents and potentially ride home the same day.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

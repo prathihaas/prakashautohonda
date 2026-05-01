@@ -149,6 +149,6 @@ If fuel savings matter more than style or performance, the [Honda SP 125](/produ
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the Honda CB Hornet 125 today. Feel that 11.5 bhp surge for yourself.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the Honda CB Hornet 125 today. Feel that 11.5 bhp surge for yourself.
 
 Serving riders from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai.

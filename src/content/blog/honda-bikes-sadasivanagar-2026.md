@@ -120,7 +120,7 @@ Your nearest Prakash Auto Honda is the **Kamareddy Main Showroom** — the autho
 📍 Hyderabad Road, Kamareddy
 📞 **[8886680259](tel:+918886680259)**
 ⏰ Monday–Saturday: 9 AM – 7 PM | Sunday: 10 AM – 4 PM
-💬 [WhatsApp for Price](https://wa.me/919030857333?text=Honda+enquiry+from+Sadasivanagar)
+💬 [WhatsApp for Price](https://wa.me/918886604615?text=Honda+enquiry+from+Sadasivanagar)
 
 **Free home visit available**: For buyers in Sadasivanagar who cannot visit the showroom, our sales executive can come to your location for paperwork and test ride arrangement. Call **9030857333** to schedule.
 
@@ -138,7 +138,7 @@ Your nearest Prakash Auto Honda is the **Kamareddy Main Showroom** — the autho
 
 ## Book Your Honda from Sadasivanagar in 3 Easy Steps
 
-**Step 1**: WhatsApp "Honda Sadasivanagar" to **[9030857333](https://wa.me/919030857333)** — get instant price list + EMI options
+**Step 1**: WhatsApp "Honda Sadasivanagar" to **[9030857333](https://wa.me/918886604615)** — get instant price list + EMI options
 
 **Step 2**: Visit **Kamareddy Main Showroom** or request executive visit to Sadasivanagar
 
@@ -173,5 +173,5 @@ A: Yes — bring your old bike to our Kamareddy showroom and get the best exchan
 
 **Prakash Auto Honda — Kamareddy's Trusted Honda Dealer**
 Authorized Honda Dealer | Kamareddy District | Telangana
-📞 **9030857333** | 💬 [WhatsApp Now](https://wa.me/919030857333)
+📞 **9030857333** | 💬 [WhatsApp Now](https://wa.me/918886604615)
 *Best price guaranteed. Free test ride. Home delivery available.*

@@ -154,6 +154,6 @@ These aren't marketing claims. They're measurable advantages that Kamareddy ride
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride any Honda from our lineup. Bring your ID and let's find the perfect Honda for your needs and budget.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride any Honda from our lineup. Bring your ID and let's find the perfect Honda for your needs and budget.
 
 We proudly serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals — Kamareddy's trusted Honda partner.

@@ -168,6 +168,6 @@ But if you want to actually love your daily ride rather than just complete it â€
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Hornet 2.0](/products/hornet-2). Experience those USD forks and 17 bhp on a Kamareddy road test.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Hornet 2.0](/products/hornet-2). Experience those USD forks and 17 bhp on a Kamareddy road test.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

@@ -180,7 +180,7 @@ Honda Finance and partner banks frequently offer:
 - Zero processing fees
 - Cashback or exchange bonuses
 
-**[WhatsApp us](https://wa.me/919030857333)** to check currently active promotions before visiting.
+**[WhatsApp us](https://wa.me/918886604615)** to check currently active promotions before visiting.
 
 ### 4. Negotiate Processing Fee
 Processing fees (₹500–₹2,000) are sometimes negotiable, especially during promotions. Don't assume you must pay the listed fee.
@@ -211,6 +211,6 @@ Finance only what you need. Extra accessories can be purchased later rather than
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to get a personalized loan quote for your chosen Honda model today.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to get a personalized loan quote for your chosen Honda model today.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Bring your documents and ride home in a Honda.

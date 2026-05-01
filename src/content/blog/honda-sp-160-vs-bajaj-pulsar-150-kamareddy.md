@@ -162,6 +162,6 @@ For most practical buyers in Kamareddy, the SP 160's ₹18,000 premium pays back
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 160](/products/sp-160) and experience Honda's 160cc FI engine on Kamareddy's roads.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 160](/products/sp-160) and experience Honda's 160cc FI engine on Kamareddy's roads.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

@@ -191,6 +191,6 @@ Jupiter makes sense for pure storage-first buyers who primarily town-ride and wh
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Activa 125](/products/activa-125). Feel the difference for yourself.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Activa 125](/products/activa-125). Feel the difference for yourself.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

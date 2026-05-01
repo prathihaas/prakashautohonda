@@ -163,6 +163,6 @@ It's not a budget buy. At ₹1,47,000, it's a significant investment. But for th
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda CB200X](/products/cb200x). Experience what a real adventure bike feels like on Telangana's roads.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda CB200X](/products/cb200x). Experience what a real adventure bike feels like on Telangana's roads.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

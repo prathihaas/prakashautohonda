@@ -157,6 +157,6 @@ For most Kamareddy families â€” especially those with any highway riding needs â
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to see both models side by side and take a test ride.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to see both models side by side and take a test ride.
 
 Both [Honda Activa 110](/products/activa-110) and [Honda Activa 125](/products/activa-125) are available at our showroom. We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

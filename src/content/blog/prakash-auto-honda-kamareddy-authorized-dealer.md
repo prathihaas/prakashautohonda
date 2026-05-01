@@ -216,7 +216,7 @@ Customers from all these areas visit our Kamareddy showroom for purchases, servi
 
 ## Contact & Visit
 
-**[WhatsApp us](https://wa.me/919030857333)** for:
+**[WhatsApp us](https://wa.me/918886604615)** for:
 - Test ride booking
 - Price quotations
 - Finance eligibility check

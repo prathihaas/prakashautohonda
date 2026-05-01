@@ -167,7 +167,7 @@ Feel the difference of PGM-FI fuel injection yourself. Smooth starts, responsive
 
 **Prakash Auto Honda** | Kamareddy, Telangana
 - Call: **9030857333**
-- WhatsApp: **wa.me/919030857333**
+- WhatsApp: **wa.me/918886604615**
 - Locations: Kamareddy and surrounding areas in Nizamabad district
 
 Also read: [Honda Shine 100 vs Hero Splendor Plus](/blog/honda-shine-vs-hero-splendor-hf-deluxe-2026) | [Honda CB Unicorn vs Bajaj Pulsar 150](/blog/honda-unicorn-vs-bajaj-pulsar-150-2026)

@@ -164,7 +164,7 @@ A: Honda Activa 125 on-road price in Kamareddy is approximately ₹94,000–₹1
 
 **Prakash Auto Honda** | Kamareddy, Telangana
 - Call: **9030857333**
-- WhatsApp: **wa.me/919030857333**
+- WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 
 Also read: [Honda Activa 6G vs Suzuki Access 125 vs TVS Jupiter](/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026) | [Honda Activa vs Electric Scooter — Resale & Real Cost](/blog/honda-activa-vs-electric-scooter-resale-value-2026)

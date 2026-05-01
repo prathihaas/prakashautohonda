@@ -194,7 +194,7 @@ We don't just sell Hondas — we help Kamareddy buyers make the right financial 
 
 **Prakash Auto Honda** | Kamareddy, Telangana
 - Call: **9030857333**
-- WhatsApp: **wa.me/919030857333**
+- WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 
 Also read: [Honda Activa 6G vs Suzuki Access 125 vs TVS Jupiter](/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026) | [Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman](/blog/honda-activa-125-vs-tvs-jupiter-125-vs-suzuki-burgman-2026)

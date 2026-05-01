@@ -157,7 +157,7 @@ During major festivals (Dussehra, Diwali, Ugadi, Sankranti), Honda typically run
 - Extended zero-EMI periods
 - Exchange bonus for old vehicle
 
-**[WhatsApp us](https://wa.me/919030857333)** to check currently active offers before visiting.
+**[WhatsApp us](https://wa.me/918886604615)** to check currently active offers before visiting.
 
 ---
 
@@ -192,6 +192,6 @@ It's really that simple. Our team handles all the paperwork coordination with le
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to start your zero-down-payment Honda finance application today.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to start your zero-down-payment Honda finance application today.
 
 We assist customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Come in with your documents and leave on a Honda.

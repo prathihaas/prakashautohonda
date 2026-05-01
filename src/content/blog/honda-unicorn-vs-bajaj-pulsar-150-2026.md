@@ -166,7 +166,7 @@ A: Honda CB Unicorn on-road price in Kamareddy is approximately ₹1,28,000–�
 
 **Prakash Auto Honda** | Kamareddy, Telangana
 - Call: **9030857333**
-- WhatsApp: **wa.me/919030857333**
+- WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 
 Also read: [Honda SP 125 vs Hero Glamour 125 vs Bajaj Pulsar 125](/blog/honda-sp125-vs-hero-glamour-vs-bajaj-pulsar-125-2026) | [Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman](/blog/honda-activa-125-vs-tvs-jupiter-125-vs-suzuki-burgman-2026)

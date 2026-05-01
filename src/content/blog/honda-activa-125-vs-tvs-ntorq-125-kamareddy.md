@@ -150,6 +150,6 @@ The NTorq 125 is a genuinely exciting scooter and has its buyers — but for Kam
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Activa 125](/products/activa-125) today. We'll show you the difference firsthand and help you make the right call.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Activa 125](/products/activa-125) today. We'll show you the difference firsthand and help you make the right call.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

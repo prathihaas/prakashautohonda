@@ -177,6 +177,6 @@ Despite Honda SP 125 having the highest upfront price, its fuel efficiency and s
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to explore the full Honda lineup with test rides. Our team will help you find the right Honda for your riding needs and budget.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to explore the full Honda lineup with test rides. Our team will help you find the right Honda for your riding needs and budget.
 
 Serving customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

@@ -181,6 +181,6 @@ Both brands have adequate service presence in Kamareddy. Honda's authorized cent
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 160](/products/sp-160), [Honda Hornet 2.0](/products/hornet-2), or [Honda CB200X](/products/cb200x) and feel the Honda difference.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 160](/products/sp-160), [Honda Hornet 2.0](/products/hornet-2), or [Honda CB200X](/products/cb200x) and feel the Honda difference.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

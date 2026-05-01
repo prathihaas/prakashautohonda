@@ -181,6 +181,6 @@ For most Kamareddy buyers, the local service advantage of Honda at Prakash Auto 
 
 ---
 
-**[WhatsApp us](https://wa.me/919030857333)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Dio 125](/products/dio-125) and see if it's the right scooter for you.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Dio 125](/products/dio-125) and see if it's the right scooter for you.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

@@ -163,7 +163,7 @@ Compare it yourself. Ride the Livo, ride the Passion Pro at any Hero showroom, a
 
 **Prakash Auto Honda** | Kamareddy, Telangana
 - Call: **9030857333**
-- WhatsApp: **wa.me/919030857333**
+- WhatsApp: **wa.me/918886604615**
 - Service at: Kamareddy and surrounding areas in Nizamabad district
 
 Also read: [Honda Shine 100 vs Hero Splendor Plus vs HF Deluxe](/blog/honda-shine-vs-hero-splendor-hf-deluxe-2026) | [Honda SP 125 vs Hero Glamour vs Bajaj Pulsar 125](/blog/honda-sp125-vs-hero-glamour-vs-bajaj-pulsar-125-2026)

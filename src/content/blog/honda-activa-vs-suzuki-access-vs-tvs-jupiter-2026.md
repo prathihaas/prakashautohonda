@@ -177,7 +177,7 @@ Test ride Activa, Access, Jupiter — మీరే decide చేయండి. Pr
 
 **Prakash Auto Honda** | Kamareddy, Telangana
 - Call: **9030857333**
-- WhatsApp: **wa.me/919030857333**
+- WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 
 Also read: [Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman](/blog/honda-activa-125-vs-tvs-jupiter-125-vs-suzuki-burgman-2026) | [Honda Activa vs Electric Scooter 2026](/blog/honda-activa-vs-electric-scooter-resale-value-2026)
