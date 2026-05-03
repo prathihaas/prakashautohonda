@@ -22,7 +22,8 @@ const priceNumber = price ? price.replace(/[^0-9]/g, '').slice(0, 8) : undefined
 
 const productSchema = {
   "@context": "https://schema.org",
-  "@type": "Product",
+  "@type": ["Product", "MotorizedBicycle"],
+  "@id": `https://www.prakashautohonda.com/products/${entry.slug}/#product`,
   "name": name_en,
   "description": seo_description,
   "image": featured_image,
@@ -32,11 +33,12 @@ const productSchema = {
       "@type": "Offer",
       "priceCurrency": "INR",
       "price": priceNumber,
-      "priceValidUntil": "2026-12-31",
+      "priceValidUntil": "2027-12-31",
       "availability": "https://schema.org/InStock",
       "itemCondition": "https://schema.org/NewCondition",
       "seller": {
         "@type": "AutoDealer",
+        "@id": "https://www.prakashautohonda.com/#organization",
         "name": "Prakash Auto Honda",
         "url": "https://www.prakashautohonda.com"
       }
@@ -66,7 +68,7 @@ const crossSellModels = [
 ].filter(m => m.slug !== entry.slug);
 ---
 
-<Layout title={seo_title} description={seo_description}>
+<Layout title={seo_title} description={seo_description} noOrgSchema={true}>
 
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />

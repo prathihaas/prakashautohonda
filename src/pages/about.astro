@@ -7,13 +7,16 @@ const description = "Prakash Auto Honda — Kamareddy's authorized Honda two-whe
 const aboutSchema = {
   "@context": "https://schema.org",
   "@type": "AutoDealer",
+  "@id": "https://www.prakashautohonda.com/#organization",
   "name": "Prakash Auto Honda",
-  "url": "https://www.prakashautohonda.com/about",
+  "url": "https://www.prakashautohonda.com/",
   "telephone": "+91-8886604615",
+  "foundingDate": "2022",
   "description": "Authorized Honda Motorcycle & Scooter India (HMSI) dealership in Kamareddy, Telangana. Sales, service, and genuine spare parts for all Honda two-wheelers.",
   "brand": { "@type": "Brand", "name": "Honda" },
   "address": {
     "@type": "PostalAddress",
+    "streetAddress": "Kamareddy Main Road",
     "addressLocality": "Kamareddy",
     "addressRegion": "Telangana",
     "postalCode": "503111",
@@ -33,7 +36,7 @@ const aboutSchema = {
 };
 ---
 
-<Layout title={title} description={description}>
+<Layout title={title} description={description} noOrgSchema={true}>
   <script type="application/ld+json" set:html={JSON.stringify(aboutSchema)} />
 
   <main class="pt-28 pb-20 bg-white">
@@ -70,9 +73,9 @@ const aboutSchema = {
         <div class="bg-red-600 rounded-2xl p-10 text-white text-center">
           <div class="grid grid-cols-2 gap-8">
             <div>
-              <p class="text-4xl font-black text-white">10+</p>
-              <p class="text-sm font-bold uppercase tracking-wide mt-1 text-red-100">Years Serving Kamareddy</p>
-              <p class="font-noto text-red-200 text-xs mt-1">సంవత్సరాల అనుభవం</p>
+              <p class="text-4xl font-black text-white">Est.</p>
+              <p class="text-sm font-bold uppercase tracking-wide mt-1 text-red-100">Since 2022 in Kamareddy</p>
+              <p class="font-noto text-red-200 text-xs mt-1">2022 నుండి సేవలు</p>
             </div>
             <div>
               <p class="text-4xl font-black text-white">5000+</p>
@@ -160,15 +163,15 @@ const aboutSchema = {
         <p class="text-gray-600 mb-4">We stock the complete Honda two-wheeler lineup — scooters for the city, commuter bikes for daily use, and premium motorcycles for enthusiasts.</p>
         <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
           {[
-            { name: "Honda Activa 6G", type: "Scooter", slug: "activa-6g" },
+            { name: "Honda Activa 110", type: "Scooter", slug: "activa-110" },
             { name: "Honda Activa 125", type: "Premium Scooter", slug: "activa-125" },
-            { name: "Honda Dio", type: "Sporty Scooter", slug: "dio" },
+            { name: "Honda Dio 125", type: "Sporty Scooter", slug: "dio-125" },
             { name: "Honda SP 125", type: "Commuter Bike", slug: "sp-125" },
-            { name: "Honda Shine", type: "Commuter Bike", slug: "shine" },
-            { name: "Honda CB Unicorn 160", type: "Premium Commuter", slug: "unicorn-160" },
-            { name: "Honda Hornet 2.0", type: "Sports Bike", slug: "hornet-20" },
-            { name: "Honda CD 110 Dream", type: "Economy Bike", slug: "cd-110-dream" },
-            { name: "Honda Grazia", type: "Premium Scooter", slug: "grazia" },
+            { name: "Honda Shine 125", type: "Commuter Bike", slug: "shine-125" },
+            { name: "Honda Unicorn", type: "Premium Commuter", slug: "unicorn" },
+            { name: "Honda Hornet 2.0", type: "Sports Bike", slug: "hornet-2-0" },
+            { name: "Honda Livo", type: "Economy Bike", slug: "livo" },
+            { name: "Honda CB200X", type: "Adventure Tourer", slug: "cb200x" },
           ].map(product => (
             <a href={`/products/${product.slug}`}
                class="flex flex-col bg-gray-50 rounded-xl p-4 hover:bg-red-50 hover:border-red-200 border border-gray-100 transition">

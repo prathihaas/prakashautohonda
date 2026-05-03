@@ -1,0 +1,72 @@
+# Prakash Auto Honda
+
+> Authorized Honda two-wheeler dealership serving Kamareddy district, Telangana, India since 2022.
+
+## Business Overview
+
+Prakash Auto Honda is the authorized Honda Motorcycle & Scooter India (HMSI) dealership in Kamareddy, Telangana. We are the only authorized Honda dealer in Kamareddy district, offering new Honda two-wheelers, an authorized service center, genuine spare parts, and vehicle finance assistance.
+
+- **Type:** Authorized Honda Two-Wheeler Dealership
+- **Brand:** Honda Motorcycle & Scooter India (HMSI)
+- **Founded:** 2022
+- **Branches:** 2 (Kamareddy Main + Lingampet)
+- **Phone:** +91 8886604615
+- **WhatsApp:** https://wa.me/918886604615
+- **Website:** https://www.prakashautohonda.com
+- **Address:** Kamareddy, Telangana 503111
+- **Hours:** Monday–Saturday, 9 AM–7 PM
+
+## Location & Service Area
+
+**Main Showroom:** Hyderabad Road, Kamareddy, Telangana 503111 (near NH44)
+**Branch:** Main Road, Lingampet
+
+Serving riders across Kamareddy, Banswada, Yellareddy, Nizamsagar, Lingampet, Bibipet, Pitlam, Tadwai, Bheemgal, Domakonda, Varni, Sadasivanagar, Bhiknoor, and Machareddy.
+
+## Honda Models Available
+
+| Model | Type | Starting Price |
+|-------|------|---------------|
+| Honda Activa 110 | Scooter | ₹73,000 onwards |
+| Honda Activa 125 | Premium Scooter | ₹95,000 onwards |
+| Honda Dio 110 | Sporty Scooter | ₹75,000 onwards |
+| Honda Dio 125 | Premium Sporty Scooter | ₹85,000 onwards |
+| Honda Shine 100 | Commuter Bike | ₹74,000 onwards |
+| Honda Shine 125 | Commuter Bike | ₹82,000 onwards |
+| Honda SP 125 | Commuter Bike | ₹85,000 onwards |
+| Honda SP 160 | Sports Commuter | ₹1,10,000 onwards |
+| Honda Livo | Economy Bike | ₹76,000 onwards |
+| Honda Unicorn | Premium Commuter | ₹1,08,000 onwards |
+| Honda CB Hornet 125 | Sports Bike | ₹95,000 onwards |
+| Honda Hornet 2.0 | Sports Bike | ₹1,35,000 onwards |
+| Honda CB200X | Adventure Tourer | ₹1,52,000 onwards |
+
+## Services Offered
+
+- New Honda two-wheeler sales
+- Authorized Honda service center (Honda-certified technicians)
+- Genuine Honda spare parts
+- Vehicle finance and EMI assistance (zero down payment on select models)
+- Insurance assistance
+- Free test rides
+- WhatsApp-based support and service booking
+
+## EMI Information
+
+Easy EMI starting from ₹2,100/month. Zero down payment available on select models through HDFC, SBI, Bajaj Finance, and other partners.
+
+## Customer Ratings
+
+- Google Rating: 4.3/5 (500+ reviews)
+
+## Competitors
+
+Hero MotoCorp, TVS, Bajaj dealers in Kamareddy area.
+
+## Content
+
+- Product pages: /products/[model-slug]
+- Blog: /blog/ (Honda buying guides, comparisons, local content in English and Telugu)
+- About: /about/
+- Service: /service/
+- Kamareddy Honda guide: /kamareddy/

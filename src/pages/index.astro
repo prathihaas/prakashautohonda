@@ -18,10 +18,12 @@ const PHONE = "tel:+918886604615";
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "AutoDealer",
+  "@id": "https://www.prakashautohonda.com/#organization",
   "name": "Prakash Auto Honda",
   "url": "https://www.prakashautohonda.com",
   "logo": "https://www.prakashautohonda.com/favicon.png",
   "telephone": "+91-8886604615",
+  "foundingDate": "2022",
   "description": "Authorized Honda two-wheeler dealer in Kamareddy, Telangana with 2 branches.",
   "address": {
     "@type": "PostalAddress",
@@ -103,7 +105,7 @@ const faqSchema = {
 };
 ---
 
-<Layout title={seo_title} description={seo_description}>
+<Layout title={seo_title} description={seo_description} noOrgSchema={true}>
 
   <!-- Schema Markup -->
   <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
@@ -349,19 +351,7 @@ const faqSchema = {
   </div>
 
   <!-- REVIEWS SECTION -->
-  <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "AutoDealer",
-    "name": "Prakash Auto Honda",
-    "url": "https://www.prakashautohonda.com",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.3",
-      "reviewCount": "500",
-      "bestRating": "5",
-      "worstRating": "1"
-    }
-  })} />
+  <!-- aggregateRating merged into main organizationSchema above -->
 
   <section class="py-16 bg-gray-50 border-t border-gray-100">
     <div class="max-w-5xl mx-auto px-4">

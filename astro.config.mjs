@@ -3,42 +3,43 @@ import sitemap from "@astrojs/sitemap";
 import react from "@astrojs/react";
 import tailwind from "@astrojs/tailwind";
 
+// Static lastmod dates — update when content actually changes, not on every build
+const HOMEPAGE_LASTMOD   = '2026-05-03T00:00:00.000Z';
+const BLOG_LASTMOD       = '2026-05-03T00:00:00.000Z';
+const PRODUCT_LASTMOD    = '2026-05-01T00:00:00.000Z';
+const LOCATION_LASTMOD   = '2026-05-01T00:00:00.000Z';
+const STATIC_PAGE_LASTMOD = '2026-04-15T00:00:00.000Z';
+
 export default defineConfig({
   site: "https://www.prakashautohonda.com",
   integrations: [
     tailwind(),
-        sitemap({
-      filter: (page) => !page.includes('/404'),
+    sitemap({
+      filter: (page) =>
+        !page.includes('/404') &&
+        !page.includes('/lp/'),
       serialize: (item) => {
         const url = item.url;
-        const now = new Date().toISOString();
 
-        // Homepage — crawl daily, maximum priority
         if (url === 'https://www.prakashautohonda.com/' || url === 'https://www.prakashautohonda.com') {
-          return { ...item, priority: 1.0, changefreq: 'daily', lastmod: now };
+          return { ...item, priority: 1.0, changefreq: 'daily', lastmod: HOMEPAGE_LASTMOD };
         }
-        // Blog listing page — crawl weekly (new posts land here)
         if (url.endsWith('/blog') || url.endsWith('/blog/')) {
-          return { ...item, priority: 0.9, changefreq: 'weekly', lastmod: now };
+          return { ...item, priority: 0.9, changefreq: 'weekly', lastmod: BLOG_LASTMOD };
         }
-        // Individual blog posts — high value, crawl weekly
         if (url.includes('/blog/')) {
-          return { ...item, priority: 0.8, changefreq: 'weekly', lastmod: now };
+          return { ...item, priority: 0.8, changefreq: 'weekly', lastmod: BLOG_LASTMOD };
         }
-        // Product / car / service pages — important but stable
         if (url.includes('/products/') || url.includes('/cars/') || url.includes('/services/')) {
-          return { ...item, priority: 0.8, changefreq: 'monthly', lastmod: now };
+          return { ...item, priority: 0.8, changefreq: 'monthly', lastmod: PRODUCT_LASTMOD };
         }
-        // Locations / branches — useful for local SEO
-        if (url.includes('/locations') || url.includes('/branches')) {
-          return { ...item, priority: 0.7, changefreq: 'monthly', lastmod: now };
+        if (url.includes('/locations') || url.includes('/branches') || url.includes('/kamareddy')) {
+          return { ...item, priority: 0.7, changefreq: 'monthly', lastmod: LOCATION_LASTMOD };
         }
-        // Contact page — static, low change frequency
         if (url.includes('/contact')) {
-          return { ...item, priority: 0.6, changefreq: 'yearly', lastmod: now };
+          return { ...item, priority: 0.6, changefreq: 'yearly', lastmod: STATIC_PAGE_LASTMOD };
         }
-        // All other pages — moderate priority
-        return { ...item, priority: 0.6, changefreq: 'monthly', lastmod: now };
+        return { ...item, priority: 0.6, changefreq: 'monthly', lastmod: STATIC_PAGE_LASTMOD };
       },
     }),
     react(),

@@ -20,15 +20,20 @@ const {
 
 const displayDate = date.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
 
+const isOrgAuthor = !author || author.toLowerCase().includes('team') || author.toLowerCase().includes('honda');
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
+  "@id": `${Astro.url.href}#article`,
   "headline": seo_title || title,
   "description": seo_description || excerpt,
   "image": featured_image || "https://www.prakashautohonda.com/og-image.jpg",
-  "author": { "@type": "Person", "name": author || "Prakash Auto Honda Team" },
+  "author": isOrgAuthor
+    ? { "@type": "Organization", "@id": "https://www.prakashautohonda.com/#organization", "name": "Prakash Auto Honda" }
+    : { "@type": "Person", "name": author },
   "publisher": {
     "@type": "Organization",
+    "@id": "https://www.prakashautohonda.com/#organization",
     "name": "Prakash Auto Honda",
     "logo": { "@type": "ImageObject", "url": "https://www.prakashautohonda.com/logo.png" }
   },
@@ -58,7 +63,7 @@ const featuredBikes = [
 ];
 ---
 
-<Layout title={seo_title} description={seo_description} image={featured_image} canonical={`https://www.prakashautohonda.com/blog/${entry.slug}/`} ogType="article">
+<Layout title={seo_title} description={seo_description} image={featured_image} canonical={`https://www.prakashautohonda.com/blog/${entry.slug}/`} ogType="article" noOrgSchema={true}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <nav class="pt-24 pb-2 max-w-3xl mx-auto px-4">

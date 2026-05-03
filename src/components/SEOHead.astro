@@ -2,21 +2,24 @@
 // SEOHead.astro - Prakash Auto Honda
 const {
   title = "Prakash Auto Honda | Authorized Honda Dealer in Kamareddy, Telangana",
-  description = "Prakash Auto Honda is an authorized Honda dealership in Kamareddy, Telangana 503111. Explore new Honda cars, book test drives, and get genuine service.",
+  description = "Prakash Auto Honda is an authorized Honda two-wheeler dealership in Kamareddy, Telangana 503111. Explore Honda bikes & scooters, book test rides, and get genuine service.",
   canonical = Astro.url.href,
   image = "/og-image.jpg",
   ogType = "website",
+  noOrgSchema = false,
 } = Astro.props;
 
 const schema = {
   "@context": "https://schema.org",
   "@type": "AutoDealer",
+  "@id": "https://www.prakashautohonda.com/#organization",
   "name": "Prakash Auto Honda",
   "url": "https://www.prakashautohonda.com",
   "logo": "https://www.prakashautohonda.com/logo.png",
   "image": "https://www.prakashautohonda.com/og-image.jpg",
-  "description": "Authorized Honda dealership in Kamareddy, Telangana. New Honda two-wheelers, service, and genuine spare parts.",
+  "description": "Authorized Honda two-wheeler dealership in Kamareddy, Telangana. New Honda bikes, scooters, service, and genuine spare parts.",
   "telephone": "+91-8886604615",
+  "foundingDate": "2022",
   "brand": { "@type": "Brand", "name": "Honda" },
   "address": {
     "@type": "PostalAddress",
@@ -33,7 +36,7 @@ const schema = {
     "opens": "09:00",
     "closes": "19:00"
   }],
-  "areaServed": ["Kamareddy", "Banswada", "Yellareddy", "Nizamsagar", "Telangana"],
+  "areaServed": ["Kamareddy", "Banswada", "Yellareddy", "Nizamsagar", "Lingampet", "Bibipet", "Pitlam", "Tadwai", "Telangana"],
   "sameAs": [
     "https://www.facebook.com/prakashautohonda",
     "https://www.instagram.com/prakashautohonda"
@@ -74,5 +77,5 @@ const schema = {
 <link rel="alternate" hreflang="en" href={canonical} />
 <link rel="alternate" hreflang="x-default" href={canonical} />
 
-<!-- JSON-LD Structured Data — set:html renders parsed JSON, not literal expression -->
-<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+<!-- JSON-LD Structured Data — only on non-product/non-article pages to avoid schema noise -->
+{!noOrgSchema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
