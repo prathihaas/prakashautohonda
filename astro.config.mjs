@@ -33,7 +33,7 @@ export default defineConfig({
         if (url.includes('/products/') || url.includes('/cars/') || url.includes('/services/')) {
           return { ...item, priority: 0.8, changefreq: 'monthly', lastmod: PRODUCT_LASTMOD };
         }
-        if (url.includes('/locations') || url.includes('/branches') || url.includes('/kamareddy')) {
+        if (url.includes('/locations') || url.includes('/branches') || url.includes('/kamareddy') || url.includes('/lingampet')) {
           return { ...item, priority: 0.7, changefreq: 'monthly', lastmod: LOCATION_LASTMOD };
         }
         if (url.includes('/contact')) {

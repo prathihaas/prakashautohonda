@@ -7,13 +7,14 @@ const description = "Visit Prakash Auto Honda showroom in Kamareddy, Telangana. 
 const locationSchema = {
   "@context": "https://schema.org",
   "@type": "AutoDealer",
+  "@id": "https://www.prakashautohonda.com/kamareddy/#branch",
   "name": "Prakash Auto Honda — Kamareddy Showroom",
-  "url": "https://www.prakashautohonda.com/kamareddy",
+  "url": "https://www.prakashautohonda.com/kamareddy/",
   "telephone": "+91-8886604615",
   "brand": { "@type": "Brand", "name": "Honda" },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Kamareddy Main Road",
+    "streetAddress": "Hyderabad Road",
     "addressLocality": "Kamareddy",
     "addressRegion": "Telangana",
     "postalCode": "503111",
@@ -28,16 +29,26 @@ const locationSchema = {
   }],
   "parentOrganization": {
     "@type": "AutoDealer",
+    "@id": "https://www.prakashautohonda.com/#organization",
     "name": "Prakash Auto Honda",
     "url": "https://www.prakashautohonda.com"
   }
 };
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashautohonda.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Kamareddy Showroom", "item": "https://www.prakashautohonda.com/kamareddy/" }
+  ]
+};
 ---
 
-<Layout title={title} description={description}>
+<Layout title={title} description={description} noOrgSchema={true}>
 
-  <!-- Location-specific JSON-LD schema -->
   <script type="application/ld+json" set:html={JSON.stringify(locationSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
   <main class="pt-24 pb-20 bg-white">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -124,6 +135,17 @@ const locationSchema = {
             <span class="bg-white border border-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm font-medium">{area}</span>
           ))}
         </div>
+      </div>
+
+      <!-- Lingampet Branch link -->
+      <div class="bg-gray-50 rounded-2xl p-6 mb-8 border border-gray-100 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div>
+          <p class="font-bold text-gray-900">Looking for our Lingampet branch?</p>
+          <p class="text-sm text-gray-500 mt-1">Second showroom on Main Road, Lingampet — call +91 9985033315</p>
+        </div>
+        <a href="/lingampet" class="flex-shrink-0 bg-red-600 text-white px-5 py-2 rounded-lg font-bold text-sm hover:bg-red-700 transition">
+          View Lingampet Showroom →
+        </a>
       </div>
 
       <!-- Honda Products CTA -->

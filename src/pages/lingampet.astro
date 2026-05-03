@@ -1,0 +1,209 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = "Prakash Auto Honda Lingampet | Honda Showroom & Service Centre";
+const description = "Visit Prakash Auto Honda showroom in Lingampet, Kamareddy district. Authorized Honda two-wheeler dealer — buy Activa, Shine, SP 125 and more. Call +91-9985033315.";
+
+const locationSchema = {
+  "@context": "https://schema.org",
+  "@type": "AutoDealer",
+  "@id": "https://www.prakashautohonda.com/lingampet/#branch",
+  "name": "Prakash Auto Honda — Lingampet Showroom",
+  "url": "https://www.prakashautohonda.com/lingampet/",
+  "telephone": "+91-9985033315",
+  "brand": { "@type": "Brand", "name": "Honda" },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Main Road",
+    "addressLocality": "Lingampet",
+    "addressRegion": "Telangana",
+    "addressCountry": "IN"
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "09:00",
+    "closes": "19:00"
+  }],
+  "parentOrganization": {
+    "@type": "AutoDealer",
+    "@id": "https://www.prakashautohonda.com/#organization",
+    "name": "Prakash Auto Honda",
+    "url": "https://www.prakashautohonda.com"
+  }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashautohonda.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Lingampet Showroom", "item": "https://www.prakashautohonda.com/lingampet/" }
+  ]
+};
+---
+
+<Layout title={title} description={description} noOrgSchema={true}>
+
+  <script type="application/ld+json" set:html={JSON.stringify(locationSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+  <main class="pt-24 pb-20 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-xs text-gray-400 mb-6 font-semibold uppercase tracking-wider">
+        <a href="/" class="hover:text-red-600 transition">Home</a>
+        <span>/</span>
+        <span class="text-gray-600">Lingampet Showroom</span>
+      </nav>
+
+      <!-- Page Header -->
+      <div class="mb-12">
+        <h1 class="text-4xl md:text-5xl font-black tracking-tight text-gray-900 mb-3">
+          Prakash Auto Honda — Lingampet Showroom
+        </h1>
+        <h2 class="font-noto text-2xl font-bold text-gray-500 mb-4">
+          ప్రకాష్ ఆటో హోండా — లింగంపేట షోరూమ్
+        </h2>
+        <p class="text-lg text-gray-600 max-w-2xl">
+          Authorized Honda two-wheeler dealer in Lingampet, Kamareddy district. Test ride the latest Honda Activa, Shine, SP 125 and more. Genuine service, easy EMI financing available.
+        </p>
+      </div>
+
+      <!-- Contact Cards -->
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-12">
+
+        <a href="tel:+919985033315"
+          class="group bg-red-600 p-8 rounded-2xl text-center hover:bg-red-700 transition-all duration-300 transform hover:-translate-y-1 shadow-lg">
+          <div class="w-12 h-12 mx-auto bg-white/20 text-white rounded-full flex items-center justify-center mb-4">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+          </div>
+          <p class="font-bold text-lg text-white">Call Now</p>
+          <p class="text-white/80 text-sm mt-1">+91 99850 33315</p>
+          <p class="font-noto text-white/60 text-xs mt-1">ఇప్పుడే కాల్ చేయండి</p>
+        </a>
+
+        <a href="https://wa.me/919985033315?text=Hi%2C%20I%20want%20to%20visit%20Prakash%20Auto%20Honda%20Lingampet%20showroom.%20%5BW-LG%5D"
+          target="_blank" rel="noopener noreferrer"
+          class="group bg-white border-2 border-gray-200 p-8 rounded-2xl text-center hover:border-green-400 hover:bg-green-50 transition-all duration-300 transform hover:-translate-y-1 shadow-sm">
+          <div class="w-12 h-12 mx-auto bg-green-100 rounded-full flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-green-600" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+          </div>
+          <p class="font-bold text-lg text-gray-800">WhatsApp</p>
+          <p class="text-gray-500 text-sm mt-1">+91 99850 33315</p>
+          <p class="font-noto text-gray-400 text-xs mt-1">వాట్సాప్ పంపండి</p>
+        </a>
+
+        <a href="https://share.google/zNw2Q3FFo0LbyWgNz"
+          target="_blank" rel="noopener noreferrer"
+          class="group bg-white border-2 border-gray-200 p-8 rounded-2xl text-center hover:border-red-300 hover:bg-red-50 transition-all duration-300 transform hover:-translate-y-1 shadow-sm">
+          <div class="w-12 h-12 mx-auto bg-red-100 rounded-full flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-red-600" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+          </div>
+          <p class="font-bold text-lg text-gray-800">Get Directions</p>
+          <p class="text-gray-500 text-sm mt-1">Open Google Maps</p>
+          <p class="font-noto text-gray-400 text-xs mt-1">దారి చూపించండి</p>
+        </a>
+
+      </div>
+
+      <!-- Address + Hours -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+        <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
+          <h2 class="text-lg font-black text-gray-900 uppercase tracking-wide mb-4">Showroom Address</h2>
+          <p class="font-bold text-gray-800">Prakash Auto Honda — Lingampet</p>
+          <p class="text-gray-600 mt-1">Main Road, Lingampet</p>
+          <p class="text-gray-600">Kamareddy District, Telangana</p>
+          <p class="font-noto text-gray-500 mt-3">మైన్ రోడ్, లింగంపేట</p>
+          <p class="font-noto text-gray-500">కామారెడ్డి జిల్లా, తెలంగాణ</p>
+          <a href="https://share.google/zNw2Q3FFo0LbyWgNz" target="_blank" rel="noopener noreferrer"
+            class="inline-flex items-center gap-1 text-red-600 font-semibold text-sm mt-4 hover:text-red-700">
+            Get Directions on Google Maps →
+          </a>
+        </div>
+        <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
+          <h2 class="text-lg font-black text-gray-900 uppercase tracking-wide mb-4">Working Hours</h2>
+          <div class="space-y-3 text-gray-700">
+            <div class="flex justify-between">
+              <span class="font-medium">Mon – Sat</span>
+              <span class="font-bold text-red-600">9:00 AM – 7:00 PM</span>
+            </div>
+            <div class="flex justify-between">
+              <span class="font-medium">Sunday</span>
+              <span class="text-gray-400">Closed</span>
+            </div>
+          </div>
+          <p class="font-noto text-gray-500 mt-4 text-sm">సోమ – శని: ఉదయం 9 – సాయంత్రం 7</p>
+          <div class="mt-4 pt-4 border-t border-gray-200">
+            <p class="text-sm text-gray-500">Also available on WhatsApp for enquiries and service bookings.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Nearby Areas -->
+      <div class="bg-gray-50 rounded-2xl p-8 mb-12 border border-gray-100">
+        <h2 class="text-xl font-black text-gray-900 mb-4">Serving Lingampet & Surrounding Areas</h2>
+        <p class="text-gray-600 mb-4">Honda customers from Lingampet and nearby mandals can visit our showroom for new bike purchases, free test rides, and authorized service:</p>
+        <div class="flex flex-wrap gap-2">
+          {['Lingampet', 'Kamareddy', 'Banswada', 'Nizamsagar', 'Yellareddy', 'Pitlam', 'Bichkunda', 'Varni', 'Bhiknoor'].map(area => (
+            <span class="bg-white border border-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm font-medium">{area}</span>
+          ))}
+        </div>
+      </div>
+
+      <!-- Models Available -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-gray-900 mb-4">Honda Models at Lingampet Showroom</h2>
+        <p class="text-gray-600 mb-6">We stock the complete Honda two-wheeler lineup at our Lingampet branch — same prices, same genuine products, same authorized service as our Kamareddy main showroom.</p>
+        <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-6">
+          {[
+            { name: "Honda Activa 125", slug: "activa-125" },
+            { name: "Honda Activa 110", slug: "activa-110" },
+            { name: "Honda Shine 125", slug: "shine-125" },
+            { name: "Honda SP 125", slug: "sp-125" },
+            { name: "Honda SP 160", slug: "sp-160" },
+            { name: "Honda Unicorn", slug: "unicorn" },
+            { name: "Honda Dio 125", slug: "dio-125" },
+            { name: "Honda Hornet 2.0", slug: "hornet-2-0" },
+            { name: "Honda CB200X", slug: "cb200x" },
+          ].map(bike => (
+            <a href={`/products/${bike.slug}`}
+              class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-red-200 hover:bg-red-50 transition font-semibold text-sm text-gray-700 hover:text-red-600">
+              <span class="text-red-500">→</span> {bike.name}
+            </a>
+          ))}
+        </div>
+        <a href="/products" class="text-red-600 font-bold hover:underline text-sm">View all Honda models →</a>
+      </div>
+
+      <!-- Kamareddy branch link -->
+      <div class="bg-gray-50 rounded-2xl p-6 mb-8 border border-gray-100 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div>
+          <p class="font-bold text-gray-900">Also visit our main Kamareddy showroom</p>
+          <p class="text-sm text-gray-500 mt-1">Hyderabad Road, Kamareddy · +91 8886604615</p>
+        </div>
+        <a href="/kamareddy" class="flex-shrink-0 bg-red-600 text-white px-5 py-2 rounded-lg font-bold text-sm hover:bg-red-700 transition">
+          View Kamareddy Showroom →
+        </a>
+      </div>
+
+      <!-- CTA -->
+      <div class="bg-red-600 rounded-2xl p-10 text-center text-white">
+        <h2 class="text-2xl font-black mb-2">Explore Honda Bikes &amp; Scooters</h2>
+        <p class="font-noto text-lg font-bold text-white/70 mb-4">హోండా బైక్స్ &amp; స్కూటర్లు చూడండి</p>
+        <p class="text-white/80 max-w-lg mx-auto mb-8">Full range available at Lingampet — Honda Activa, Shine, SP 125, Unicorn, Hornet and more. Call or WhatsApp to check current stock and best prices.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="/products" class="bg-white text-red-600 font-black px-8 py-3 rounded-xl hover:bg-gray-100 transition uppercase tracking-wide">View All Models</a>
+          <a href="https://wa.me/919985033315?text=Hi%2C%20I%20want%20to%20book%20a%20test%20ride%20at%20Prakash%20Auto%20Honda%20Lingampet.%20%5BW-LG%5D"
+            target="_blank" rel="noopener noreferrer"
+            class="bg-white/10 text-white font-bold px-8 py-3 rounded-xl hover:bg-white/20 transition border border-white/30">
+            Book a Test Ride
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+</Layout>

@@ -4,11 +4,13 @@ import Layout from '../layouts/Layout.astro';
 const serviceSchema = {
   "@context": "https://schema.org",
   "@type": "AutoRepair",
+  "@id": "https://www.prakashautohonda.com/service/#service-center",
   "name": "Prakash Auto Honda — Authorized Honda Service Center, Kamareddy",
-  "url": "https://www.prakashautohonda.com/service",
+  "url": "https://www.prakashautohonda.com/service/",
   "telephone": "+91-8886604615",
   "address": {
     "@type": "PostalAddress",
+    "streetAddress": "Hyderabad Road",
     "addressLocality": "Kamareddy",
     "addressRegion": "Telangana",
     "postalCode": "503111",
@@ -21,12 +23,27 @@ const serviceSchema = {
     "closes": "19:00"
   }],
   "brand": { "@type": "Brand", "name": "Honda" },
-  "parentOrganization": { "@type": "AutoDealer", "name": "Prakash Auto Honda", "url": "https://www.prakashautohonda.com" }
+  "parentOrganization": {
+    "@type": "AutoDealer",
+    "@id": "https://www.prakashautohonda.com/#organization",
+    "name": "Prakash Auto Honda",
+    "url": "https://www.prakashautohonda.com"
+  }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashautohonda.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Honda Service Center Kamareddy", "item": "https://www.prakashautohonda.com/service/" }
+  ]
 };
 ---
 
-<Layout title="Honda Service Center Kamareddy | Prakash Auto Honda" description="Authorized Honda two-wheeler service center in Kamareddy. Expert technicians, genuine parts, AMC plans, free service. Book your Honda bike service via WhatsApp.">
+<Layout title="Honda Service Center Kamareddy | Prakash Auto Honda" description="Authorized Honda two-wheeler service center in Kamareddy. Expert technicians, genuine parts, AMC plans, free service. Book your Honda bike service via WhatsApp." noOrgSchema={true}>
   <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
   <div class="pt-28 pb-20 bg-white">
     <div class="max-w-4xl mx-auto px-4">
