@@ -9,6 +9,17 @@ const {
   noOrgSchema = false,
 } = Astro.props;
 
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${canonical}#webpage`,
+  "url": canonical,
+  "name": title,
+  "description": description,
+  "inLanguage": "en-IN",
+  "isPartOf": { "@id": "https://www.prakashautohonda.com/#organization" }
+};
+
 const schema = {
   "@context": "https://schema.org",
   "@type": "AutoDealer",
@@ -60,6 +71,7 @@ const schema = {
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:site_name" content="Prakash Auto Honda" />
 <meta property="og:locale" content="en_IN" />
+<meta property="og:locale:alternate" content="te_IN" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
@@ -77,5 +89,7 @@ const schema = {
 <link rel="alternate" hreflang="en" href={canonical} />
 <link rel="alternate" hreflang="x-default" href={canonical} />
 
-<!-- JSON-LD Structured Data — only on non-product/non-article pages to avoid schema noise -->
+<!-- WebPage schema — on every page, links content to the organization entity -->
+<script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+<!-- AutoDealer org schema — suppressed on product/article pages that define their own -->
 {!noOrgSchema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}

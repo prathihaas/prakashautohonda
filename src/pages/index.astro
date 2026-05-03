@@ -44,8 +44,35 @@ const organizationSchema = {
     "@type": "AggregateRating",
     "ratingValue": "4.3",
     "reviewCount": "500",
-    "bestRating": "5"
+    "bestRating": "5",
+    "worstRating": "1"
   },
+  "review": [
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Suresh K" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "reviewBody": "Excellent service at Prakash Auto Honda. Got my Activa 125 at the best price with easy EMI. Highly recommended!"
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Ravi Shankar" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "reviewBody": "Very helpful staff. The process was smooth and they explained all the finance options clearly. Happy with my SP 125."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Priya Reddy" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "reviewBody": "Best Honda showroom in Kamareddy. Got a great deal on Dio 125 with zero down payment. Great experience."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Mahesh Yadav" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "4", "bestRating": "5" },
+      "reviewBody": "Good service and genuine parts. My Unicorn has been serviced here multiple times and always runs perfectly."
+    }
+  ],
   "brand": { "@type": "Brand", "name": "Honda" },
   "areaServed": ["Kamareddy", "Lingampet", "Banswada", "Nizamabad", "Telangana"],
   "sameAs": ["https://www.facebook.com/prakashautohonda"],
