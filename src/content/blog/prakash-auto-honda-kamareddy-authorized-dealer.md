@@ -22,6 +22,14 @@ readTime: "6 min read"
 
 Honda Motor Company చే అధికారంగా నియమించబడిన dealer గా, మేము Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, Tadwai మండలాల వారికి Honda's complete ecosystem అందిస్తున్నాం — genuine bikes, genuine service, genuine parts.
 
+> **TL;DR — Prakash Auto Honda Quick Facts**
+> - **Location**: Hyderabad Road, Kamareddy (Main) + Lingampet Branch
+> - **Stock**: Full 2026 Honda lineup — from CD 110 Dream (₹68,500) to CB200X (₹1,47,000)
+> - **Finance**: Zero down payment on select models | Loan approval in 30 minutes | EMI from ₹2,199/month
+> - **Service**: Honda-certified technicians | Genuine parts | Same-day service for routine maintenance
+> - **Area served**: Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, Tadwai and all surrounding mandals
+> - **Contact**: ☎ 9030857333 | [WhatsApp](https://wa.me/918886604615)
+
 ---
 
 ## Who We Are

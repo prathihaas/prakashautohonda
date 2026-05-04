@@ -168,6 +168,8 @@ A: Yes — bring your old bike to our Kamareddy showroom and get the best exchan
 - [Honda Bikes in Banswada, Kamareddy District](/blog/honda-bikes-banswada-2026)
 - [Honda Activa Price Kamareddy 2026](/blog/honda-activa-price-kamareddy-2026)
 - [Honda Shine 100 vs Hero Splendor — Kamareddy 2026](/blog/honda-shine-100-vs-hero-splendor-kamareddy-2026)
+- [Honda CB Hornet 125 Review — Kamareddy 2026](/blog/honda-cb-hornet-125-review-kamareddy-2026)
+- [Honda Livo vs Hero Passion Pro 2026](/blog/honda-livo-vs-hero-passion-pro-2026)
 
 ---
 

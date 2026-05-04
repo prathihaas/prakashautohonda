@@ -22,6 +22,14 @@ readTime: "8 min read"
 
 This guide covers every Honda model available at **Prakash Auto Honda**, the authorized Honda dealer in Kamareddy, Telangana — with real ex-showroom prices, mileage figures, and honest recommendations based on local riding conditions.
 
+> **TL;DR — Honda Bikes Kamareddy 2026 at a Glance**
+> - **Entry**: Honda CD 110 Dream ~₹68,500 ex-showroom (70–74 kmpl) | Honda Shine 100 ~₹76,000 (60–65 kmpl)
+> - **Scooters**: Honda Activa 110 ~₹77,000 | Activa 125 ~₹92,000 | Dio 125 ~₹88,000
+> - **Mid-range**: Honda SP 125 ~₹95,000 (65 kmpl) | Honda Livo ~₹80,000
+> - **Premium**: Honda CB200X ~₹1,47,000 | Honda Unicorn ~₹1,12,000 | Hornet 2.0 ~₹1,36,000
+> - **EMI**: From ₹2,199/month | Zero down payment available | Loan approved in 30 minutes
+> - **Dealer**: Prakash Auto Honda — 2 branches in Kamareddy district — ☎ 9030857333
+
 ---
 
 ## Why Honda Still Dominates Kamareddy Roads
@@ -215,3 +223,17 @@ We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pit
 Honda's 2026 lineup covers every need — from the budget-friendly Shine 100 to the adventure-ready CB200X. Whatever road you ride in Telangana, there's a Honda built for it.
 
 Come to **Prakash Auto Honda** in Kamareddy for test rides, transparent on-road pricing, and hassle-free financing. We're your trusted local partner for everything Honda.
+
+---
+
+## Also Read
+
+- [Prakash Auto Honda — Authorized Honda Dealer Kamareddy](/blog/prakash-auto-honda-kamareddy-authorized-dealer)
+- [Best Honda Bikes Under ₹1 Lakh in Kamareddy 2026](/blog/best-honda-bikes-under-1-lakh-kamareddy-2026)
+- [Honda Finance Step-by-Step Guide — Kamareddy](/blog/honda-finance-step-by-step-kamareddy)
+- [Honda Two-Wheeler Loan Guide — Kamareddy 2026](/blog/honda-two-wheeler-loan-guide-kamareddy-2026)
+- [Honda Service Center Kamareddy — Review 2026](/blog/honda-service-center-kamareddy-review-2026)
+- [Best Scooter in Kamareddy 2026](/blog/best-scooter-kamareddy-2026)
+- [Best Bike for College Students — Kamareddy 2026](/blog/best-bike-college-students-kamareddy-2026)
+- [Best Bike for Girls in Kamareddy 2026](/blog/best-bike-girls-kamareddy-2026)
+- [Honda Activa Price in Kamareddy 2026](/blog/honda-activa-price-kamareddy-2026)

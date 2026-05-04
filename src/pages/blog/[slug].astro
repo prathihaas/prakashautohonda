@@ -53,6 +53,40 @@ const breadcrumbSchema = {
   ]
 };
 
+function parseFAQ(body: string) {
+  const pairs: { question: string; answer: string }[] = [];
+  const lines = body.split('\n');
+  let i = 0;
+  while (i < lines.length) {
+    const qMatch = lines[i].match(/^\*\*Q:\s*(.+?)\*\*$/);
+    if (qMatch) {
+      const question = qMatch[1].trim();
+      let answer = '';
+      i++;
+      while (i < lines.length && !lines[i].match(/^\*\*Q:/)) {
+        const aMatch = lines[i].match(/^A:\s*(.+)/);
+        if (aMatch) { answer = aMatch[1].trim(); break; }
+        i++;
+      }
+      if (question && answer) pairs.push({ question, answer });
+    } else {
+      i++;
+    }
+  }
+  return pairs;
+}
+
+const faqPairs = parseFAQ(entry.body);
+const faqSchema = faqPairs.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqPairs.map(({ question, answer }) => ({
+    "@type": "Question",
+    "name": question,
+    "acceptedAnswer": { "@type": "Answer", "text": answer }
+  }))
+} : null;
+
 const featuredBikes = [
   { slug: "activa-125", name: "Honda Activa 125" },
   { slug: "shine-125", name: "Honda Shine 125" },
@@ -66,6 +100,7 @@ const featuredBikes = [
 <Layout title={seo_title} description={seo_description} image={featured_image} canonical={`https://www.prakashautohonda.com/blog/${entry.slug}/`} ogType="article" noOrgSchema={true}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
   <nav class="pt-24 pb-2 max-w-3xl mx-auto px-4">
     <div class="flex items-center gap-2 text-xs text-gray-400 font-semibold uppercase tracking-wider">
       <a href="/" class="hover:text-red-600 transition">Home</a>

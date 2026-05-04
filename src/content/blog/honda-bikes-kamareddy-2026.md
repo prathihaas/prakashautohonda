@@ -168,6 +168,8 @@ A: Yes — bring your old bike to our Kamareddy showroom and get the best exchan
 - [Honda Bikes in Domakonda, Kamareddy District](/blog/honda-bikes-domakonda-2026)
 - [Honda Activa Price Kamareddy 2026](/blog/honda-activa-price-kamareddy-2026)
 - [Honda Shine 100 vs Hero Splendor — Kamareddy 2026](/blog/honda-shine-100-vs-hero-splendor-kamareddy-2026)
+- [Honda CB Hornet 125 Review — Kamareddy 2026](/blog/honda-cb-hornet-125-review-kamareddy-2026)
+- [Prakash Auto Honda — Authorized Honda Dealer](/blog/prakash-auto-honda-kamareddy-authorized-dealer)
 
 ---
 
