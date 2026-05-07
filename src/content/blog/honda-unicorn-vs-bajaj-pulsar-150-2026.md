@@ -13,8 +13,8 @@ tags:
   - "Prakash Auto Honda"
 featured_image: "/images/blog/honda-unicorn-vs-bajaj-pulsar-150-2026.jpg"
 excerpt: "Honda CB Unicorn vs Bajaj Pulsar 150 2026 — Kamareddy comparison. Mileage, maintenance cost, resale value. Which 150cc bike wins for daily use?"
-seo_title: "Honda CB Unicorn vs Bajaj Pulsar 150 2026 | Kamareddy"
-seo_description: "Honda CB Unicorn vs Bajaj Pulsar 150 for Kamareddy 2026. Is Bajaj Pulsar 150 better than Honda Unicorn? Real mileage, maintenance, resale. Honest verdict."
+seo_title: "CB Unicorn vs Pulsar 150 2026: Daily Use Mileage + Price"
+seo_description: "Honda CB Unicorn vs Bajaj Pulsar 150 for daily Kamareddy use 2026: 65 kmpl vs 50 kmpl, ₹1.04L vs ₹1.10L on-road. Maintenance + resale verdict inside."
 readTime: "8 min read"
 ---
 

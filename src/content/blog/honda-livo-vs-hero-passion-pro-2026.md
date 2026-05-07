@@ -13,8 +13,8 @@ tags:
   - "Prakash Auto Honda"
 featured_image: "/images/blog/honda-vs-hero-passion-comparison-2026.jpg"
 excerpt: "Honda Livo vs Hero Passion Pro 2026 — Kamareddy comparison. Real mileage, price, 5-year ownership cost. Which 110cc bike wins? Honest verdict."
-seo_title: "Honda Livo vs Hero Passion Pro 2026 | Kamareddy 110cc"
-seo_description: "Honda Livo vs Hero Passion Pro for Kamareddy buyers 2026. Is Passion Pro better than Honda Livo? Real mileage, price, resale. Complete comparison."
+seo_title: "Honda Livo vs Hero Passion Pro 2026: Honest Kamareddy Verdict"
+seo_description: "Honda Livo vs Hero Passion Pro 2026 for Kamareddy: 75 kmpl real mileage, ₹73K–₹74K price, 5-year ownership cost, resale value. Clear winner inside."
 readTime: "8 min read"
 ---
 

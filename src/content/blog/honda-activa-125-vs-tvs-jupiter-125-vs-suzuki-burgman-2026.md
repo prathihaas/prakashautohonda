@@ -13,8 +13,8 @@ tags:
   - "Prakash Auto Honda"
 featured_image: "/images/blog/honda-activa125-vs-tvs-jupiter-burgman-2026.jpg"
 excerpt: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 — best 125cc scooter for Kamareddy 2026. Price, mileage, service & resale."
-seo_title: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman 2026"
-seo_description: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman 125 for Kamareddy 2026. TVS Jupiter vs Activa? Is Burgman worth it in Telangana? Honest verdict."
+seo_title: "Activa 125 vs Jupiter 125 vs Burgman 2026: Best 125cc Pick"
+seo_description: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street: real mileage, ₹95K–₹1.05L on-road, 5-year resale. Which 125cc wins for Kamareddy buyers?"
 readTime: "8 min read"
 ---
 
