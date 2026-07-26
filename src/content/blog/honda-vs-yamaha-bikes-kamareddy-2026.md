@@ -10,7 +10,7 @@ tags:
   - "Yamaha R15 vs Honda"
   - "best bike brand Kamareddy"
 featured_image: "/images/blog/honda-bike-comparison-2026.jpg"
-excerpt: "Honda vs Yamaha bikes in Kamareddy 2026 — head-to-head comparison of popular models across segments covering mileage, performance, reliability and real ownership costs."
+excerpt: "Honda vs Yamaha bikes in Kamareddy 2026 — head-to-head comparison of popular models across segments covering mileage, performance, reliability and real"
 seo_title: "Honda vs Yamaha Bikes Kamareddy 2026 — Buyer's Guide"
 seo_description: "Honda vs Yamaha comparison for Kamareddy buyers 2026. FZ vs SP 160, R15 vs Hornet 2.0, Fascino vs Activa — find which brand wins for your riding needs."
 readTime: "7 min read"
@@ -181,6 +181,6 @@ Both brands have adequate service presence in Kamareddy. Honda's authorized cent
 
 ---
 
-**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 160](/products/sp-160), [Honda Hornet 2.0](/products/hornet-2), or [Honda CB200X](/products/cb200x) and feel the Honda difference.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda SP 160](/products/sp-160), [Honda Hornet 2.0](/products/hornet-2-0), or [Honda CB200X](/products/cb200x) and feel the Honda difference.
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.

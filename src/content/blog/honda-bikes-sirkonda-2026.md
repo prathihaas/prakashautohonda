@@ -10,14 +10,12 @@ tags:
   - "Honda dealer Kamareddy district 2026"
   - "two wheeler Sirkonda Telangana"
 featured_image: "/images/blog/honda-bikes-family-delivery.jpg"
-excerpt: "Looking for Honda bikes in Sirkonda, Kamareddy district? Prakash Auto Honda offers Honda CD 110 Dream at ₹68,500 with EMI from ₹1,899/mo. Free test ride. Sirkonda buyers served directly. ☎ 8886680259."
+excerpt: "Looking for Honda bikes in Sirkonda, Kamareddy district? Prakash Auto Honda offers Honda CD 110 Dream at ₹68,500 with EMI from ₹1,899/mo. Free test ride."
 seo_title: "Honda Bikes in Sirkonda Kamareddy 2026 | Prakash Auto Honda"
 seo_description: "Honda two-wheelers in Sirkonda, Kamareddy district. Honda CD 110 Dream ₹68,500 | EMI ₹1,899/mo | 68 kmpl | Best price guaranteed | Free test ride | ☎..."
 readTime: "7 min read"
 draft: false
 ---
-
-# Honda Bikes in Sirkonda, Kamareddy District — 2026 Complete Guide
 
 Sirkondaలో ఉంటున్నారా? హోండా బైక్ కావాలా? Prakash Auto Honda — Kamareddy జిల్లాలో మీ నంబర్ 1 అధీకృత Honda డీలర్.
 

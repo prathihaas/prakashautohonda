@@ -149,7 +149,7 @@ The classic Honda Unicorn has been trusted by Kamareddy riders for over a decade
 
 A proper sports motorcycle for enthusiasts. The 184.4cc engine, USD front forks, and sharp styling make the Hornet 2.0 a head-turner on any Kamareddy road.
 
-[Explore Honda Hornet 2.0](/products/hornet-2)
+[Explore Honda Hornet 2.0](/products/hornet-2-0)
 
 #### Honda CB200X
 **Ex-showroom price: ~₹1,47,000**

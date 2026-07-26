@@ -10,7 +10,7 @@ tags:
   - "Honda commuter guide"
   - "scooter or bike Kamareddy"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
-excerpt: "Bikes vs scooters for Kamareddy riders in 2026 — which suits town commuting, highway travel, family use and rural roads better? Honest comparison with Honda examples."
+excerpt: "Bikes vs scooters for Kamareddy riders in 2026 — which suits town commuting, highway travel, family use and rural roads better? Honest comparison with"
 seo_title: "Bikes vs Scooters Kamareddy 2026 — Which Makes Sense?"
 seo_description: "Petrol motorcycles vs scooters for Kamareddy buyers 2026. Detailed comparison for town commuting, highway use, family use & rural roads with Honda examples..."
 readTime: "7 min read"

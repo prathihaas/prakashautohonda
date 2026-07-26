@@ -145,7 +145,7 @@ Sports bike feel కావాలంటే ఇది తీసుకోండి.
 - Sports design, aggressive look
 - Young professionals కి ideal
 
-[Honda Hornet 2.0 చూడండి](/products/hornet-2)
+[Honda Hornet 2.0 చూడండి](/products/hornet-2-0)
 
 **Honda CB200X — ~₹1,47,000**
 

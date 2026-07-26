@@ -10,14 +10,12 @@ tags:
   - "Honda dealer Kamareddy district 2026"
   - "two wheeler Pitlam Telangana"
 featured_image: "/images/blog/honda-unicorn-highway.jpg"
-excerpt: "Looking for Honda bikes in Pitlam, Kamareddy district? Prakash Auto Honda offers Honda Shine 100 at ₹72,599 with EMI from ₹1,999/mo. Free test ride. Pitlam buyers served directly. ☎ 8886680259."
+excerpt: "Looking for Honda bikes in Pitlam, Kamareddy district? Prakash Auto Honda offers Honda Shine 100 at ₹72,599 with EMI from ₹1,999/mo. Free test ride."
 seo_title: "Honda Bikes in Pitlam Kamareddy 2026 | Prakash Auto Honda"
 seo_description: "Honda two-wheelers in Pitlam, Kamareddy district. Honda Shine 100 ₹72,599 | EMI ₹1,999/mo | 65 kmpl | Best price guaranteed | Free test ride | ☎ 8886680259."
 readTime: "7 min read"
 draft: false
 ---
-
-# Honda Bikes in Pitlam, Kamareddy District — 2026 Complete Guide
 
 Pitlamలో ఉంటున్నారా? హోండా బైక్ కావాలా? Prakash Auto Honda — Kamareddy జిల్లాలో మీ నంబర్ 1 అధీకృత Honda డీలర్.
 

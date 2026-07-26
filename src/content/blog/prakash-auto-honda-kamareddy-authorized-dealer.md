@@ -10,7 +10,7 @@ tags:
   - "Honda showroom Kamareddy"
   - "Honda service Kamareddy"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
-excerpt: "Prakash Auto Honda — Kamareddy's authorized Honda two-wheeler dealer. Complete showroom, service, finance and after-sales information for buyers across Nizamabad district."
+excerpt: "Prakash Auto Honda — Kamareddy's authorized Honda two-wheeler dealer. Complete showroom, service, finance and after-sales information for buyers across"
 seo_title: "Prakash Auto Honda Kamareddy — Authorized Honda Dealer"
 seo_description: "Prakash Auto Honda is Kamareddy's authorized Honda two-wheeler dealer. Full lineup, authorized service, easy finance & serving Banswada, Nizamabad,..."
 readTime: "6 min read"
@@ -95,7 +95,7 @@ Premium fuel-injected 160cc commuter. Best for frequent long-distance commuters.
 
 **Honda Hornet 2.0** — ~₹1,36,000
 Sports commuter with 184.4cc engine, USD front forks, and aggressive design. For riders who want performance + daily practicality.
-[View Hornet 2.0](/products/hornet-2)
+[View Hornet 2.0](/products/hornet-2-0)
 
 **Honda CB200X** — ~₹1,47,000
 Adventure touring bike for Telangana's mixed terrain. 200mm ground clearance, 184.4cc engine, designed for riders who go beyond the highway.

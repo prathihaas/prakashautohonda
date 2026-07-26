@@ -10,14 +10,12 @@ tags:
   - "Honda dealer Kamareddy district 2026"
   - "two wheeler Domakonda Telangana"
 featured_image: "/images/blog/honda-shine-road-telangana.jpg"
-excerpt: "Looking for Honda bikes in Domakonda, Kamareddy district? Prakash Auto Honda offers Honda Activa 125 at ₹94,900 with EMI from ₹2,699/mo. Free test ride. Domakonda buyers served directly. ☎ 8886680259."
+excerpt: "Looking for Honda bikes in Domakonda, Kamareddy district? Prakash Auto Honda offers Honda Activa 125 at ₹94,900 with EMI from ₹2,699/mo. Free test ride."
 seo_title: "Honda Bikes in Domakonda Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Honda two-wheelers in Domakonda, Kamareddy district. Honda Activa 125 ₹94,900 | EMI ₹2,699/mo | 55 kmpl | Best price guaranteed | Free test ride | ☎ 8886680259."
+seo_description: "Honda two-wheelers in Domakonda, Kamareddy district. Honda Activa 125 ₹94,900 | EMI ₹2,699/mo | 55 kmpl | Best price guaranteed | Free test ride | ☎"
 readTime: "7 min read"
 draft: false
 ---
-
-# Honda Bikes in Domakonda, Kamareddy District — 2026 Complete Guide
 
 Domakondaలో ఉంటున్నారా? హోండా బైక్ కావాలా? Prakash Auto Honda — Kamareddy జిల్లాలో మీ నంబర్ 1 అధీకృత Honda డీలర్.
 

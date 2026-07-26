@@ -10,7 +10,7 @@ tags:
   - "two wheeler loan Telangana"
   - "Honda finance Kamareddy"
 featured_image: "/images/blog/honda-bikes-kamareddy-guide-2026.jpg"
-excerpt: "Honda bikes with zero down payment and EMI plans in Kamareddy 2026. Learn eligibility, required documents, EMI calculations and how to apply at Prakash Auto Honda."
+excerpt: "Honda bikes with zero down payment and EMI plans in Kamareddy 2026. Learn eligibility, required documents, EMI calculations and how to apply at Prakash"
 seo_title: "₹0 Down Payment Honda Bike EMI in Kamareddy 2026"
 seo_description: "Get any Honda bike on ZERO down payment in Kamareddy. EMI from ₹1,999/mo on Shine 100, Activa 6G, SP 125, Unicorn. 30-min approval. Call 8886604615."
 readTime: "6 min read"

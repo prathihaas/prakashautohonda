@@ -10,14 +10,12 @@ tags:
   - "Honda dealer Kamareddy district 2026"
   - "two wheeler Lingampet Telangana"
 featured_image: "/images/blog/honda-livo-commuter-town.jpg"
-excerpt: "Looking for Honda bikes in Lingampet, Kamareddy district? Prakash Auto Honda offers Honda Activa 110 at ₹82,000 with EMI from ₹2,299/mo. Free test ride. Lingampet buyers served directly. ☎ 9985033315."
+excerpt: "Looking for Honda bikes in Lingampet, Kamareddy district? Prakash Auto Honda offers Honda Activa 110 at ₹82,000 with EMI from ₹2,299/mo. Free test ride."
 seo_title: "Honda Bikes in Lingampet Kamareddy 2026 | Prakash Auto Honda"
-seo_description: "Honda two-wheelers in Lingampet, Kamareddy district. Honda Activa 110 ₹82,000 | EMI ₹2,299/mo | 60 kmpl | Best price guaranteed | Free test ride | ☎ 9985033315."
+seo_description: "Honda two-wheelers in Lingampet, Kamareddy district. Honda Activa 110 ₹82,000 | EMI ₹2,299/mo | 60 kmpl | Best price guaranteed | Free test ride | ☎"
 readTime: "7 min read"
 draft: false
 ---
-
-# Honda Bikes in Lingampet, Kamareddy District — 2026 Complete Guide
 
 Lingampetలో ఉంటున్నారా? హోండా బైక్ కావాలా? Prakash Auto Honda — Kamareddy జిల్లాలో మీ నంబర్ 1 అధీకృత Honda డీలర్.
 
