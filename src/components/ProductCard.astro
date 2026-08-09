@@ -1,6 +1,4 @@
 ---
-import BilingualText from './BilingualText.astro';
-
 interface Props {
     title_en: string;
     title_te: string;
@@ -13,31 +11,39 @@ interface Props {
 
 const { title_en, title_te, price, mileage, image, slug, category } = Astro.props;
 ---
-<a href={`/products/${slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 flex flex-col">
-  <div class="relative aspect-[4/3] overflow-hidden bg-gray-100">
-    <div class="absolute top-3 left-3 bg-white/90 backdrop-blur text-xs font-bold px-2 py-1 rounded text-gray-900 z-10">
+<a
+  href={`/products/${slug}`}
+  class="group flex flex-col overflow-hidden rounded-lg bg-card border border-ruleSoft transition-[border-color,box-shadow] duration-200 ease-out hover:border-rule hover:shadow-[0_8px_28px_-14px_rgba(0,0,0,0.28)]"
+>
+  <div class="relative aspect-[4/3] overflow-hidden bg-paper">
+    <span class="absolute top-3 left-3 z-10 rounded-full bg-card/90 px-2.5 py-1 text-[11px] font-medium text-ink2 backdrop-blur">
       {category}
-    </div>
-    <img src={image} alt={title_en} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+    </span>
+    <img
+      src={image}
+      alt={`Honda ${title_en} at Prakash Auto Honda, Kamareddy`}
+      class="h-full w-full object-contain p-4 transition-transform duration-500 ease-out group-hover:scale-[1.04]"
+      loading="lazy" decoding="async" />
   </div>
-  
-  <div class="p-5 flex-1 flex flex-col">
-    <div class="mb-1">
-      <h3 class="text-xl font-bold text-gray-900">{title_en}</h3>
-      <p class="text-sm text-gray-500 font-noto font-medium">{title_te}</p>
-    </div>
-    
-    <div class="mt-4 flex items-center gap-4 text-sm text-gray-600 mb-4">
-       <div class="bg-gray-100 px-2 py-1 rounded flex items-center gap-1">
-          <span>{mileage}</span>
-       </div>
-       <div class="font-semibold text-red-600">
-         {price}
-       </div>
-    </div>
 
-    <div class="mt-auto pt-4 border-t border-gray-100 text-center">
-      <span class="text-sm font-bold text-red-600 group-hover:text-red-700">View Details &rarr;</span>
-    </div>
+  <div class="flex flex-1 flex-col p-5">
+    <h3 class="text-lg font-semibold leading-tight text-ink">{title_en}</h3>
+    <p class="mt-0.5 font-noto text-sm text-muted">{title_te}</p>
+
+    <dl class="mt-4 grid grid-cols-2 gap-3 text-sm">
+      <div>
+        <dt class="text-[11px] uppercase tracking-[0.12em] text-muted">Price</dt>
+        <dd class="mt-0.5 font-semibold text-ink">{price}</dd>
+      </div>
+      <div>
+        <dt class="text-[11px] uppercase tracking-[0.12em] text-muted">Mileage</dt>
+        <dd class="mt-0.5 font-semibold text-ink">{mileage}</dd>
+      </div>
+    </dl>
+
+    <span class="mt-5 inline-flex items-center gap-1.5 pt-4 border-t border-ruleSoft text-sm font-semibold text-honda-red">
+      View details
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" class="transition-transform duration-150 ease-out group-hover:translate-x-1"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </span>
   </div>
 </a>

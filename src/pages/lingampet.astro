@@ -48,7 +48,7 @@ const breadcrumbSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(locationSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
-  <main class="pt-24 pb-20 bg-white">
+  <main class="pt-10 pb-20 bg-white">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 
       <!-- Breadcrumb -->
@@ -97,7 +97,7 @@ const breadcrumbSchema = {
 
         <a href="https://share.google/zNw2Q3FFo0LbyWgNz"
           target="_blank" rel="noopener noreferrer"
-          class="group bg-white border-2 border-gray-200 p-8 rounded-2xl text-center hover:border-red-300 hover:bg-red-50 transition-all duration-300 transform hover:-translate-y-1 shadow-sm">
+          class="group bg-white border-2 border-gray-200 p-8 rounded-2xl text-center hover:border-honda-red hover:bg-honda-redTint transition-all duration-300 transform hover:-translate-y-1 shadow-sm">
           <div class="w-12 h-12 mx-auto bg-red-100 rounded-full flex items-center justify-center mb-4">
             <svg class="w-6 h-6 text-red-600" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
           </div>
@@ -124,7 +124,7 @@ const breadcrumbSchema = {
         </div>
         <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
           <h2 class="text-lg font-black text-gray-900 uppercase tracking-wide mb-4">Working Hours</h2>
-          <div class="space-y-3 text-gray-700">
+          <div class="space-y-3 text-ink2">
             <div class="flex justify-between">
               <span class="font-medium">Mon – Sat</span>
               <span class="font-bold text-red-600">9:00 AM – 7:00 PM</span>
@@ -147,7 +147,7 @@ const breadcrumbSchema = {
         <p class="text-gray-600 mb-4">Honda customers from Lingampet and nearby mandals can visit our showroom for new bike purchases, free test rides, and authorized service:</p>
         <div class="flex flex-wrap gap-2">
           {['Lingampet', 'Kamareddy', 'Banswada', 'Nizamsagar', 'Yellareddy', 'Pitlam', 'Bichkunda', 'Varni', 'Bhiknoor'].map(area => (
-            <span class="bg-white border border-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm font-medium">{area}</span>
+            <span class="bg-white border border-gray-200 text-ink2 px-3 py-1 rounded-full text-sm font-medium">{area}</span>
           ))}
         </div>
       </div>
@@ -169,7 +169,7 @@ const breadcrumbSchema = {
             { name: "Honda CB200X", slug: "cb200x" },
           ].map(bike => (
             <a href={`/products/${bike.slug}`}
-              class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-red-200 hover:bg-red-50 transition font-semibold text-sm text-gray-700 hover:text-red-600">
+              class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-honda-red hover:bg-honda-redTint transition font-semibold text-sm text-ink2 hover:text-red-600">
               <span class="text-red-500">→</span> {bike.name}
             </a>
           ))}

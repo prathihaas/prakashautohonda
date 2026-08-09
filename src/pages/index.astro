@@ -18,6 +18,43 @@ const { title_te, description_en, description_te, seo_title, seo_description, he
 const WA = "https://wa.me/918886604615";
 const PHONE = "tel:+918886604615";
 
+// Marquee strip — model names already carried in the products collection.
+const marquee = products.map((p) => p.data.name_en);
+
+const servicePoints = [
+  { en: 'Genuine Honda spare parts', te: 'ఒరిజినల్ స్పేర్ పార్ట్స్' },
+  { en: 'Honda-trained technicians', te: 'హోండా శిక్షణ పొందిన మెకానిక్‌లు' },
+  { en: 'Service at both branches', te: 'రెండు శాఖలలో సర్వీస్' },
+  { en: 'Booking over WhatsApp', te: 'వాట్సాప్‌లో బుకింగ్' },
+];
+
+const popularModels = [
+  { slug: 'activa-125', name: 'Honda Activa 125 Kamareddy' },
+  { slug: 'activa-110', name: 'Honda Activa 110' },
+  { slug: 'shine-125', name: 'Honda Shine 125' },
+  { slug: 'sp-160', name: 'Honda SP 160' },
+  { slug: 'unicorn', name: 'Honda Unicorn' },
+  { slug: 'dio-125', name: 'Honda Dio 125' },
+  { slug: 'sp-125', name: 'Honda SP 125' },
+  { slug: 'hornet-2-0', name: 'Honda Hornet 2.0' },
+];
+
+const reviews = [
+  { name: "Suresh K", stars: 5, text: "Excellent service at Prakash Auto Honda. Got my Activa 125 at the best price with easy EMI. Highly recommended!" },
+  { name: "Ravi Shankar", stars: 5, text: "Very helpful staff. The process was smooth and they explained all the finance options clearly. Happy with my SP 125." },
+  { name: "Priya Reddy", stars: 5, text: "Best Honda showroom in Kamareddy. Got a great deal on Dio 125 with zero down payment. Great experience." },
+  { name: "Mahesh Yadav", stars: 4, text: "Good service and genuine parts. My Unicorn has been serviced here multiple times and always runs perfectly." },
+];
+
+const faqs = [
+  { q: "Where is Prakash Auto Honda in Kamareddy?", a: "Prakash Auto Honda is located in Kamareddy, Telangana 503111. We also have a branch in Lingampet. Call 8886604615 for exact directions." },
+  { q: "What is Honda Activa 125 price in Kamareddy?", a: "Honda Activa 125 on-road price in Kamareddy starts from ₹95,000. Call 8886604615 or WhatsApp for today's best offer." },
+  { q: "Is EMI available on Honda bikes in Kamareddy?", a: "Yes! EMI from ₹2,100/month. Zero down payment on select models. Instant approval through multiple finance partners." },
+  { q: "What are Prakash Auto Honda showroom timings?", a: "Monday to Saturday, 9 AM to 7 PM at both Kamareddy and Lingampet branches." },
+  { q: "Which Honda bikes are available?", a: "Full range: Activa 125, Activa 110, Shine 125, Shine 100, SP 125, SP 160, Unicorn, Dio, Livo, Hornet 2.0, CB200X and more." },
+  { q: "How to book a Honda test ride in Kamareddy?", a: "Call 8886604615 or WhatsApp us to book a free test ride at Prakash Auto Honda Kamareddy. Available Mon–Sat." },
+];
+
 // LocalBusiness schema with both branches
 const organizationSchema = {
   "@context": "https://schema.org",
@@ -142,353 +179,347 @@ const faqSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
 
-  <!-- HERO SECTION — Conversion focused -->
-  <div class="relative pt-28 pb-10 md:pt-40 md:pb-16 overflow-hidden bg-gradient-to-b from-gray-50 to-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-      <div class="text-center max-w-4xl mx-auto">
-
-        <a href={PHONE} class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-100 text-red-700 mb-4 hover:bg-red-200 transition">
-          <span class="text-xs font-bold uppercase tracking-wider">✓ Authorized Honda Dealer — Kamareddy</span>
-        </a>
-
-        <!-- SEO H1 targeting "Honda Showroom Kamareddy" -->
-        <h1 class="text-4xl md:text-5xl font-black tracking-tight text-gray-900 mb-3 leading-tight">
-          Honda Showroom Kamareddy<br/>
-          <span class="text-red-600">— Best Price, Test Ride & EMI</span>
-        </h1>
-        <p class="text-lg text-gray-500 font-noto mb-2" style="pointer-events:none; user-select:none;">{title_te}</p>
-        <p class="text-base md:text-lg text-gray-600 max-w-2xl mx-auto mb-2" style="pointer-events:none;">{description_en}</p>
-        <p class="text-sm text-gray-500 font-noto mb-8" style="pointer-events:none; user-select:none;">{description_te}</p>
-
-        <!-- PRIMARY CTAs: Call + WhatsApp above fold -->
-        <div class="flex flex-col sm:flex-row gap-3 justify-center mb-4">
-          <a href={PHONE}
-            class="flex items-center justify-center gap-3 bg-red-600 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-red-700 transition shadow-lg shadow-red-200 active:scale-95">
-            📞 Call Now — 8886604615
-          </a>
-          <a href={`${WA}?text=${encodeURIComponent("Hi Prakash Auto Honda, I want to know today's best offer on Honda bikes in Kamareddy. [W-HP]")}`}
-            target="_blank" rel="noopener noreferrer"
-            class="flex items-center justify-center gap-3 bg-green-600 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-green-700 transition shadow-lg shadow-green-200 active:scale-95">
-            💬 WhatsApp for Best Price
-          </a>
-        </div>
-
-        <div class="flex flex-col sm:flex-row gap-3 justify-center mb-4">
-          <a href="/products/" class="inline-flex items-center gap-2 text-gray-700 border border-gray-200 px-6 py-3 rounded-xl hover:border-red-300 hover:bg-red-50 font-semibold transition text-sm">
-            🏍️ View All Honda Models
-          </a>
-          <a href="#branches" class="inline-flex items-center gap-2 text-gray-700 border border-gray-200 px-6 py-3 rounded-xl hover:border-red-300 hover:bg-red-50 font-semibold transition text-sm">
-            📍 Find Showroom
-          </a>
-        </div>
-
-        <!-- Social proof -->
-        <div class="flex items-center justify-center gap-6 mt-4 text-sm text-gray-500 flex-wrap">
-          <a href="https://www.google.com/search?q=Prakash+Auto+Honda+Kamareddy+reviews" target="_blank" rel="noopener noreferrer" class="hover:text-red-600 transition">⭐ 4.3/5 Rating</a>
-          <span>•</span>
-          <a href="https://www.google.com/search?q=Prakash+Auto+Honda+Kamareddy+reviews" target="_blank" rel="noopener noreferrer" class="hover:text-red-600 transition">👥 500+ Happy Customers</a>
-          <span>•</span>
-          <a href="#branches" class="hover:text-red-600 transition">🏪 2 Branches</a>
-          <span>•</span>
-          <a href={PHONE} class="hover:text-red-600 transition">✅ Honda Authorized</a>
-        </div>
-      </div>
-
-      <div class="mt-10 relative">
-        <div class="absolute inset-0 bg-gradient-to-t from-white via-transparent to-transparent z-10 h-full w-full"></div>
-        <img
-          src={hero_image}
-          alt="Honda Showroom Kamareddy — Prakash Auto Honda"
-          class="rounded-2xl shadow-2xl w-full object-cover h-64 md:h-[460px] grayscale-[10%]"
-        />
-      </div>
-    </div>
-  </div>
-
-  <!-- EMI HIGHLIGHT STRIP -->
-  <div class="bg-red-600 text-white py-4">
-    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-center gap-4 text-center sm:text-left">
-      <p class="font-bold text-lg">🎯 Honda Activa EMI from ₹2,100/month</p>
-      <span class="hidden sm:block text-red-200">|</span>
-      <p class="text-sm text-red-100">Zero down payment on select models · Instant Approval</p>
-      <a href={`${WA}?text=${encodeURIComponent("Hi, I want to know about Honda EMI options in Kamareddy. [W-EMI]")}`}
-        target="_blank" rel="noopener noreferrer"
-        class="bg-white text-red-600 px-5 py-2 rounded-lg font-bold text-sm hover:bg-red-50 transition whitespace-nowrap">
-        Check EMI →
-      </a>
-    </div>
-  </div>
-
-  <!-- TRUST FEATURES -->
-  <div class="py-12 bg-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-        {[
-          { icon: "🏆", en: "Authorized Dealer", te: "అధీకృత డీలర్", href: PHONE, external: false },
-          { icon: "🔧", en: "Expert Service",    te: "నిపుణుల సర్వీస్", href: "/service", external: false },
-          { icon: "💰", en: "Easy EMI",          te: "సులభ EMI", href: `${WA}?text=${encodeURIComponent("Hi, I want to know about Honda EMI options in Kamareddy. [W-EMI]")}`, external: true },
-          { icon: "📍", en: "2 Branches",        te: "2 శాఖలు", href: "#branches", external: false },
-        ].map(f => (
-          <a href={f.href} target={f.external ? "_blank" : undefined} rel={f.external ? "noopener noreferrer" : undefined} class="flex flex-col items-center text-center p-5 rounded-2xl bg-gray-50 border border-gray-100 hover:border-red-200 hover:bg-red-50 transition">
-            <div class="text-2xl mb-2">{f.icon}</div>
-            <p class="font-bold text-gray-900 text-sm">{f.en}</p>
-            <p class="text-xs text-gray-500 font-noto mt-1">{f.te}</p>
-          </a>
-        ))}
-      </div>
-    </div>
-  </div>
-
-  <!-- PRODUCT GRID -->
-  <div class="py-16 bg-gray-50">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex flex-col sm:flex-row justify-between items-start sm:items-end mb-10 gap-3">
-        <div>
-          <h2 class="text-3xl font-black text-gray-900">Honda Bikes & Scooters in Kamareddy</h2>
-          <p class="font-noto text-gray-500 mt-1">కామారెడ్డిలో హోండా బైక్స్ మరియు స్కూటర్లు</p>
-        </div>
-        <a href="/products/" class="text-red-600 font-bold hover:underline text-sm whitespace-nowrap">View All Models →</a>
-      </div>
-
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-        {products.map((product) => (
-          <ProductCard
-            title_en={product.data.name_en}
-            title_te={product.data.name_te}
-            price={product.data.price}
-            mileage={product.data.mileage || 'N/A'}
-            image={product.data.featured_image || ''}
-            slug={product.slug}
-            category={product.data.category}
-          />
-        ))}
-      </div>
-
-      <!-- Internal product links -->
-      <div class="mt-10 p-6 bg-white rounded-2xl border border-gray-100">
-        <p class="font-bold text-gray-700 mb-4 text-sm">Popular Models at <a href="/" class="text-red-600 hover:underline">Honda Showroom Kamareddy</a>:</p>
-        <div class="flex flex-wrap gap-2">
-          {[
-            {slug:"activa-125", name:"Honda Activa 125 Kamareddy"},
-            {slug:"activa-110", name:"Honda Activa 110"},
-            {slug:"shine-125",  name:"Honda Shine 125"},
-            {slug:"sp-160",     name:"Honda SP 160"},
-            {slug:"unicorn",    name:"Honda Unicorn"},
-            {slug:"dio-125",    name:"Honda Dio 125"},
-            {slug:"sp-125",     name:"Honda SP 125"},
-            {slug:"hornet-2-0", name:"Honda Hornet 2.0"},
-          ].map(b => (
-            <a href={`/products/${b.slug}`} class="text-xs text-red-600 bg-red-50 px-3 py-1 rounded-full hover:bg-red-100 font-semibold transition">
-              {b.name}
+  <main>
+    <!-- ==========================================================
+         HERO — Marquee: oversized statement, the machine, the strip.
+         ========================================================== -->
+    <section class="relative overflow-hidden bg-paper">
+      <div class="max-w-7xl mx-auto px-5 sm:px-8 pt-10 pb-4 lg:pt-16">
+        <div class="grid items-center gap-8 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,1fr)]">
+          <div>
+            <a href={PHONE} class="inline-flex items-center gap-2 rounded-full border border-rule bg-card px-3.5 py-1.5 text-xs font-medium text-ink2 transition-colors duration-150 ease-out hover:border-honda-red hover:text-honda-red">
+              <span class="h-1.5 w-1.5 rounded-full bg-honda-red" aria-hidden="true"></span>
+              Authorised Honda dealer · Kamareddy
             </a>
+
+            <h1 class="mt-6 text-[clamp(2.25rem,5.4vw,4rem)] font-semibold leading-[1.06] tracking-tight text-ink">
+              Every Honda in the range,<br class="hidden sm:block" />
+              <span class="text-honda-red">priced today</span> in Kamareddy.
+            </h1>
+
+            <p class="mt-4 font-noto text-lg text-body">{title_te}</p>
+            <p class="mt-4 max-w-xl text-base leading-relaxed text-body">{description_en}</p>
+            <p class="mt-2 max-w-xl font-noto text-sm text-muted">{description_te}</p>
+
+            <div class="mt-8 flex flex-col gap-3 sm:flex-row">
+              <a href={PHONE} class="hb">
+                <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8.1 9.8a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.8 2.1Z"/></svg>
+                Call 88866 04615
+              </a>
+              <a
+                href={`${WA}?text=${encodeURIComponent("Hi Prakash Auto Honda, I want to know today's best offer on Honda bikes in Kamareddy. [W-HP]")}`}
+                target="_blank" rel="noopener noreferrer" class="hb hb--wa">
+                <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.1-1.3A10 10 0 1 0 12 2Zm5.5 14c-.2.7-1.4 1.3-2 1.4-.5.1-1.1.1-1.8-.1a13 13 0 0 1-5.7-4.6c-.4-.6-1-1.5-1-2.9s.7-2 1-2.3a1 1 0 0 1 .7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2 0 .4-.1.6l-.4.5c-.1.2-.3.3-.1.6a9.4 9.4 0 0 0 3.7 3c.3.2.5.1.6 0l.8-1c.2-.2.3-.2.6-.1l1.9.9c.3.1.5.2.5.4v.9Z"/></svg>
+                Best price on WhatsApp
+              </a>
+            </div>
+
+            <ul class="mt-7 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-body">
+              <li><a href="https://www.google.com/search?q=Prakash+Auto+Honda+Kamareddy+reviews" target="_blank" rel="noopener noreferrer" class="hover:text-honda-red transition-colors duration-150">4.3 / 5 · 500+ customers</a></li>
+              <li aria-hidden="true" class="text-rule">·</li>
+              <li><a href="#branches" class="hover:text-honda-red transition-colors duration-150">2 branches</a></li>
+              <li aria-hidden="true" class="text-rule">·</li>
+              <li><a href="/products/" class="hover:text-honda-red transition-colors duration-150">Full model range</a></li>
+            </ul>
+          </div>
+
+          <div class="relative">
+            <div class="absolute inset-x-6 bottom-6 top-16 rounded-lg bg-card" aria-hidden="true"></div>
+            <img
+              src={hero_image}
+              alt="Honda Activa 125 at Prakash Auto Honda, the authorised Honda showroom in Kamareddy"
+              class="relative w-full max-w-lg mx-auto object-contain"
+              width="800" height="600"
+              fetchpriority="high" loading="eager" decoding="async" />
+          </div>
+        </div>
+      </div>
+
+      <!-- Marquee strip -->
+      <div class="border-y border-rule bg-card">
+        <div class="ah-marquee py-3.5">
+          <ul class="ah-marquee__track">
+            {[...marquee, ...marquee].map((name, i) => (
+              <li class="flex items-center gap-6 text-sm text-muted whitespace-nowrap" aria-hidden={i >= marquee.length ? 'true' : undefined}>
+                <span>{name}</span>
+                <span class="h-1 w-1 rounded-full bg-rule" aria-hidden="true"></span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================
+         EMI — the one red band on the page
+         ========================================================== -->
+    <section class="bg-honda-red text-white">
+      <div class="max-w-7xl mx-auto px-5 sm:px-8 py-5 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+        <div>
+          <p class="text-lg font-semibold">Honda Activa EMI from ₹2,100 a month</p>
+          <p class="text-sm text-white/80">Zero down payment on select models · instant approval</p>
+        </div>
+        <a
+          href={`${WA}?text=${encodeURIComponent("Hi, I want to know about Honda EMI options in Kamareddy. [W-EMI]")}`}
+          target="_blank" rel="noopener noreferrer"
+          class="hb !bg-white !text-honda-red !border-white hover:!bg-honda-redTint self-start sm:self-auto">
+          Check my EMI
+        </a>
+      </div>
+    </section>
+
+    <!-- ==========================================================
+         MODELS
+         ========================================================== -->
+    <section class="py-14 lg:py-20 bg-paper">
+      <div class="max-w-7xl mx-auto px-5 sm:px-8">
+        <div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <h2 class="text-[clamp(1.5rem,3vw,2.25rem)] font-semibold leading-tight text-ink">
+              Honda bikes &amp; scooters in Kamareddy
+            </h2>
+            <p class="mt-1 font-noto text-body">కామారెడ్డిలో హోండా బైక్స్ మరియు స్కూటర్లు</p>
+          </div>
+          <a href="/products/" class="hb hb--outline self-start sm:self-auto">View all models</a>
+        </div>
+
+        <div class="mt-9 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
+          {products.map((product) => (
+            <ProductCard
+              title_en={product.data.name_en}
+              title_te={product.data.name_te}
+              price={product.data.price}
+              mileage={product.data.mileage || '—'}
+              image={product.data.featured_image || ''}
+              slug={product.slug}
+              category={product.data.category}
+            />
+          ))}
+        </div>
+
+        <div class="mt-9 rounded-lg border border-ruleSoft bg-card p-6">
+          <p class="text-sm text-body">
+            Popular at <a href="/" class="text-honda-red underline underline-offset-2 decoration-honda-red/40 hover:decoration-honda-red">our Kamareddy showroom</a>:
+          </p>
+          <ul class="mt-3 flex flex-wrap gap-2">
+            {popularModels.map((b) => (
+              <li>
+                <a href={`/products/${b.slug}`} class="inline-block rounded-full border border-ruleSoft px-3 py-1.5 text-xs text-ink2 transition-colors duration-150 ease-out hover:border-honda-red hover:text-honda-red">
+                  {b.name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================
+         SERVICE
+         ========================================================== -->
+    <section class="border-y border-rule bg-card">
+      <div class="max-w-7xl mx-auto px-5 sm:px-8 py-14 lg:py-20">
+        <div class="grid gap-10 lg:grid-cols-2 lg:gap-16">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-[0.14em] text-honda-red">Service &amp; support</p>
+            <h2 class="mt-3 text-[clamp(1.5rem,3vw,2.25rem)] font-semibold leading-tight text-ink">
+              Honda service, done by Honda-trained hands
+            </h2>
+            <h3 class="mt-2 font-noto text-lg font-medium text-body">కామారెడ్డిలో హోండా సర్వీసింగ్</h3>
+            <p class="mt-4 max-w-lg text-base leading-relaxed text-body">
+              Periodic service, running repairs and genuine parts at both the Kamareddy and
+              Lingampet branches, Monday to Saturday.
+            </p>
+            <div class="mt-7 flex flex-col gap-3 sm:flex-row">
+              <a
+                href={`${WA}?text=${encodeURIComponent("Hi, I want to book a service for my Honda in Kamareddy. [W-SVC]")}`}
+                target="_blank" rel="noopener noreferrer" class="hb hb--wa">Book on WhatsApp</a>
+              <a href="/service" class="hb hb--outline">Service details</a>
+            </div>
+          </div>
+
+          <ul class="border-t border-rule">
+            {servicePoints.map((s) => (
+              <li class="flex items-start gap-4 border-b border-rule py-4">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="mt-0.5 shrink-0 text-honda-red" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+                <span class="min-w-0">
+                  <span class="block text-base text-ink">{s.en}</span>
+                  <span class="block font-noto text-sm text-muted">{s.te}</span>
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================
+         BRANCHES
+         ========================================================== -->
+    <section id="branches" class="py-14 lg:py-20 bg-paper">
+      <div class="max-w-7xl mx-auto px-5 sm:px-8">
+        <h2 class="text-[clamp(1.5rem,3vw,2.25rem)] font-semibold leading-tight text-ink">Showrooms near you</h2>
+        <p class="mt-1 font-noto text-body">కామారెడ్డిలో మా షోరూమ్‌లు</p>
+        <p class="mt-1 text-sm text-muted">Two branches — Kamareddy and Lingampet · Mon–Sat, 9 AM – 7 PM</p>
+
+        <div class="mt-9 grid gap-5 md:grid-cols-2 max-w-4xl">
+          {branches.map((branch) => (
+            <div class="rounded-lg border border-ruleSoft bg-card p-6">
+              <h3 class="text-lg font-semibold text-ink">{branch.data.name_en}</h3>
+              <p class="mt-0.5 font-noto text-sm text-muted">{branch.data.name_te}</p>
+
+              <p class="mt-4 text-sm leading-relaxed text-body">{branch.data.address_en}</p>
+              <p class="mt-0.5 font-noto text-xs text-muted">{branch.data.address_te}</p>
+
+              <a href={`tel:${branch.data.phone.replace(/\s/g, '')}`} class="mt-4 inline-block text-sm font-semibold text-ink hover:text-honda-red transition-colors duration-150">
+                {branch.data.phone}
+              </a>
+
+              <div class="mt-5 flex flex-wrap gap-2">
+                <a href={`tel:${branch.data.phone.replace(/\s/g, '')}`} class="hb !px-5 !min-h-[2.75rem]">Call</a>
+                <a href={branch.data.map_link} target="_blank" rel="noopener noreferrer" class="hb hb--outline !px-5 !min-h-[2.75rem]">Directions</a>
+                <a
+                  href={`${WA}?text=${encodeURIComponent(`Hi, I want to visit Prakash Auto Honda ${branch.data.name_en}. [W-BR]`)}`}
+                  target="_blank" rel="noopener noreferrer" class="hb hb--wa !px-5 !min-h-[2.75rem]">WhatsApp</a>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <p class="mt-7 flex flex-wrap items-center gap-3 text-sm text-body">
+          <span>Nearest showroom:</span>
+          <a href="/kamareddy" class="rounded-full border border-ruleSoft px-3 py-1.5 text-xs text-ink2 hover:border-honda-red hover:text-honda-red transition-colors duration-150">Kamareddy</a>
+          <a href="/lingampet" class="rounded-full border border-ruleSoft px-3 py-1.5 text-xs text-ink2 hover:border-honda-red hover:text-honda-red transition-colors duration-150">Lingampet</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- ==========================================================
+         REVIEWS
+         ========================================================== -->
+    <section class="border-y border-rule bg-card">
+      <div class="max-w-5xl mx-auto px-5 sm:px-8 py-14 lg:py-20">
+        <div class="flex flex-wrap items-baseline gap-x-4 gap-y-1">
+          <h2 class="text-[clamp(1.5rem,3vw,2.25rem)] font-semibold leading-tight text-ink">What customers say</h2>
+          <p class="text-sm text-body">4.3 / 5 · 500+ reviews</p>
+        </div>
+        <p class="mt-1 font-noto text-body">మా కస్టమర్ల అభిప్రాయాలు</p>
+
+        <ul class="mt-9 grid gap-5 sm:grid-cols-2">
+          {reviews.map((r) => (
+            <li class="rounded-lg border border-ruleSoft bg-paper p-5">
+              <p class="flex items-center gap-1" aria-label={`${r.stars} out of 5`}>
+                {Array.from({ length: 5 }).map((_, i) => (
+                  <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" class={i < r.stars ? 'text-honda-red' : 'text-rule'} fill="currentColor"><path d="m12 2 3 6.5 7 .9-5 4.9 1.2 7L12 18l-6.2 3.3L7 14.3 2 9.4l7-.9L12 2Z"/></svg>
+                ))}
+              </p>
+              <blockquote class="mt-3 text-sm leading-relaxed text-body">{r.text}</blockquote>
+              <p class="mt-4 text-sm font-medium text-ink">{r.name}</p>
+            </li>
+          ))}
+        </ul>
+
+        <div class="mt-8 flex flex-col gap-3 sm:flex-row">
+          <a href="https://www.google.com/maps/search/Prakash+Auto+Honda+Kamareddy" target="_blank" rel="noopener noreferrer" class="hb hb--outline">
+            Read all Google reviews
+          </a>
+          <a
+            href={`${WA}?text=${encodeURIComponent("Hi Prakash Auto Honda, I'd like to know today's best offer. [W-HP]")}`}
+            target="_blank" rel="noopener noreferrer" class="hb hb--wa">
+            Get today's price
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==========================================================
+         GUIDES
+         ========================================================== -->
+    <section class="py-14 lg:py-20 bg-paper">
+      <div class="max-w-7xl mx-auto px-5 sm:px-8">
+        <div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <h2 class="text-[clamp(1.5rem,3vw,2.25rem)] font-semibold leading-tight text-ink">Honda guides &amp; tips</h2>
+            <p class="mt-1 font-noto text-body">తాజా గైడ్‌లు మరియు సలహాలు</p>
+          </div>
+          <a href="/blog/" class="hb hb--outline self-start sm:self-auto">All guides</a>
+        </div>
+
+        <ul class="mt-9 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+          {recentPosts.map((post) => (
+            <li>
+              <a href={`/blog/${post.slug}/`} class="group flex h-full flex-col rounded-lg border border-ruleSoft bg-card p-5 transition-[border-color,box-shadow] duration-200 ease-out hover:border-rule hover:shadow-[0_8px_28px_-16px_rgba(0,0,0,0.25)]">
+                <span class="text-[11px] font-semibold uppercase tracking-[0.12em] text-honda-red">{post.data.category}</span>
+                <h3 class="mt-2 text-base font-semibold leading-snug text-ink group-hover:text-honda-red transition-colors duration-150 line-clamp-2">{post.data.title}</h3>
+                <p class="mt-2 text-sm text-body line-clamp-2">{post.data.excerpt}</p>
+                <span class="mt-4 inline-flex items-center gap-1.5 text-sm font-semibold text-honda-red">
+                  Read
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" class="transition-transform duration-150 ease-out group-hover:translate-x-1"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+
+    <!-- ==========================================================
+         FAQ
+         ========================================================== -->
+    <section class="border-t border-rule bg-card">
+      <div class="max-w-3xl mx-auto px-5 sm:px-8 py-14 lg:py-20">
+        <h2 class="text-[clamp(1.5rem,3vw,2.25rem)] font-semibold leading-tight text-ink">Frequently asked questions</h2>
+        <p class="mt-1 font-noto text-body">తరచుగా అడిగే ప్రశ్నలు</p>
+
+        <div class="mt-8 border-t border-rule">
+          {faqs.map((faq) => (
+            <details class="group border-b border-rule">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-4 py-5 text-base font-medium text-ink [&::-webkit-details-marker]:hidden">
+                <span class="min-w-0">{faq.q}</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true" class="shrink-0 text-honda-red transition-transform duration-200 ease-out group-open:rotate-45"><path d="M12 5v14M5 12h14"/></svg>
+              </summary>
+              <p class="pb-5 text-sm leading-relaxed text-body">{faq.a}</p>
+            </details>
           ))}
         </div>
       </div>
-    </div>
-  </div>
+    </section>
+  </main>
 
-  <!-- SERVICE SECTION -->
-  <div class="py-20 bg-gray-900 text-white relative overflow-hidden">
-    <div class="absolute top-0 right-0 w-64 h-64 bg-red-600 opacity-10 rounded-full blur-3xl transform translate-x-1/2 -translate-y-1/2"></div>
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-        <div>
-          <span class="text-red-500 font-bold tracking-wider uppercase text-sm">Service & Support</span>
-          <h2 class="text-4xl font-bold mt-2 mb-2">Expert Honda Service in Kamareddy</h2>
-          <h3 class="text-xl text-gray-400 font-noto font-medium mb-6">కామారెడ్డిలో హోండా సర్వీసింగ్</h3>
-          <ul class="space-y-4 mb-8">
-            <li class="flex items-center gap-3"><span class="text-red-500">✓</span> Genuine Honda Spare Parts</li>
-            <li class="flex items-center gap-3"><span class="text-red-500">✓</span> Honda-Trained Technicians</li>
-            <li class="flex items-center gap-3"><span class="text-red-500">✓</span> Service at Both Branches</li>
-            <li class="flex items-center gap-3"><span class="text-red-500">✓</span> Online Service Booking via WhatsApp</li>
-          </ul>
-          <div class="flex flex-col sm:flex-row gap-3">
-            <a href={`${WA}?text=${encodeURIComponent("Hi, I want to book a service for my Honda in Kamareddy. [W-SVC]")}`}
-              target="_blank" rel="noopener noreferrer"
-              class="inline-flex items-center justify-center gap-2 bg-green-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-green-700 transition">
-              💬 Book Service via WhatsApp
-            </a>
-            <a href={PHONE} class="inline-flex items-center justify-center gap-2 border border-gray-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-gray-800 transition">
-              📞 Call for Service
-            </a>
-          </div>
-        </div>
-        <div>
-          <img src="https://yashhonda.com/wp-content/uploads/2020/05/workshop-min-1024x382-1.png"
-            alt="Honda Service Center Kamareddy — Prakash Auto Honda"
-            class="rounded-2xl shadow-2xl border border-gray-700 opacity-90" />
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- BRANCHES SECTION — dead clicks FIXED, each card wrapped in <a> -->
-  <div class="py-16 bg-white" id="branches">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center mb-12">
-        <h2 class="text-3xl font-black text-gray-900">Honda Showrooms Near You</h2>
-        <p class="font-noto text-gray-500 mt-2 mb-1">కామారెడ్డిలో మా షోరూమ్‌లు</p>
-        <p class="text-sm text-gray-400">2 branches — Kamareddy & Lingampet</p>
-      </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-3xl mx-auto">
-        {branches.map((branch) => (
-          <div class="group bg-white rounded-2xl border border-gray-200 p-6 hover:border-red-300 hover:shadow-lg transition-all duration-200">
-            <div class="flex items-start justify-between mb-3">
-              <div>
-                <h3 class="text-xl font-bold text-gray-900 group-hover:text-red-600 transition">{branch.data.name_en}</h3>
-                <p class="text-sm text-gray-500 font-noto">{branch.data.name_te}</p>
-              </div>
-              <span class="text-red-500 text-lg">📍</span>
-            </div>
-
-            <p class="text-gray-600 text-sm leading-relaxed mb-1">{branch.data.address_en}</p>
-            <p class="text-xs text-gray-400 font-noto mb-3">{branch.data.address_te}</p>
-
-            <div class="flex items-center gap-2 mb-5">
-              <span class="text-xs text-gray-500">📞</span>
-              <a href={`tel:${branch.data.phone.replace(/\s/g, '')}`} class="font-bold text-gray-900 text-sm hover:text-red-600 transition">{branch.data.phone}</a>
-              <span class="text-xs text-gray-400 ml-auto">Mon–Sat, 9AM–7PM</span>
-            </div>
-
-            <!-- 3 action buttons — each is its own link, no dead click parent div -->
-            <div class="grid grid-cols-3 gap-2">
-              <a href={`tel:${branch.data.phone.replace(/\s/g, '')}`}
-                class="flex items-center justify-center gap-1 bg-red-600 text-white rounded-lg py-2 font-bold text-xs hover:bg-red-700 transition">
-                📞 Call
-              </a>
-              <a href={branch.data.map_link} target="_blank" rel="noopener noreferrer"
-                class="flex items-center justify-center gap-1 border border-gray-200 rounded-lg py-2 font-semibold text-xs hover:bg-gray-50 transition text-gray-700">
-                🗺️ Directions
-              </a>
-              <a href={`${WA}?text=${encodeURIComponent(`Hi, I want to visit Prakash Auto Honda ${branch.data.name_en}. [W-BR]`)}`}
-                target="_blank" rel="noopener noreferrer"
-                class="flex items-center justify-center gap-1 bg-green-50 text-green-700 border border-green-200 rounded-lg py-2 font-bold text-xs hover:bg-green-100 transition">
-                💬 WhatsApp
-              </a>
-            </div>
-          </div>
-        ))}
-      </div>
-
-      <div class="mt-8 text-center">
-        <p class="text-sm text-gray-500 mb-3">Find your nearest Honda showroom:</p>
-        <div class="flex flex-wrap justify-center gap-2">
-          <a href="/kamareddy" class="text-xs text-red-600 bg-red-50 px-3 py-1 rounded-full hover:bg-red-100 font-semibold transition">Honda Showroom Kamareddy</a>
-          <a href="/lingampet" class="text-xs text-red-600 bg-red-50 px-3 py-1 rounded-full hover:bg-red-100 font-semibold transition">Honda Showroom Lingampet</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- REVIEWS SECTION -->
-  <!-- aggregateRating merged into main organizationSchema above -->
-
-  <section class="py-16 bg-gray-50 border-t border-gray-100">
-    <div class="max-w-5xl mx-auto px-4">
-      <div class="text-center mb-10">
-        <h2 class="text-3xl font-black text-gray-900 mb-1">What Our Customers Say</h2>
-        <p class="font-noto text-lg text-gray-500 mb-4">మా కస్టమర్ల అభిప్రాయాలు</p>
-        <div class="flex items-center justify-center gap-3 mb-1">
-          <span class="text-yellow-400 text-2xl">★★★★</span><span class="text-yellow-300 text-2xl">★</span>
-          <span class="text-4xl font-black text-gray-900">4.3</span>
-          <span class="text-gray-500 text-base">/ 5 &nbsp;·&nbsp; <strong class="text-gray-700">500+ reviews</strong></span>
-        </div>
-        <p class="text-gray-500 text-sm">Trusted Honda dealer in <strong>Kamareddy</strong> & <strong>Lingampet</strong></p>
-      </div>
-
-      <div class="grid sm:grid-cols-2 gap-5 mb-8">
-        {[
-          { name: "Suresh K",       stars: 5, text: "Excellent service at Prakash Auto Honda. Got my Activa 125 at the best price with easy EMI. Highly recommended!" },
-          { name: "Ravi Shankar",   stars: 5, text: "Very helpful staff. The process was smooth and they explained all the finance options clearly. Happy with my SP 125." },
-          { name: "Priya Reddy",    stars: 5, text: "Best Honda showroom in Kamareddy. Got a great deal on Dio 125 with zero down payment. Great experience." },
-          { name: "Mahesh Yadav",   stars: 4, text: "Good service and genuine parts. My Unicorn has been serviced here multiple times and always runs perfectly." },
-        ].map(r => (
-          <div class="bg-white rounded-xl p-5 shadow-sm border border-gray-100">
-            <div class="text-yellow-400 text-lg mb-2">{"★".repeat(r.stars)}</div>
-            <p class="text-gray-700 text-sm leading-relaxed mb-4">"{r.text}"</p>
-            <div class="flex items-center gap-2">
-              <div class="w-8 h-8 rounded-full bg-red-600 text-white text-xs flex items-center justify-center font-bold">{r.name[0]}</div>
-              <span class="text-sm font-semibold text-gray-700">{r.name}</span>
-            </div>
-          </div>
-        ))}
-      </div>
-
-      <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <a href="https://www.google.com/maps/search/Prakash+Auto+Honda+Kamareddy" target="_blank" rel="noopener noreferrer"
-          class="inline-flex items-center gap-3 bg-white border-2 border-gray-200 text-gray-800 px-8 py-4 rounded-xl font-bold hover:border-red-300 hover:bg-red-50 transition shadow-sm">
-          Read All Google Reviews
-        </a>
-        <a href={`${WA}?text=${encodeURIComponent("Hi Prakash Auto Honda, I'd like to know today's best offer. [W-HP]")}`}
-          target="_blank" rel="noopener noreferrer"
-          class="inline-flex items-center gap-3 bg-green-600 text-white px-8 py-4 rounded-xl font-bold hover:bg-green-700 transition shadow-lg">
-          💬 Get Today's Best Price
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- RECENT BLOG POSTS — internal links to boost crawl discovery -->
-  <section class="py-16 bg-gray-50 border-t border-gray-100">
-    <div class="max-w-7xl mx-auto px-4">
-      <div class="text-center mb-10">
-        <h2 class="text-3xl font-black text-gray-900 mb-2">Honda Guides & Tips</h2>
-        <p class="font-noto text-gray-500">తాజా గైడ్‌లు మరియు సలహాలు</p>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {recentPosts.map(post => (
-          <a href={`/blog/${post.slug}/`} class="group bg-white rounded-xl border border-gray-100 p-5 shadow-sm hover:shadow-md transition-all">
-            <span class="text-xs font-semibold text-red-600 uppercase tracking-wide">{post.data.category}</span>
-            <h3 class="mt-2 font-bold text-gray-900 text-base leading-snug group-hover:text-red-600 transition-colors line-clamp-2">{post.data.title}</h3>
-            <p class="mt-2 text-gray-500 text-sm line-clamp-2">{post.data.excerpt}</p>
-            <span class="mt-3 inline-block text-red-600 text-sm font-semibold">Read more →</span>
-          </a>
-        ))}
-      </div>
-      <div class="text-center mt-8">
-        <a href="/blog/" class="inline-flex items-center gap-2 bg-red-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-red-700 transition">View All Guides</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- FAQ SECTION — visible on page for users + crawlers -->
-  <section class="py-16 bg-white border-t border-gray-100">
-    <div class="max-w-3xl mx-auto px-4">
-      <h2 class="text-3xl font-black text-gray-900 mb-2 text-center">Frequently Asked Questions</h2>
-      <p class="font-noto text-gray-500 text-center mb-10">తరచుగా అడిగే ప్రశ్నలు</p>
-      <div class="space-y-4">
-        {[
-          { q: "Where is Prakash Auto Honda in Kamareddy?",        a: "Prakash Auto Honda is located in Kamareddy, Telangana 503111. We also have a branch in Lingampet. Call 8886604615 for exact directions." },
-          { q: "What is Honda Activa 125 price in Kamareddy?",     a: "Honda Activa 125 on-road price in Kamareddy starts from ₹95,000. Call 8886604615 or WhatsApp for today's best offer." },
-          { q: "Is EMI available on Honda bikes in Kamareddy?",    a: "Yes! EMI from ₹2,100/month. Zero down payment on select models. Instant approval through multiple finance partners." },
-          { q: "What are Prakash Auto Honda showroom timings?",    a: "Monday to Saturday, 9 AM to 7 PM at both Kamareddy and Lingampet branches." },
-          { q: "Which Honda bikes are available?",                 a: "Full range: Activa 125, Activa 110, Shine 125, Shine 100, SP 125, SP 160, Unicorn, Dio, Livo, Hornet 2.0, CB200X and more." },
-          { q: "How to book a Honda test ride in Kamareddy?",      a: "Call 8886604615 or WhatsApp us to book a free test ride at Prakash Auto Honda Kamareddy. Available Mon–Sat." },
-        ].map(faq => (
-          <details class="border border-gray-200 rounded-xl overflow-hidden group">
-            <summary class="flex justify-between items-center p-5 font-bold text-gray-900 cursor-pointer hover:bg-gray-50 transition list-none">
-              {faq.q}
-              <span class="text-red-500 text-xl leading-none group-open:rotate-45 transition-transform flex-shrink-0 ml-2">+</span>
-            </summary>
-            <p class="px-5 pb-5 text-gray-600 text-sm leading-relaxed">{faq.a}</p>
-          </details>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- STICKY MOBILE BOTTOM CTA BAR -->
-  <div class="fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-gray-200 shadow-2xl p-3 flex gap-3 sm:hidden">
-    <a href={PHONE} class="flex-1 flex items-center justify-center gap-2 bg-red-600 text-white py-3 rounded-xl font-bold text-sm">
-      📞 Call
-    </a>
-    <a href={`${WA}?text=${encodeURIComponent("Hi Prakash Auto Honda, I want today's best price on Honda bikes. [W-HP-BAR]")}`}
-      target="_blank" rel="noopener noreferrer"
-      class="flex-2 flex items-center justify-center gap-2 bg-green-600 text-white py-3 px-4 rounded-xl font-bold text-sm" style="flex:2">
-      💬 WhatsApp Best Price
+  <!-- Sticky mobile action bar -->
+  <div class="fixed bottom-0 left-0 right-0 z-40 grid grid-cols-[minmax(0,1fr)_minmax(0,1.5fr)] gap-2 border-t border-rule bg-card p-2.5 sm:hidden">
+    <a href={PHONE} class="hb">Call</a>
+    <a
+      href={`${WA}?text=${encodeURIComponent("Hi Prakash Auto Honda, I want today's best price on Honda bikes. [W-HP-BAR]")}`}
+      target="_blank" rel="noopener noreferrer" class="hb hb--wa">
+      Best price
     </a>
   </div>
-  <div class="h-16 sm:hidden"></div>
-
+  <div class="h-20 sm:hidden" aria-hidden="true"></div>
 </Layout>
+
+<style>
+  .ah-marquee {
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+    mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+  }
+
+  .ah-marquee__track {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    width: max-content;
+    animation: ah-marquee-scroll 44s linear infinite;
+  }
+
+  @keyframes ah-marquee-scroll {
+    from { transform: translate3d(0, 0, 0); }
+    to { transform: translate3d(-50%, 0, 0); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ah-marquee__track { animation: none; }
+    .ah-marquee { overflow-x: auto; }
+  }
+</style>

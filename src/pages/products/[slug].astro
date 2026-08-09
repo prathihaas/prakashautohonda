@@ -100,7 +100,7 @@ const crossSellModels = [
         <!-- Test ride CTA -->
         <a href={`${WA}?text=${encodeURIComponent(`Hi Prakash Auto Honda, I want to book a free test ride for ${name_en} in Kamareddy. [W-TR]`)}`}
           target="_blank" rel="noopener noreferrer"
-          class="mt-4 w-full flex items-center justify-center gap-2 border-2 border-gray-200 rounded-xl py-3 font-bold text-sm text-gray-700 hover:border-red-300 hover:bg-red-50 transition">
+          class="mt-4 w-full flex items-center justify-center gap-2 border-2 border-gray-200 rounded-xl py-3 font-bold text-sm text-ink2 hover:border-honda-red hover:bg-honda-redTint transition">
           🏍️ Book Free Test Ride
         </a>
       </div>
@@ -170,7 +170,7 @@ const crossSellModels = [
     </div>
 
     <!-- Full product content (markdown) -->
-    <article class="prose max-w-none text-gray-700 mt-12 mb-10">
+    <article class="prose max-w-none text-ink2 mt-12 mb-10">
       <Content />
     </article>
 
@@ -180,7 +180,7 @@ const crossSellModels = [
       <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
         {crossSellModels.slice(0, 8).map(m => (
           <a href={`/products/${m.slug}`}
-            class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-red-200 hover:bg-red-50 transition font-semibold text-sm text-gray-700 hover:text-red-600">
+            class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-honda-red hover:bg-honda-redTint transition font-semibold text-sm text-ink2 hover:text-red-600">
             <span class="text-red-500">→</span> Honda {m.name}
           </a>
         ))}

@@ -2,6 +2,7 @@
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import SEOHead from '../components/SEOHead.astro';
+import '../styles/tokens.css';
 
 interface Props {
   title?: string;
@@ -28,7 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/favicon.png" />
-    <meta name="theme-color" content="#E91A24" />
+    <meta name="theme-color" content="#CC0000" />
     <SEOHead title={title} description={description} canonical={canonical} image={image} ogType={ogType} noOrgSchema={noOrgSchema} />
     
     <!-- Resource hints — reduce third-party latency -->
@@ -38,9 +39,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Noto+Sans+Telugu:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Honda India serves Inter 300–700. Light weights matter to the brand voice. -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+Telugu:wght@400;500;700&display=swap" rel="stylesheet">
   </head>
-  <body class="font-sans text-slate-900 bg-white selection:bg-red-100 selection:text-red-900 flex flex-col min-h-screen"><!-- Google Tag Manager (noscript) -->
+  <body class="font-sans text-body bg-paper selection:bg-honda-redTint selection:text-honda-redDeep flex flex-col min-h-screen"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL6X6MMB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
@@ -117,13 +119,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </html>
 
 <style is:global>
-  .font-sans { font-family: 'Inter', sans-serif; }
-  .font-noto { font-family: 'Noto Sans Telugu', sans-serif; }
-  
-  /* Markdown Content Styling */
-  .prose h1 { @apply text-4xl font-black text-gray-900 mb-4; }
-  .prose h2 { @apply text-2xl font-bold text-gray-900 mt-8 mb-4 border-l-4 border-red-600 pl-3; }
-  .prose p { @apply text-lg text-gray-700 leading-relaxed mb-4; }
-  .prose ul { @apply list-disc list-inside mb-4 space-y-2; }
-  .prose img { @apply rounded-xl shadow-lg my-8 w-full h-auto; }
+  .font-sans { font-family: var(--font-body); }
+  .font-noto { font-family: var(--font-telugu); }
+
+  /* Markdown content — Honda's quiet editorial voice: semibold heads,
+     hairline separators, no side-tab accent bars. */
+  .prose h1 { @apply text-3xl sm:text-4xl font-semibold text-ink mb-4 leading-tight; }
+  .prose h2 { @apply text-2xl font-semibold text-ink mt-10 mb-3 pt-6 border-t border-rule leading-snug; }
+  .prose h3 { @apply text-lg font-semibold text-ink mt-7 mb-2; }
+  .prose p  { @apply text-base sm:text-lg text-body leading-relaxed mb-4; }
+  .prose ul { @apply list-disc pl-5 mb-4 space-y-2 text-body; }
+  .prose a  { @apply text-honda-red underline underline-offset-2 decoration-honda-red/40 hover:decoration-honda-red; }
+  .prose strong { @apply font-semibold text-ink; }
+  .prose img { @apply rounded-lg my-8 w-full h-auto; }
 </style>

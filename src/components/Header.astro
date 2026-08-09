@@ -1,49 +1,68 @@
 ---
-import BilingualText from './BilingualText.astro';
+// N5 Floating pill — a white pill that rides above the page, Honda's own
+// light-and-airy chrome. Dealer name leads; Honda is carried as endorsement.
+const nav = [
+  { en: 'Bikes & Scooters', te: 'బైకులు & స్కూటర్లు', href: '/products/' },
+  { en: 'Service', te: 'సర్వీస్', href: '/service/' },
+  { en: 'Branches', te: 'బ్రాంచ్‌లు', href: '/#branches' },
+  { en: 'Guides', te: 'బ్లాగ్', href: '/blog/' },
+  { en: 'About', te: 'మా గురించి', href: '/about/' },
+];
+const WA = 'https://wa.me/918886604615?text=Hi%2C%20I%20want%20to%20know%20about%20Honda%20bikes%20in%20Kamareddy.%20%5BW-PA%5D';
 ---
-<nav class="fixed w-full bg-white/90 backdrop-blur-md z-40 border-b border-gray-100">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="flex justify-between h-20 items-center">
-      <!-- Logo -->
-      <a href="/" class="flex-shrink-0 group">
-        <div class="flex flex-col">
-          <span class="text-2xl font-black tracking-tighter text-red-600 group-hover:opacity-90 transition">
-            PRAKASH AUTO HONDA
-          </span>
-          <span class="text-xs text-gray-500 font-bold tracking-widest font-noto">
-            ప్రకాష్ ఆటో హోండా
-          </span>
-        </div>
+
+<header class="sticky top-0 z-40 px-3 sm:px-5 pt-3 sm:pt-4">
+  <div class="mx-auto max-w-7xl rounded-pill bg-card/95 backdrop-blur-md border border-ruleSoft shadow-[0_2px_16px_-6px_rgba(0,0,0,0.18)]">
+    <div class="flex items-center justify-between gap-3 h-14 sm:h-16 pl-5 pr-2 sm:pr-3">
+      <a href="/" class="min-w-0 group" aria-label="Prakash Auto Honda, Kamareddy — home">
+        <span class="flex items-baseline gap-2 min-w-0">
+          <span class="text-base sm:text-lg font-semibold tracking-tight text-ink whitespace-nowrap">Prakash Auto Honda</span>
+          <span class="hidden lg:inline text-xs text-body whitespace-nowrap">Kamareddy</span>
+        </span>
+        <span class="block text-[11px] text-muted font-noto leading-none -mt-0.5">ప్రకాష్ ఆటో హోండా</span>
       </a>
 
-      <!-- Desktop Nav -->
-      <div class="hidden md:flex space-x-8 items-center">
-        <a href="/products/" class="flex flex-col items-start hover:opacity-70 transition-opacity">
-           <span class="text-sm font-bold text-gray-900">Bikes & Scooters</span>
-           <span class="text-[10px] text-gray-500 font-noto">బైకులు & స్కూటర్లు</span>
+      <nav class="hidden lg:flex items-center gap-7" aria-label="Primary">
+        {nav.map((item) => (
+          <a
+            href={item.href}
+            class="group/nav text-sm text-ink2 transition-colors duration-150 ease-out hover:text-honda-red"
+          >
+            {item.en}
+            <span class="block text-[10px] text-muted font-noto leading-none group-hover/nav:text-honda-red/70">{item.te}</span>
+          </a>
+        ))}
+      </nav>
+
+      <div class="flex items-center gap-2 shrink-0">
+        <a href={WA} target="_blank" rel="noopener noreferrer" class="hb hidden sm:inline-flex !min-h-[2.75rem] !py-2.5">
+          Enquire
         </a>
-        <a href="/#branches" class="flex flex-col items-start hover:opacity-70 transition-opacity">
-           <span class="text-sm font-bold text-gray-900">Branches</span>
-           <span class="text-[10px] text-gray-500 font-noto">బ్రాంచ్‌లు</span>
-        </a>
-        <a href="/service/" class="flex flex-col items-start hover:opacity-70 transition-opacity">
-           <span class="text-sm font-bold text-gray-900">Service</span>
-           <span class="text-[10px] text-gray-500 font-noto">సర్వీస్</span>
-        </a>
-        <a href="/blog/" class="flex flex-col items-start hover:opacity-70 transition-opacity">
-           <span class="text-sm font-bold text-gray-900">Blog</span>
-           <span class="text-[10px] text-gray-500 font-noto">బ్లాగ్</span>
-        </a>
-        <a href="/about/" class="flex flex-col items-start hover:opacity-70 transition-opacity">
-           <span class="text-sm font-bold text-gray-900">About</span>
-           <span class="text-[10px] text-gray-500 font-noto">మా గురించి</span>
-        </a>
-        
-        <a href="https://wa.me/918886604615?text=Hi%2C%20I%20want%20to%20know%20about%20Honda%20bikes%20in%20Kamareddy.%20%5BW-PA%5D" class="bg-red-600 text-white px-4 py-2 rounded-lg text-sm font-bold hover:bg-red-700 transition flex items-center gap-2">
-           <span>Enquire</span>
-           <span class="font-noto text-xs opacity-80">విచారించండి</span>
-        </a>
+
+        <details class="lg:hidden group">
+          <summary
+            class="hb hb--outline !px-4 !min-h-[2.75rem] list-none cursor-pointer [&::-webkit-details-marker]:hidden"
+            aria-label="Open menu"
+          >
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" class="group-open:hidden"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" class="hidden group-open:block"><path d="M5 5l14 14M19 5L5 19"/></svg>
+            <span class="sr-only">Menu</span>
+          </summary>
+          <div class="absolute left-3 right-3 sm:left-5 sm:right-5 top-full mt-2 rounded-lg bg-card border border-ruleSoft shadow-xl overflow-hidden">
+            <nav aria-label="Mobile">
+              {nav.map((item) => (
+                <a href={item.href} class="block px-5 py-3.5 border-b border-ruleSoft last:border-0 hover:bg-paper transition-colors duration-150">
+                  <span class="block text-sm font-medium text-ink">{item.en}</span>
+                  <span class="block text-[11px] text-muted font-noto">{item.te}</span>
+                </a>
+              ))}
+            </nav>
+            <div class="p-4 bg-paper">
+              <a href={WA} target="_blank" rel="noopener noreferrer" class="hb w-full">Enquire on WhatsApp</a>
+            </div>
+          </div>
+        </details>
       </div>
     </div>
   </div>
-</nav>
+</header>

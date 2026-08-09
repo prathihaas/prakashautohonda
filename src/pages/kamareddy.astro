@@ -50,7 +50,7 @@ const breadcrumbSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(locationSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
-  <main class="pt-24 pb-20 bg-white">
+  <main class="pt-10 pb-20 bg-white">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 
       <!-- Page Header -->
@@ -92,7 +92,7 @@ const breadcrumbSchema = {
 
         <a href="https://www.google.com/maps/search/Prakash+Auto+Honda+Kamareddy"
           target="_blank" rel="noopener noreferrer"
-          class="group bg-white border-2 border-gray-200 p-8 rounded-2xl text-center hover:border-red-300 hover:bg-red-50 transition-all duration-300 transform hover:-translate-y-1 shadow-sm">
+          class="group bg-white border-2 border-gray-200 p-8 rounded-2xl text-center hover:border-honda-red hover:bg-honda-redTint transition-all duration-300 transform hover:-translate-y-1 shadow-sm">
           <p class="font-bold text-lg text-gray-800">Get Directions</p>
           <p class="text-gray-500 text-sm mt-1">Open Google Maps</p>
           <p class="font-noto text-gray-400 text-xs mt-1">దారి చూపించండి</p>
@@ -112,7 +112,7 @@ const breadcrumbSchema = {
         </div>
         <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
           <h2 class="text-lg font-black text-gray-900 uppercase tracking-wide mb-4">Working Hours</h2>
-          <div class="space-y-3 text-gray-700">
+          <div class="space-y-3 text-ink2">
             <div class="flex justify-between">
               <span class="font-medium">Mon – Sat</span>
               <span class="font-bold text-red-600">9:00 AM – 7:00 PM</span>
@@ -132,7 +132,7 @@ const breadcrumbSchema = {
         <p class="text-gray-600 mb-4">Prakash Auto Honda serves Honda customers across Kamareddy district including:</p>
         <div class="flex flex-wrap gap-2">
           {['Kamareddy', 'Yellareddy', 'Banswada', 'Nizamsagar', 'Pitlam', 'Domakonda', 'Bichkunda', 'Sadasivanagar', 'Bhiknoor', 'Machareddy'].map(area => (
-            <span class="bg-white border border-gray-200 text-gray-700 px-3 py-1 rounded-full text-sm font-medium">{area}</span>
+            <span class="bg-white border border-gray-200 text-ink2 px-3 py-1 rounded-full text-sm font-medium">{area}</span>
           ))}
         </div>
       </div>

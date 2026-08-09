@@ -101,7 +101,7 @@ const featuredBikes = [
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
-  <nav class="pt-24 pb-2 max-w-3xl mx-auto px-4">
+  <nav class="pt-8 pb-2 max-w-3xl mx-auto px-4">
     <div class="flex items-center gap-2 text-xs text-gray-400 font-semibold uppercase tracking-wider">
       <a href="/" class="hover:text-red-600 transition">Home</a>
       <span>/</span>
@@ -157,7 +157,7 @@ const featuredBikes = [
         <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
           {featuredBikes.map(bike => (
             <a href={`/products/${bike.slug}`}
-               class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-red-200 hover:bg-red-50 transition-all font-semibold text-sm text-gray-700 hover:text-red-600">
+               class="flex items-center gap-2 p-3 rounded-xl border border-gray-100 hover:border-honda-red hover:bg-honda-redTint transition-all font-semibold text-sm text-ink2 hover:text-red-600">
               <span class="text-red-500">→</span>
               {bike.name}
             </a>
@@ -170,7 +170,7 @@ const featuredBikes = [
 
       <!-- Branch links -->
       <div class="mt-10 flex flex-col sm:flex-row gap-3">
-        <a href="/kamareddy" class="flex-1 flex items-center gap-3 border border-gray-200 rounded-xl p-4 hover:border-red-300 hover:bg-red-50 transition group">
+        <a href="/kamareddy" class="flex-1 flex items-center gap-3 border border-gray-200 rounded-xl p-4 hover:border-honda-red hover:bg-honda-redTint transition group">
           <span class="text-red-500 text-xl">📍</span>
           <div>
             <p class="font-bold text-gray-900 text-sm group-hover:text-red-600 transition">Kamareddy Showroom</p>
@@ -178,7 +178,7 @@ const featuredBikes = [
           </div>
           <span class="ml-auto text-gray-400 group-hover:text-red-500 transition">→</span>
         </a>
-        <a href="/lingampet" class="flex-1 flex items-center gap-3 border border-gray-200 rounded-xl p-4 hover:border-red-300 hover:bg-red-50 transition group">
+        <a href="/lingampet" class="flex-1 flex items-center gap-3 border border-gray-200 rounded-xl p-4 hover:border-honda-red hover:bg-honda-redTint transition group">
           <span class="text-red-500 text-xl">📍</span>
           <div>
             <p class="font-bold text-gray-900 text-sm group-hover:text-red-600 transition">Lingampet Showroom</p>

@@ -1,44 +1,68 @@
 ---
+// Ft7 Compact utility — a single hairline-ruled band. Two branches and five
+// links do not justify a four-column link farm.
+const links = [
+  { label: 'All models', href: '/products/' },
+  { label: 'Service', href: '/service/' },
+  { label: 'Guides', href: '/blog/' },
+  { label: 'About', href: '/about/' },
+];
+const branches = [
+  { name: 'Kamareddy', phone: '+91 8886680259', href: '/kamareddy' },
+  { name: 'Lingampet', phone: '+91 9985033315', href: '/lingampet' },
+];
+const year = new Date().getFullYear();
 ---
-<footer class="bg-white border-t border-gray-200 pt-16 pb-24 mt-auto">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8">
-      <div class="col-span-1 md:col-span-2">
-        <h2 class="text-2xl font-black text-red-600 mb-1">PRAKASH AUTO HONDA</h2>
-        <p class="text-sm font-bold text-gray-400 font-noto mb-4">ప్రకాష్ ఆటో హోండా</p>
-        <p class="text-gray-600 max-w-sm mb-6">
-          Your trusted partner for Honda Two-Wheelers in Kamareddy. 
-          Driving dreams since 2022.
-        </p>
-      </div>
-      
+
+<footer class="mt-auto bg-card border-t border-rule">
+  <div class="max-w-7xl mx-auto px-5 sm:px-8 py-12 lg:py-16">
+    <div class="grid gap-10 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)_minmax(0,1fr)]">
       <div>
-        <h3 class="font-bold text-gray-900 mb-4 uppercase text-sm tracking-wider">Quick Links</h3>
-        <ul class="space-y-3 text-sm text-gray-600">
-          <li><a href="/products/" class="hover:text-red-600">All Models</a></li>
-          <li><a href="/service/" class="hover:text-red-600">Service Center</a></li>
-          <li><a href="/blog/" class="hover:text-red-600">Latest News</a></li>
-          <li><a href="/about/" class="hover:text-red-600">About Us</a></li>
+        <p class="text-lg font-semibold text-ink">Prakash Auto Honda</p>
+        <p class="mt-0.5 text-sm text-muted font-noto">ప్రకాష్ ఆటో హోండా</p>
+        <p class="mt-4 max-w-sm text-sm leading-relaxed text-body">
+          Authorised Honda two-wheeler dealer in Kamareddy, Telangana. Sales, genuine parts
+          and service at both branches, Monday to Saturday.
+        </p>
+        <div class="mt-6 flex flex-wrap gap-2">
+          <a href="tel:+918886604615" class="hb hb--outline">Call 88866 04615</a>
+          <a
+            href="https://wa.me/918886604615?text=Hi%2C%20I%20want%20to%20enquire%20about%20Honda%202-wheelers%20in%20Kamareddy.%20%5BW-PA%5D"
+            target="_blank" rel="noopener noreferrer" class="hb hb--wa">WhatsApp</a>
+        </div>
+      </div>
+
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-[0.14em] text-muted">Showrooms</p>
+        <ul class="mt-4 space-y-4">
+          {branches.map((b) => (
+            <li>
+              <a href={b.href} class="text-sm font-medium text-ink hover:text-honda-red transition-colors duration-150">{b.name}</a>
+              <a href={`tel:${b.phone.replace(/\s/g, '')}`} class="block text-sm text-body hover:text-honda-red transition-colors duration-150">{b.phone}</a>
+            </li>
+          ))}
         </ul>
       </div>
 
       <div>
-        <h3 class="font-bold text-gray-900 mb-4 uppercase text-sm tracking-wider">Contact</h3>
-        <p class="text-sm text-gray-600 mb-2">+91 8886604615</p>
-        <p class="text-sm text-gray-600">Hyderabad Road, Kamareddy</p>
+        <p class="text-xs font-semibold uppercase tracking-[0.14em] text-muted">Sections</p>
+        <ul class="mt-4 space-y-2.5">
+          {links.map((l) => (
+            <li><a href={l.href} class="text-sm text-body hover:text-honda-red transition-colors duration-150">{l.label}</a></li>
+          ))}
+        </ul>
       </div>
     </div>
-    
-    <div class="border-t border-gray-100 mt-10 pt-6 text-xs text-gray-500 text-center">
-      Part of the Prakash Group:
-      <a href="https://www.prakashhyundai.com" class="hover:text-red-600 underline">Prakash Hyundai</a> ·
-      <a href="https://www.prakashmotors.in" class="hover:text-red-600 underline">Prakash Motors</a> ·
-      <a href="https://www.sairamhonda.com" class="hover:text-red-600 underline">Sairam Honda</a>
-      <span class="block mt-1 text-gray-400">In Nizamabad district? Our sister dealership Sairam Honda serves 7 branches.</span>
-    </div>
-    <div class="border-t border-gray-100 mt-6 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-gray-400">
-      <p>© 2026 Prakash Auto Honda. All rights reserved.</p>
-      <p class="mt-2 md:mt-0 font-noto">కామారెడ్డి యొక్క అత్యంత నమ్మకమైన డీలర్</p>
+
+    <hr class="h-rule my-10" />
+
+    <div class="flex flex-col gap-3 text-xs text-muted lg:flex-row lg:items-center lg:justify-between">
+      <p>© {year} Prakash Auto Honda. Authorised Honda dealer. Honda is a trademark of Honda Motor Co., Ltd.</p>
+      <p class="flex flex-wrap gap-x-3 gap-y-1">
+        <a href="https://www.prakashhyundai.com" target="_blank" rel="noopener" class="hover:text-honda-red transition-colors duration-150">Prakash Hyundai</a>
+        <a href="https://www.prakashmotors.in" target="_blank" rel="noopener" class="hover:text-honda-red transition-colors duration-150">Prakash Motors</a>
+        <a href="https://www.sairamhonda.com" target="_blank" rel="noopener" class="hover:text-honda-red transition-colors duration-150">Sairam Honda</a>
+      </p>
     </div>
   </div>
 </footer>
