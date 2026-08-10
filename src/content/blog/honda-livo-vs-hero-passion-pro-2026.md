@@ -28,7 +28,7 @@ If you're searching "Hero Passion Pro vs Honda Livo Kamareddy" or "best 110cc bi
 > - **Real mileage**: Honda Livo 55–60 kmpl | Hero Passion Pro 50–55 kmpl (real-world, Telangana roads)
 > - **Annual service cost**: Honda ~₹1,500–₹2,000 | Hero ~₹2,200–₹3,000
 > - **Best for**: Farmers and daily commuters in Kamareddy mandals who cover 40–60 km/day
-> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 9030857333
+> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 8886604615
 
 ---
 
@@ -85,7 +85,7 @@ Hero Passion Pro is approximately ₹2,000–₹3,000 cheaper on-road. However, 
 
 The Honda Livo saves **₹15,000–₹20,000 over 5 years** despite the slightly higher purchase price.
 
-Prakash Auto Honda offers **Honda Finance schemes** with competitive interest rates and minimal documentation. Call **9030857333** for current offers — festive season schemes often include ₹3,000–₹5,000 cashback.
+Prakash Auto Honda offers **Honda Finance schemes** with competitive interest rates and minimal documentation. Call **8886604615** for current offers — festive season schemes often include ₹3,000–₹5,000 cashback.
 
 ---
 
@@ -155,7 +155,7 @@ A: Honda Livo holds value significantly better. At 3 years, Livo depreciates 39�
 A: Honda Livo's lighter weight (110 kg vs 121 kg) and lower seat height make it more maneuverable in Kamareddy town traffic. The smoother low-RPM torque delivery also makes stop-start city riding more comfortable.
 
 **Q: What is the on-road price of Honda Livo in Kamareddy 2026?**
-A: Honda Livo on-road price in Kamareddy is approximately ₹89,000–₹95,000 depending on variant and color. Contact Prakash Auto Honda at **9030857333** for exact current pricing.
+A: Honda Livo on-road price in Kamareddy is approximately ₹89,000–₹95,000 depending on variant and color. Contact Prakash Auto Honda at **8886604615** for exact current pricing.
 
 ---
 
@@ -166,7 +166,7 @@ A: Honda Livo on-road price in Kamareddy is approximately ₹89,000–₹95,000 
 Compare it yourself. Ride the Livo, ride the Passion Pro at any Hero showroom, and you'll feel the difference in smoothness and refinement immediately.
 
 **Prakash Auto Honda** | Kamareddy, Telangana
-- Call: **9030857333**
+- Call: **8886604615**
 - WhatsApp: **wa.me/918886604615**
 - Service at: Kamareddy and surrounding areas in Nizamabad district
 

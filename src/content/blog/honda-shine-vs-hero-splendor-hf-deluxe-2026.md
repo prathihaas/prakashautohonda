@@ -28,7 +28,7 @@ If you've been searching "Hero Splendor vs Honda Shine Kamareddy" or "HF Deluxe 
 > - **Real mileage**: Honda 58–62 kmpl | Hero Splendor 55–60 kmpl | HF Deluxe 50–55 kmpl
 > - **Annual service cost**: Honda ~₹1,500–₹2,000 vs Hero ~₹2,500–₹3,500
 > - **Best for**: Daily commuters in Kamareddy who want 5-year reliability without workshop surprises
-> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 9030857333
+> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 8886604615
 
 ---
 
@@ -90,7 +90,7 @@ Here are actual 2026 on-road prices for Kamareddy:
 
 The HF Deluxe looks cheaper at first glance. But read the TCO section below — that initial saving disappears quickly.
 
-Prakash Auto Honda offers Honda finance through Honda's own HMSI financing arm with **0% processing fee schemes** during festive offers. Call **9030857333** to check current EMI schemes.
+Prakash Auto Honda offers Honda finance through Honda's own HMSI financing arm with **0% processing fee schemes** during festive offers. Call **8886604615** to check current EMI schemes.
 
 ---
 
@@ -171,7 +171,7 @@ A: Honda Shine 100 holds 37–41% depreciation at 3 years vs 48–53% for Hero S
 A: Annual maintenance is similar (₹2,500–₹4,000), but Honda's genuine parts availability through Prakash Auto Honda's network means fewer surprises. Hero bikes with non-genuine parts can have higher long-term repair costs.
 
 **Q: Is Honda Shine 100 available in Kamareddy?**
-A: Yes! Prakash Auto Honda stocks Honda Shine 100 in all colors with immediate delivery. Call **9030857333** or WhatsApp at **wa.me/918886604615** to check availability and book a test ride.
+A: Yes! Prakash Auto Honda stocks Honda Shine 100 in all colors with immediate delivery. Call **8886604615** or WhatsApp at **wa.me/918886604615** to check availability and book a test ride.
 
 ---
 
@@ -182,7 +182,7 @@ A: Yes! Prakash Auto Honda stocks Honda Shine 100 in all colors with immediate d
 కామారెడ్డి లో Honda Shine 100 test ride book చేయండి. మా experts మీకు honest comparison చేస్తారు — ఏ bike మీ needs కి best fit అవుతుందో నిజాయితీగా చెప్తాం.
 
 **Prakash Auto Honda** | Kamareddy, Telangana
-- Call: **9030857333**
+- Call: **8886604615**
 - WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 

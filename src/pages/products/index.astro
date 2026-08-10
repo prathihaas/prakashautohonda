@@ -7,12 +7,13 @@ import BilingualText from '../../components/BilingualText.astro';
 const products = await getCollection('products');
 ---
 
-<Layout title="All Models | Prakash Auto Honda" description="View all Honda bikes and scooters available in Kamareddy">
+<Layout title="All Honda Bikes & Scooters | Prakash Auto Honda" description="Every Honda two-wheeler available in Kamareddy — Activa, Shine, SP 125, SP 160, Unicorn, Dio. On-road price, mileage, EMI and test ride booking.">
   <div class="bg-gray-50 py-12 px-4 text-center">
     <BilingualText size="h1" en="All Models" te="అన్ని మోడల్స్" />
   </div>
   
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <h2 class="text-2xl font-black text-gray-900 mb-6">Honda Bikes &amp; Scooters in Kamareddy</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {products.map((product) => (
           <ProductCard 

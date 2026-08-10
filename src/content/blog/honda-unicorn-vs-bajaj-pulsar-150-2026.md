@@ -28,7 +28,7 @@ readTime: "8 min read"
 > - **Real mileage**: Honda CB Unicorn 50–56 kmpl | Bajaj Pulsar 150 42–47 kmpl
 > - **5-year savings**: Honda owners save ₹25,000–₹35,000 in fuel and maintenance over Pulsar 150 owners
 > - **Best for**: Kamareddy professionals who ride 50–80 km/day and want a low-drama 150cc bike
-> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 9030857333
+> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 8886604615
 
 ---
 
@@ -86,7 +86,7 @@ But here's the **5-year financial picture**:
 - Bajaj Pulsar 150 total cost: ~₹2,95,000 (higher fuel + higher maintenance + lower resale)
 - **Honda saves you ₹35,000–₹45,000 over 5 years**
 
-Prakash Auto Honda offers Honda Finance with special processing for existing customers and farmers from Banswada, Nizamabad, Yellareddy, Bheemgal, Balkonda, and Armoor area. Call **9030857333** to discuss loan options.
+Prakash Auto Honda offers Honda Finance with special processing for existing customers and farmers from Banswada, Nizamabad, Yellareddy, Bheemgal, Balkonda, and Armoor area. Call **8886604615** to discuss loan options.
 
 ---
 
@@ -158,7 +158,7 @@ A: Honda Unicorn averages ₹2,500–₹3,500/year in maintenance vs ₹4,000–
 A: Honda CB Unicorn depreciates 33–39% at 3 years vs 45–51% for Bajaj Pulsar 150. In Kamareddy's used bike market, Honda consistently commands a premium.
 
 **Q: What is the on-road price of Honda CB Unicorn in Kamareddy 2026?**
-A: Honda CB Unicorn on-road price in Kamareddy is approximately ₹1,28,000–₹1,40,000. Call Prakash Auto Honda at **9030857333** for exact current pricing.
+A: Honda CB Unicorn on-road price in Kamareddy is approximately ₹1,28,000–₹1,40,000. Call Prakash Auto Honda at **8886604615** for exact current pricing.
 
 ---
 
@@ -169,7 +169,7 @@ A: Honda CB Unicorn on-road price in Kamareddy is approximately ₹1,28,000–�
 మీరే compare చేయండి — Unicorn ride చేయండి, Pulsar ride చేయండి. Smoothness, vibration, and confidence పై difference clearly feel అవుతుంది.
 
 **Prakash Auto Honda** | Kamareddy, Telangana
-- Call: **9030857333**
+- Call: **8886604615**
 - WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 

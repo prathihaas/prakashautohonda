@@ -14,7 +14,7 @@ tags:
 featured_image: "/images/blog/best-honda-bikes-under-1-lakh.jpg"
 excerpt: "Looking for the best Honda bike under 1 lakh in Kamareddy? Compare Honda Shine, Unicorn, CD 110 Dream and Activa. See prices, mileage, and EMI options at"
 seo_title: "Best Honda Bikes Under 1 Lakh in Kamareddy 2026"
-seo_description: "Best Honda bikes under ₹1 lakh in Kamareddy 2026 — CD 110 Dream at ₹72k (70 kmpl), Shine 100 at ₹84k, Activa 6G at ₹85k. EMI from ₹2,199/mo. ☎ 9030857333."
+seo_description: "Best Honda bikes under ₹1 lakh in Kamareddy 2026 — CD 110 Dream at ₹72k (70 kmpl), Shine 100 at ₹84k, Activa 6G at ₹85k. EMI from ₹2,199/mo. ☎ 8886604615."
 readTime: "6 min read"
 ---
 
@@ -28,7 +28,7 @@ This guide covers the **best Honda bikes and scooters available under ₹1 lakh 
 > - **Best scooter**: Honda Activa 6G — ~₹85,000 on-road | 52–58 kmpl | best resale value in class
 > - **Best for highways**: Honda Unicorn — ~₹1,09,000 on-road (slight stretch) | 60–65 kmpl | ideal Kamareddy–Nizamabad commuter
 > - **Finance**: EMI from ₹2,199/month | Same-day loan approval at showroom
-> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 9030857333
+> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 8886604615
 
 ---
 

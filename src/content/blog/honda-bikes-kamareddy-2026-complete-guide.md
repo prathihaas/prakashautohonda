@@ -28,7 +28,7 @@ This guide covers every Honda model available at **Prakash Auto Honda**, the aut
 > - **Mid-range**: Honda SP 125 ~₹95,000 (65 kmpl) | Honda Livo ~₹80,000
 > - **Premium**: Honda CB200X ~₹1,47,000 | Honda Unicorn ~₹1,12,000 | Hornet 2.0 ~₹1,36,000
 > - **EMI**: From ₹2,199/month | Zero down payment available | Loan approved in 30 minutes
-> - **Dealer**: Prakash Auto Honda — 2 branches in Kamareddy district — ☎ 9030857333
+> - **Dealer**: Prakash Auto Honda — 2 branches in Kamareddy district — ☎ 8886604615
 
 ---
 

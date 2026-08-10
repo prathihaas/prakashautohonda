@@ -28,7 +28,7 @@ readTime: "8 min read"
 > - **Total 5-year cost**: Honda Activa ~₹1.8–₹2.0 lakh vs Ola S1 Pro ~₹2.2–₹2.8 lakh (including depreciation)
 > - **Range anxiety**: Kamareddy–Banswada–Nizamabad routes have limited fast chargers — EVs risky for mandal commuters
 > - **Best for**: Kamareddy buyers who need reliability on rural roads without worrying about charging points
-> - **Buy Activa from**: Prakash Auto Honda Kamareddy — ☎ 9030857333
+> - **Buy Activa from**: Prakash Auto Honda Kamareddy — ☎ 8886604615
 
 ---
 
@@ -194,7 +194,7 @@ A: Over 5 years in Kamareddy, Honda Activa's total ownership cost is competitive
 We don't just sell Hondas — we help Kamareddy buyers make the right financial decision. If electric genuinely suits your use case, we'll tell you. If Honda Activa is better for you, we'll show you why.
 
 **Prakash Auto Honda** | Kamareddy, Telangana
-- Call: **9030857333**
+- Call: **8886604615**
 - WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 

@@ -28,7 +28,7 @@ TVS Jupiter 125 has strong advertising. Suzuki Burgman looks premium. But Honda 
 > - **Real mileage**: Activa 125 52–58 kmpl | TVS Jupiter 125 48–55 kmpl | Burgman 46–52 kmpl
 > - **Resale after 3 years**: Activa 125 65–70% | TVS Jupiter 125 55–60% | Burgman 50–55%
 > - **Best for**: Professional women riders and families in Kamareddy who want a premium 125cc scooter
-> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 9030857333
+> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 8886604615
 
 ---
 
@@ -77,7 +77,7 @@ Suzuki claims 59.6 kmpl, real-world shows **46–52 kmpl** in Telangana conditio
 
 Honda Activa 125 is the most affordable and cheapest to own long-term.
 
-Prakash Auto Honda offers attractive financing with **Honda Finance** — quick approval for salaried and self-employed buyers. Contact **9030857333** to check current schemes.
+Prakash Auto Honda offers attractive financing with **Honda Finance** — quick approval for salaried and self-employed buyers. Contact **8886604615** to check current schemes.
 
 ---
 
@@ -155,7 +155,7 @@ A: TVS Jupiter 125 claims 62 kmpl but delivers 48–55 kmpl in Telangana. Honda 
 A: Honda Activa 125 has the best resale value — 30–38% depreciation at 3 years vs 39–46% for TVS Jupiter 125 and 45–53% for Suzuki Burgman in Telangana markets.
 
 **Q: What is Honda Activa 125 on-road price in Kamareddy 2026?**
-A: Honda Activa 125 on-road price in Kamareddy is approximately ₹94,000–₹1,06,000 depending on variant. Call Prakash Auto Honda at **9030857333** for exact pricing.
+A: Honda Activa 125 on-road price in Kamareddy is approximately ₹94,000–₹1,06,000 depending on variant. Call Prakash Auto Honda at **8886604615** for exact pricing.
 
 ---
 
@@ -166,7 +166,7 @@ A: Honda Activa 125 on-road price in Kamareddy is approximately ₹94,000–₹1
 మీకు most suitable scooter ఏదో మీరే decide చేయండి — మన experts TVS, Suzuki, Honda అన్నీ honest గా compare చేసి చెప్తారు.
 
 **Prakash Auto Honda** | Kamareddy, Telangana
-- Call: **9030857333**
+- Call: **8886604615**
 - WhatsApp: **wa.me/918886604615**
 - Branches: Kamareddy and surrounding areas in Nizamabad district
 

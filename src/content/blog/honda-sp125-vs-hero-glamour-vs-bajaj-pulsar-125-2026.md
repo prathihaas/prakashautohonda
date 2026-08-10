@@ -28,7 +28,7 @@ readTime: "8 min read"
 > - **Real mileage**: Honda SP 125 55–62 kmpl | Hero Glamour 50–54 kmpl | Bajaj Pulsar 125 45–50 kmpl
 > - **Key advantage**: Honda's fuel injection delivers consistent mileage — carbureted rivals dip in summer heat
 > - **Best for**: Young professionals and highway commuters in Kamareddy wanting 125cc reliability
-> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 9030857333
+> - **Buy from**: Prakash Auto Honda Kamareddy — ☎ 8886604615
 
 ---
 
@@ -85,7 +85,7 @@ The Bajaj Pulsar 125's 11.8 bhp engine revs higher and delivers a sportier chara
 
 Honda SP 125 costs the most upfront but is the cheapest to own over 5 years. The Bajaj Pulsar 125 is the most expensive to own long-term despite mid-range purchase price.
 
-Prakash Auto Honda offers Honda Finance with quick loan approval — bring your Aadhaar, PAN, and 3-month salary slip. Loans approved within 4 hours for salaried employees. Call **9030857333** for current interest rate and processing fee offers.
+Prakash Auto Honda offers Honda Finance with quick loan approval — bring your Aadhaar, PAN, and 3-month salary slip. Loans approved within 4 hours for salaried employees. Call **8886604615** for current interest rate and processing fee offers.
 
 ---
 
@@ -158,7 +158,7 @@ A: Honda SP 125 is dramatically better — 33–39% depreciation vs 47–53% for
 A: Honda SP 125 wins on fuel efficiency, resale value, and 5-year warranty eligibility. Hero Glamour 125 is cheaper upfront but costs more over 5 years. For Kamareddy long-term buyers, Honda SP 125 is the smarter investment.
 
 **Q: What is Honda SP 125 on-road price in Kamareddy 2026?**
-A: Honda SP 125 on-road price in Kamareddy is approximately ₹98,000–₹1,06,000 depending on variant. Contact Prakash Auto Honda at **9030857333** for exact current pricing and available colors.
+A: Honda SP 125 on-road price in Kamareddy is approximately ₹98,000–₹1,06,000 depending on variant. Contact Prakash Auto Honda at **8886604615** for exact current pricing and available colors.
 
 ---
 
@@ -169,7 +169,7 @@ A: Honda SP 125 on-road price in Kamareddy is approximately ₹98,000–₹1,06,
 Feel the difference of PGM-FI fuel injection yourself. Smooth starts, responsive throttle, and consistent mileage — every kilometer on Kamareddy roads.
 
 **Prakash Auto Honda** | Kamareddy, Telangana
-- Call: **9030857333**
+- Call: **8886604615**
 - WhatsApp: **wa.me/918886604615**
 - Locations: Kamareddy and surrounding areas in Nizamabad district
 
