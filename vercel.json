@@ -5,31 +5,159 @@
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(self), payment=()" },
-        { "key": "Strict-Transport-Security", "value": "max-age=63072000; includeSubDomains; preload" },
-        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://analytics.google.com https://www.clarity.ms https://scripts.clarity.ms https://stats.g.doubleclick.net https://googleads.g.doubleclick.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://region1.analytics.google.com https://stats.g.doubleclick.net https://www.googletagmanager.com https://www.clarity.ms https://e.clarity.ms https://n.clarity.ms https://googleads.g.doubleclick.net https://www.google.com; frame-src https://maps.google.com https://www.google.com https://www.googletagmanager.com; object-src 'none'; base-uri 'self'; worker-src blob:" }
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(self), payment=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://analytics.google.com https://www.clarity.ms https://scripts.clarity.ms https://stats.g.doubleclick.net https://googleads.g.doubleclick.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://region1.analytics.google.com https://stats.g.doubleclick.net https://www.googletagmanager.com https://www.clarity.ms https://e.clarity.ms https://n.clarity.ms https://googleads.g.doubleclick.net https://www.google.com; frame-src https://maps.google.com https://www.google.com https://www.googletagmanager.com; object-src 'none'; base-uri 'self'; worker-src blob:"
+        }
       ]
     }
   ],
   "redirects": [
-    { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "permanent": true },
-    { "source": "/:path*", "has": [{"type": "host", "value": "prakashautohonda.com"}], "destination": "https://www.prakashautohonda.com/:path*", "permanent": true },
-    { "source": "/login", "destination": "/", "permanent": true },
-    { "source": "/register", "destination": "/", "permanent": true },
-    { "source": "/my-account", "destination": "/", "permanent": true },
-    { "source": "/team", "destination": "/", "permanent": true },
-    { "source": "/team/:slug", "destination": "/", "permanent": true },
-    { "source": "/listing/:slug", "destination": "/products/:slug", "permanent": true },
-    { "source": "/search/:path*", "destination": "/products", "permanent": true },
-    { "source": "/submit-listing", "destination": "/", "permanent": true },
-    { "source": "/about-us", "destination": "/about", "permanent": true },
-    { "source": "/contact-us", "destination": "/#branches", "permanent": true },
-    { "source": "/contact", "destination": "/#branches", "permanent": true },
-    { "source": "/vehicles/:slug", "destination": "/products/:slug", "permanent": true },
-    { "source": "/motorcycle/:slug", "destination": "/products/:slug", "permanent": true },
-    { "source": "/scooter/:slug", "destination": "/products/:slug", "permanent": true }
+    {
+      "source": "/blog/jupiter-vs-access-vs-activa-kamareddy",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/access-vs-jupiter-vs-activa-kamareddy",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/access-vs-activa-vs-jupiter-kamareddy-scooter-showdown",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/activa-vs-access-vs-jupiter-which-scooter-is-best-for-you",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tvs-jupiter-vs-honda-activa-vs-suzuki-access-kamareddy",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/activa-vs-access-vs-jupiter-kamareddy",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-activa-vs-tvs-jupiter-vs-suzuki-access-kamareddy",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/jupiter-vs-activa-vs-access-kamareddy-scooter-comparison",
+      "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "prakashautohonda.com"
+        }
+      ],
+      "destination": "https://www.prakashautohonda.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/login",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/register",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/my-account",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/team",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/team/:slug",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/listing/:slug",
+      "destination": "/products/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/search/:path*",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/submit-listing",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about-us",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/contact-us",
+      "destination": "/#branches",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/#branches",
+      "permanent": true
+    },
+    {
+      "source": "/vehicles/:slug",
+      "destination": "/products/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/motorcycle/:slug",
+      "destination": "/products/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/scooter/:slug",
+      "destination": "/products/:slug",
+      "permanent": true
+    }
   ]
 }
