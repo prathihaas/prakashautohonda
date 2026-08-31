@@ -34,6 +34,111 @@
   ],
   "redirects": [
     {
+      "source": "/blog/honda-bikes-kotagiri-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-banswada-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-balkonda-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-jukkal-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-yellareddy-kamareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-machareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-lingampet-kamareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-domakonda-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-5-reasons-buy-honda-kamareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/petrol-bikes-vs-scooters-kamareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-pitlam-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kamareddy-honda-bike-guide-telugu-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-tadwai-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-sirkonda-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-sadasivanagar-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-ramareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-madnoor-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-kamareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-bheemgal-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-bike-college-students-kamareddy-2026",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-mileage-bikes",
+      "destination": "/products/",
+      "permanent": true
+    },
+    {
       "source": "/blog/jupiter-vs-access-vs-activa-kamareddy",
       "destination": "/blog/honda-activa-vs-suzuki-access-vs-tvs-jupiter-2026/",
       "permanent": true
