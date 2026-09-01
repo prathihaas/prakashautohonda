@@ -2,6 +2,7 @@
 title: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 2026 — Premium Scooter Comparison for Kamareddy"
 title_te: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman 2026 — కామారెడ్డి Premium Scooter Comparison"
 date: "2026-04-13"
+updated: "2026-09-01"
 author: "Prakash Auto Honda Team"
 category: "Bike Comparison"
 tags:
@@ -12,9 +13,9 @@ tags:
   - "best 125cc scooter 2026"
   - "Prakash Auto Honda"
 featured_image: "/images/blog/honda-activa125-vs-tvs-jupiter-burgman-2026.jpg"
-excerpt: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 — best 125cc scooter for Kamareddy 2026. Price, mileage, service & resale."
-seo_title: "Activa 125 vs Jupiter 125 vs Burgman 2026: Best 125cc Pick"
-seo_description: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street: real mileage, ₹95K–₹1.05L on-road, 5-year resale. Which 125cc wins for Kamareddy buyers?"
+excerpt: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 — which 125cc scooter is best for Kamareddy in 2026? We compare real mileage, on-road prices, service, and resale value. Find your perfect ride!"
+seo_title: "Activa 125 vs Jupiter 125 vs Burgman 2026: Honest Kamareddy"
+seo_description: "Honda Activa 125 is ₹95,000-1,05,000 on-road in Kamareddy. Get today's best EMI from ₹2,599/mo at Prakash Auto Honda and ride home your new scooter."
 readTime: "8 min read"
 ---
 
