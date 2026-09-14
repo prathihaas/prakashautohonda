@@ -2,7 +2,7 @@
 title: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman Street 125 2026 — Premium Scooter Comparison for Kamareddy"
 title_te: "Honda Activa 125 vs TVS Jupiter 125 vs Suzuki Burgman 2026 — కామారెడ్డి Premium Scooter Comparison"
 date: "2026-04-13"
-updated: "2026-09-01"
+updated: "2026-09-14"
 author: "Prakash Auto Honda Team"
 category: "Bike Comparison"
 tags:
