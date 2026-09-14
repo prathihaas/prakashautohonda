@@ -19,7 +19,7 @@ readTime: "8 min read"
 
 **For riders in Kamareddy and surrounding areas, you can generally expect a real-world mileage of around 48-55 kmpl from the Honda Dio 125. This figure is a practical estimate, taking into account local road conditions and riding styles common here.** It's a comfortable balance of performance and fuel efficiency for daily commutes and errands in town or between mandals like Machareddy or Domakonda.
 
-> #### TL;DR: Honda Dio 125 Mileage Key Facts
+> ## TL;DR: Honda Dio 125 Mileage Key Facts
 > *   **Real-world mileage:** Approximately 48-55 kmpl in local Kamareddy conditions.
 > *   **Factors affecting fuel efficiency:** Traffic, riding style, maintenance, and load.
 > *   **Engine:** 125cc PGM-FI engine designed for efficiency.
