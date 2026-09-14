@@ -38,7 +38,7 @@ const articleSchema = {
     "logo": { "@type": "ImageObject", "url": "https://www.prakashautohonda.com/logo.png" }
   },
   "datePublished": date.toISOString(),
-  "dateModified": date.toISOString(),
+  "dateModified": (entry.data.updated ?? date).toISOString(),
   "url": Astro.url.href,
   "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
 };
@@ -127,6 +127,11 @@ const featuredBikes = [
         <div class="flex justify-center gap-6 mt-6 text-sm text-gray-400 font-semibold">
           <span>{displayDate}</span>
           {author && <span>By {author}</span>}
+          {entry.data.updated && <span>Updated {new Date(entry.data.updated).toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' })}</span>}
+        </div>
+        <div class="mt-6 mx-auto max-w-2xl text-left bg-gray-50 border border-gray-100 rounded-2xl p-4 text-sm text-gray-600 normal-case tracking-normal">
+          <p><strong class="text-gray-800">Who wrote this:</strong> the sales and service team at Prakash Auto Honda, authorised Honda two-wheeler dealer in Kamareddy with 2 branches.</p>
+          <p class="mt-1">Prices are checked against our current showroom price list on the "updated" date above; on-road figures vary by variant, insurance and RTO. Call <a href="tel:+918886604615" class="font-bold" style="color:#CC0000">8886604615</a> for today's exact quote.</p>
         </div>
       </header>
 
