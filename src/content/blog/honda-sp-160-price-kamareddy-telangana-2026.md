@@ -77,7 +77,7 @@ At our Kamareddy showroom, the question we hear most is often about the balance 
 
 ## Comparing the SP 160 with Other Honda Models
 
-If you're considering the SP 160, you might also be looking at other popular Honda models. For instance, if you prioritize even better fuel efficiency and a slightly lighter feel, the [Honda SP 125](/products/sp-125) might be a good fit, offering exceptional mileage figures. If you need something more powerful or with a different character, perhaps the [Honda Hornet 2.0](/products/hornet-2-0) would appeal, sharing some design cues but with a more aggressive stance. For a more classic commuter, the [Honda Unicorn](/products/unicorn-160) also falls in a similar segment, known for its ultimate comfort and smooth ride. Each has its own strengths, and we can help you compare them in person.
+If you're considering the SP 160, you might also be looking at other popular Honda models. For instance, if you prioritize even better fuel efficiency and a slightly lighter feel, the [Honda SP 125](/products/sp-125) might be a good fit, offering exceptional mileage figures. If you need something more powerful or with a different character, perhaps the [Honda Hornet 2.0](/products/hornet-2-0) would appeal, sharing some design cues but with a more aggressive stance. For a more classic commuter, the [Honda Unicorn](/products/unicorn) also falls in a similar segment, known for its ultimate comfort and smooth ride. Each has its own strengths, and we can help you compare them in person.
 
 ## Frequently Asked Questions
 

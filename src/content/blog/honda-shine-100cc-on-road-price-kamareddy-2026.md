@@ -92,7 +92,7 @@ While the Honda Shine 100cc stands strong in its segment, it's natural to compar
 
 Ultimately, the best way to decide is to experience the bike yourself. We invite you to visit Prakash Auto Honda for a test ride and feel the difference.
 
-If you're looking for something with a bit more power, you might consider the [Honda Shine 125](https://prakashautohonda.com/products/sp-125) or even the [Honda SP 125](https://prakashautohonda.com/products/sp-125) for a blend of performance and efficiency. For scooter lovers, the [Honda Activa 110](https://prakashautohonda.com/products/activa-110) remains a top choice in Kamareddy.
+If you're looking for something with a bit more power, you might consider the [Honda Shine 125](https://www.prakashautohonda.com/products/sp-125/) or even the [Honda SP 125](https://www.prakashautohonda.com/products/sp-125/) for a blend of performance and efficiency. For scooter lovers, the [Honda Activa 110](https://www.prakashautohonda.com/products/activa-110/) remains a top choice in Kamareddy.
 
 ## Local Insights from Prakash Auto Honda, Kamareddy
 

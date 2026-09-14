@@ -98,7 +98,7 @@ The approximate on-road price for the Honda Shine 125 in Kamareddy ranges from R
 
 ### Is Honda Shine 125 good for long rides?
 
-While primarily designed as a commuter, the Honda Shine 125 is comfortable enough for occasional longer rides, especially with its refined engine and comfortable seating. Its good mileage also makes it economical for extended journeys. However, for very long highway trips, models like the [Honda Unicorn](/products/unicorn-160) might offer more comfort and power.
+While primarily designed as a commuter, the Honda Shine 125 is comfortable enough for occasional longer rides, especially with its refined engine and comfortable seating. Its good mileage also makes it economical for extended journeys. However, for very long highway trips, models like the [Honda Unicorn](/products/unicorn) might offer more comfort and power.
 
 ### What are the EMI options available for Honda Shine 125?
 

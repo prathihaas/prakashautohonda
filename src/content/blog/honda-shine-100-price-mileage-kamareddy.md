@@ -71,7 +71,7 @@ This Honda 100cc motorcycle is not for everyone, but for a specific segment of b
 *   **Small Business Owners/Delivery Riders:** For light delivery duties or moving around for work, its sturdy build and low maintenance are a big plus.
 *   **Rural Commuters:** The simple, robust design is well-suited for the varied road conditions often found in the mandals surrounding Kamareddy.
 
-If you're looking for a bike with more power, premium features, or a sportier feel, you might want to consider models like the [Honda SP 125](/products/sp-125) or even the [Honda Unicorn](/products/unicorn-160) (for which you'll need to contact us, as it's not listed in the facts provided, but is a popular upgrade).
+If you're looking for a bike with more power, premium features, or a sportier feel, you might want to consider models like the [Honda SP 125](/products/sp-125) or even the [Honda Unicorn](/products/unicorn) (for which you'll need to contact us, as it's not listed in the facts provided, but is a popular upgrade).
 
 ## Design and Features: Simplicity Meets Practicality
 

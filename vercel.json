@@ -263,6 +263,21 @@
       "source": "/scooter/:slug",
       "destination": "/products/:slug",
       "permanent": true
+    },
+    {
+      "source": "/blog/best-bike-college-students-kamareddy-2026/",
+      "destination": "/blog/best-bike-under-80000-kamareddy-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/products/unicorn-160",
+      "destination": "/products/unicorn/",
+      "permanent": true
+    },
+    {
+      "source": "/products/unicorn-160/",
+      "destination": "/products/unicorn/",
+      "permanent": true
     }
   ]
 }

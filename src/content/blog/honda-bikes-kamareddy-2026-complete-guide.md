@@ -234,6 +234,6 @@ Come to **Prakash Auto Honda** in Kamareddy for test rides, transparent on-road 
 - [Honda Two-Wheeler Loan Guide — Kamareddy 2026](/blog/honda-two-wheeler-loan-guide-kamareddy-2026)
 - [Honda Service Center Kamareddy — Review 2026](/blog/honda-service-center-kamareddy-review-2026)
 - [Best Scooter in Kamareddy 2026](/blog/best-scooter-kamareddy-2026)
-- [Best Bike for College Students — Kamareddy 2026](/blog/best-bike-college-students-kamareddy-2026)
+- [Best Bike for College Students — Kamareddy 2026](/blog/best-bike-under-80000-kamareddy-2026)
 - [Best Bike for Girls in Kamareddy 2026](/blog/best-bike-girls-kamareddy-2026)
 - [Honda Activa Price in Kamareddy 2026](/blog/honda-activa-price-kamareddy-2026)
