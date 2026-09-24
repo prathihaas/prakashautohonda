@@ -2,6 +2,7 @@
 title: "Honda CB200X Adventure Bike — Review for Telangana Roads 2026"
 title_te: "Honda CB200X Adventure Bike — తెలంగాణ రోడ్లకు Review 2026"
 date: "2026-02-23"
+updated: "2026-09-24"
 author: "Prakash Auto Honda Team"
 category: "Review"
 tags:
@@ -12,7 +13,7 @@ tags:
 featured_image: "/images/blog/honda-bike-review-2026.jpg"
 excerpt: "Honda CB200X review for Telangana roads 2026 — is this 200cc adventure bike the perfect companion for Kamareddy's highways and rural roads? Full assessment."
 seo_title: "Honda CB200X Review for Telangana Roads 2026"
-seo_description: "Honda CB200X adventure bike review for Telangana & Kamareddy roads 2026. Real-world performance on NH44, rural roads & weekend rides. Is it worth ₹1.47 lakh?"
+seo_description: "Honda CB200X adventure bike review for Telangana & Kamareddy roads 2026. Performance on NH44, rural roads & weekend rides. Is it worth ₹1.47 lakh?"
 readTime: "8 min read"
 ---
 
@@ -82,15 +83,9 @@ The 184.4cc engine is shared with the Honda Hornet 2.0 — one of Honda's most r
 
 ---
 
-## Real Mileage in Telangana
+## Mileage
 
-| Condition | CB200X Mileage |
-|-----------|----------------|
-| Kamareddy town | 40–43 kmpl |
-| Highway (NH44) | 48–52 kmpl |
-| Mixed riding | 44–48 kmpl |
-
-At ₹112/litre petrol and 1,200 km/month, monthly fuel cost: ~₹2,800–₹3,300. That's higher than Unicorn or SP 160 — the price of having a 200cc adventure bike.
+Our [CB200X](/products/cb200x) product page lists **40 kmpl**. Town, highway and mixed riding will each give different figures. That's lower than the Unicorn (50 kmpl) or SP 160 (45 kmpl) listed on our product pages — the price of having a 200cc adventure bike.
 
 ---
 
@@ -158,8 +153,6 @@ The CB200X is NOT for everyone. Be honest with yourself:
 The Honda CB200X is **the most versatile Honda in Kamareddy** for riders who genuinely use Telangana's full range of roads. If you're the type who rides NH44 on weekdays and explores Yellareddy or Tadwai on weekends — this is your bike.
 
 It's not a budget buy. At ₹1,47,000, it's a significant investment. But for the right rider, the CB200X delivers an experience no other Honda at this price can match — confidence on any surface, comfort on any distance, and enough performance to keep long rides genuinely engaging.
-
-> "CB200X తో Nizamsagar lake వరకు ride చేసాను. ఆ rough roads మీద కూడా ఒక్క problem లేదు." — Suresh Kumar, Kamareddy
 
 ---
 

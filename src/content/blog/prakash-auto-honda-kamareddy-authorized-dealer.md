@@ -2,6 +2,7 @@
 title: "Prakash Auto Honda Kamareddy — Your Authorized Honda Dealer"
 title_te: "Prakash Auto Honda కామారెడ్డి — మీ అధికారిక హోండా డీలర్"
 date: "2026-03-15"
+updated: "2026-09-24"
 author: "Prakash Auto Honda Team"
 category: "Buying Guide"
 tags:
@@ -191,18 +192,6 @@ Warranty issues, insurance claims, RC book follow-up, service — we handle all 
 
 ### 5. Telugu-Speaking Team
 Our showroom team speaks Telugu. No communication barriers. No explaining in Hindi or English when you're most comfortable in Telugu.
-
----
-
-## Customers Across the District Say
-
-> "Kamareddy loni best Honda dealer — genuine parts, transparent pricing. SP 125 ki full satisfied." — Mohammed Farooq, Kamareddy
-
-> "CB200X konnanu — delivery quick ga chesaru, finance process smooth ga aindi. Recommend chestanu." — Kishore Reddy, Yellareddy
-
-> "Banswada nundi vachhi Honda service cheyinchukuntanu — local garage kante better quality undi." — Prasad, Banswada
-
-> "First time bike kondam. Anni explain chesaru — finance explain chesaru, service schedule explain chesaru. Happy." — Venkatamma, Pitlam
 
 ---
 

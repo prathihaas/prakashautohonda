@@ -1,7 +1,8 @@
 ---
-title: "Honda CB Hornet 125 Review — Kamareddy Riders Verdict 2026"
-title_te: "Honda CB Hornet 125 Review — కామారెడ్డి రైడర్ల నిర్ణయం 2026"
+title: "Honda CB Hornet 125 Review — Is It Worth Buying in Kamareddy? 2026"
+title_te: "Honda CB Hornet 125 Review — కామారెడ్డిలో కొనడం విలువైనదా? 2026"
 date: "2026-02-22"
+updated: "2026-09-24"
 author: "Prakash Auto Honda Team"
 category: "Review"
 tags:
@@ -10,17 +11,17 @@ tags:
   - "125cc sports bike 2026"
   - "Honda sporty bike Telangana"
 featured_image: "/images/blog/honda-bike-review-2026.jpg"
-excerpt: "Honda CB Hornet 125 review by Kamareddy riders — is this sporty 125cc bike worth buying in 2026? Real mileage, performance and daily use insights."
+excerpt: "Honda CB Hornet 125 review for Kamareddy buyers — is this sporty 125cc bike worth buying in 2026? Mileage, performance and daily use insights."
 seo_title: "Honda CB Hornet 125 Review Kamareddy 2026"
-seo_description: "Honda CB Hornet 125 review for Kamareddy buyers 2026. Sports styling meets 125cc commuting — real mileage, riding comfort & value assessment for Telangana..."
+seo_description: "Honda CB Hornet 125 review for Kamareddy buyers 2026. Sports styling meets 125cc commuting — mileage, riding comfort & value assessment for Telangana..."
 readTime: "6 min read"
 ---
 
-## Honda CB Hornet 125 Review — Kamareddy Riders' Verdict 2026
+## Honda CB Hornet 125 Review — Is It Worth Buying in Kamareddy? 2026
 
-Young riders in Kamareddy have spoken: the **Honda CB Hornet 125** is the most exciting 125cc motorcycle available right now. But excitement isn't enough — you need a bike that handles Kamareddy's daily commute, manages Telangana's summer heat, and doesn't drain your pocket at the petrol station.
+The **Honda CB Hornet 125** is Honda's sporty 125cc motorcycle. But excitement isn't enough — you need a bike that handles Kamareddy's daily commute, manages Telangana's summer heat, and doesn't drain your pocket at the petrol station.
 
-Does the Hornet 125 deliver on all counts? We asked riders from Kamareddy, Banswada, and Nizamabad who own it. Here's the full picture.
+Does the Hornet 125 deliver on all counts? Here's the full picture.
 
 ---
 
@@ -68,24 +69,11 @@ The 124cc engine in the Hornet 125 is tuned differently from the SP 125's versio
 
 ---
 
-## Mileage — Real World Numbers
+## Mileage
 
-This is where reality slightly tempers expectations.
+Our [CB Hornet 125](/products/cbhornet125) product page lists **50 kmpl**. Actual figures will vary with riding style, traffic and maintenance.
 
-**Town riding (Kamareddy)**: 48–52 kmpl — reasonable for a 125cc bike with this power output.
-
-**Highway (Kamareddy–Nizamabad)**: 53–56 kmpl — better than town, as expected.
-
-**Mixed average**: 50–53 kmpl
-
-The SP 125 returns ~65 kmpl — that's a significant gap. If fuel savings are your #1 priority, SP 125 is the better choice. But Hornet 125 buyers have consciously traded some efficiency for performance and style, and most are happy with that trade.
-
-At ₹112/litre petrol and 1,200 km/month:
-- SP 125 monthly fuel: ~₹2,066
-- Hornet 125 monthly fuel: ~₹2,540
-- Monthly difference: ~₹474
-
-₹474/month extra is roughly ₹5,700/year. For many young professionals in Kamareddy, that's an acceptable price for the Hornet 125 experience.
+The [SP 125](/products/sp-125) is listed at 60 kmpl on our product page — a clear gap. If fuel savings are your #1 priority, SP 125 is the better choice. Hornet 125 buyers trade some efficiency for performance and style.
 
 ---
 
@@ -116,16 +104,6 @@ At ₹112/litre petrol and 1,200 km/month:
 - **Mileage** trails SP 125 by a significant margin
 - **No Bluetooth connectivity** — NTorq 125 and Hero Xtreme 125R offer this feature
 - **Vibes at high rpm**: At 80+ kmph sustained highway riding, some handlebar vibration enters. Not alarming but noticeable.
-
----
-
-## What Kamareddy Riders Say
-
-> "College నుండి hostel వరకు daily 20km ride చేస్తున్నాను. Hornet 125 తో ప్రతి రోజు fun గా అనిపిస్తుంది." — Arjun, Kamareddy Engineering College
-
-> "Design చూసి కొన్నాను, కానీ fuel efficiency కూడా bad కాదు. Happy with the choice." — Kiran, Nizamabad (commutes to Kamareddy)
-
-> "My father wanted me to buy SP 125. I chose Hornet 125. He test rode it once — now he agrees I made a good choice!" — Rahul, Banswada
 
 ---
 
