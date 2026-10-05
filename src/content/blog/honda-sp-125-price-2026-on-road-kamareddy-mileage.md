@@ -49,7 +49,7 @@ We serve customers across Kamareddy, Machareddy, Domakonda, Yellareddy, and Bans
 This is the most critical comparison for Honda buyers. Both bikes share the same reliable 123.94cc engine block, but their tuning and equipment vary.
 
 ### Mileage and Daily Running
-The SP 125 is tuned slightly differently and benefits from the silent starter and start/stop system, which saves fuel at traffic signals in Kamareddy town. Our verified real-world mileage for the SP 125 is 60-65 kmpl. The Shine 125 returns 55-60 kmpl. If your daily commute is long—say riding from Machareddy to Kamareddy for work—that 5 kmpl difference adds up to significant monthly savings at the petrol pump.
+The SP 125 is tuned slightly differently and benefits from the silent starter and start/stop system, which saves fuel at traffic signals in Kamareddy town. Real-world mileage for the SP 125 is typically 60-65 kmpl. The Shine 125 returns 55-60 kmpl. If your daily commute is long—say riding from Machareddy to Kamareddy for work—that 5 kmpl difference adds up to significant monthly savings at the petrol pump.
 
 ### Price Difference
 The Shine 125 on-road price is around Rs 92,000 to Rs 1,00,000. The SP 125 sits higher at Rs 1,00,000 to Rs 1,10,000. You are paying roughly Rs 8,000 to Rs 10,000 extra for the digital console, LED headlamp, and start/stop tech. If you want raw utility, buy the Shine. If you want modern features and better fuel economy, buy the SP 125. Check out our detailed [SP 125 model page](/products/sp-125) for full specifications.
@@ -62,7 +62,7 @@ If you want to understand how the documentation works for a two-wheeler loan in 
 
 ## Buying patterns in Kamareddy: When to buy
 
-Festival season and harvest season dictate bike sales in this region. During Dussehra and Sankranti, demand spikes heavily. Farmers from surrounding mandals come in with harvest money, and we often see a rush on commuter bikes. If you want a hassle-free delivery without waiting for RTO registration backlogs, the best time to buy is during the monsoon months (July to September). We have better stock availability and faster turnaround times on loan approvals during this period.
+Festival season and harvest season dictate bike sales in this region. During Dussehra and Sankranti, demand spikes heavily. Harvest money also lifts demand for commuter bikes. If you want a hassle-free delivery without waiting for RTO registration backlogs, the best time to buy is during the monsoon months (July to September). We have better stock availability and faster turnaround times on loan approvals during this period.
 
 ### Service Network Realities
 

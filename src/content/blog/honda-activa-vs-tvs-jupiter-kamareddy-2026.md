@@ -112,9 +112,9 @@ Jupiter 125 has 21L vs Activa 125's 18.2L. Same story as 110cc comparison — Ju
 
 ---
 
-## The Highway Test: Kamareddy to Nizamabad (65km)
+## On the Highway: Kamareddy to Nizamabad (65km)
 
-This is the most relevant real-world test for many Kamareddy buyers.
+This route matters to many Kamareddy buyers. What to expect from each scooter:
 
 ### Honda Activa 125 on the Highway
 - 12-inch wheels: Stable at 65–70 kmph

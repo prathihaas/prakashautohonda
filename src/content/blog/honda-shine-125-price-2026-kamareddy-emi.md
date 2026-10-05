@@ -59,7 +59,7 @@ Hero Splendor is a 97cc bike. It produces around 8 HP of power. Honda Shine 125 
 
 ### Mileage Comparison
 
-Splendor is known for mileage. But our real customer feedback shows the Shine 125 is equally capable. Real mileage on the Shine 125 is 55-60 kmpl. The Splendor gives around 60-65 kmpl. The 5 kmpl difference is negligible when you consider the extra comfort and power the Shine offers.
+Splendor is known for mileage, but the Shine 125 is close. Real-world mileage for the Shine 125 is commonly 55-60 kmpl. The Splendor gives around 60-65 kmpl. The 5 kmpl difference is negligible when you consider the extra comfort and power the Shine offers.
 
 ### Ride Quality on Telangana Roads
 
