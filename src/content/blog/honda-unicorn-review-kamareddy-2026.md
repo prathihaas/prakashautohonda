@@ -46,7 +46,7 @@ Let's find out.
 
 The 2026 Unicorn carries Honda's trademark understated design. It's not trying to look like a racing bike. Clean lines, a muscular tank, chrome accents, and a solid posture — the kind of bike that looks good at age 5 as well as age 1.
 
-Kamareddy buyers who've owned the Unicorn for years often say the same thing: "ఇది age కాదు" — it doesn't age. And they're right. The Unicorn's classic styling means it won't look out of place in 2030 either.
+The Unicorn's classic styling means it won't look out of place in 2030 either.
 
 The 2026 update brings LED headlamp, revised graphics, and minor quality improvements that keep it feeling contemporary without losing its DNA.
 
@@ -64,7 +64,7 @@ The 162.7cc engine is Honda at its best — smooth, reliable, and built to last 
 
 ---
 
-## Mileage — Real Numbers from Kamareddy
+## Mileage
 
 **City riding (Kamareddy town)**: 52–55 kmpl
 **Highway (Kamareddy–Nizamabad)**: 57–60 kmpl
@@ -78,11 +78,11 @@ For comparison, Bajaj Pulsar 150 returns ~45 kmpl — the Unicorn saves you near
 
 ## Ride Quality & Comfort
 
-The Unicorn was built for Indian roads, and Kamareddy's roads test that claim daily.
+The Unicorn was built for Indian roads.
 
 **Suspension**: The 5-step adjustable rear shock absorbers allow you to tune the ride for solo riding vs pillion + luggage. For daily Kamareddy–Nizamabad commutes with a pillion, setting the preload higher keeps the ride stable without bottoming out.
 
-**Seat**: Wide, well-cushioned for both rider and pillion. Long-distance comfort is one of Unicorn's strongest suits — a 60km ride to Nizamabad doesn't leave you sore.
+**Seat**: Wide, well-cushioned for both rider and pillion. Long-distance comfort is one of Unicorn's strongest suits.
 
 **Vibrations**: Honda's reputation for smooth engines holds here. At highway speeds (70–80 kmph), vibes are minimal. At very high speeds (90+ kmph), some buzzing enters the handlebar but it's never uncomfortable.
 
@@ -137,7 +137,7 @@ Despite those cons, Unicorn sales in Kamareddy remain strong. Why?
 **Yes, if**:
 - You want a proven, bulletproof commuter with excellent mileage
 - You value simplicity over features
-- You travel Kamareddy–Nizamabad daily and need comfort + efficiency
+- You travel daily and need comfort + efficiency
 - You plan to keep the bike 5+ years
 - Rural roads (Bibipet, Pitlam, Tadwai) are part of your route
 

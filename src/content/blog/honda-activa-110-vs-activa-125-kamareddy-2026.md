@@ -18,7 +18,7 @@ readTime: "6 min read"
 
 ## Honda Activa 110 vs Activa 125 — Which to Buy in Kamareddy?
 
-"Activa కొనాలి — కానీ 110 తీసుకోవాలా, 125 తీసుకోవాలా?" This is easily the most common question at Prakash Auto Honda in Kamareddy. Every week, families come in having already decided on Activa — but uncertain which variant makes more sense.
+
 
 The price gap is real: roughly ₹15,000 separates these two scooters. Is the 125 worth the extra money for Kamareddy buyers? Let's answer that properly.
 
@@ -57,7 +57,7 @@ The Activa 125 costs roughly ₹15,000 more. Where does that money go?
 
 ### Activa 110 in Kamareddy
 
-The 110's 109.51cc engine is beautifully matched to Kamareddy town use. At 30–50 kmph town speeds, it feels eager and responsive. Petrol is used very efficiently — real-world **54–57 kmpl** from Kamareddy customers.
+The 110's 109.51cc engine is beautifully matched to Kamareddy town use. At 30–50 kmph town speeds, it feels eager and responsive. Petrol is used very efficiently — real-world mileage is around **54–57 kmpl**.
 
 For purely in-town commuting (home → market → school → back), the 110 does everything you need and does it efficiently.
 
@@ -99,7 +99,7 @@ This is an underrated difference. The Activa 125's 12-inch wheels vs Activa 110'
 - **Better straight-line stability**: At 60+ kmph, 12-inch wheels track straighter
 - **Better in monsoon**: Larger contact patch gives more grip on wet roads — Kamareddy's monsoon roads can be treacherous
 
-Families who use the scooter for school runs (kids pillion) or weekend Banswada trips frequently report the 125 feels more "planted" and reassuring than the 110.
+The 125 feels more "planted" and reassuring than the 110.
 
 ---
 

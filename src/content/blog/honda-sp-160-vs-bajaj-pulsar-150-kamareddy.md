@@ -77,7 +77,7 @@ The 160.6cc PGM-FI engine in the SP 160 is Honda's flagship commuter engine. Fue
 - Better cold start performance (no choke fiddling on Kamareddy's winter mornings)
 - OBD2 compliance for lower emissions and better engine diagnostics
 
-**Riding SP 160 on Kamareddy roads**: The power feels refined and linear. At 70 kmph on the Kamareddy-Nizamabad highway, the engine is smooth, composed, and clearly has reserve power for confident overtaking.
+
 
 **Torque delivery**: Peak torque at 6,500 rpm means it's a higher-revving engine — engaging, but requires slightly more revs than Pulsar for maximum pull.
 
@@ -85,9 +85,9 @@ The 160.6cc PGM-FI engine in the SP 160 is Honda's flagship commuter engine. Fue
 
 The Pulsar 150's carbureted 149.5cc engine has a character all its own. It's punchier at mid-revs, with a satisfying exhaust note that Honda's refined engine simply doesn't produce.
 
-**Riding Pulsar 150**: The Pulsar 150 feels more raw, more visceral. It's quicker off the line in everyday riding due to stronger low-mid torque. Young riders in Kamareddy consistently prefer the "feel" of a Pulsar over the SP 160.
+The Pulsar 150 feels more raw, more visceral. It's quicker off the line in everyday riding due to stronger low-mid torque.
 
-**Highway at 80+ kmph**: The Pulsar shows its age here — some vibes enter the handlebar, and the carbureted engine feels less refined than SP 160's FI unit. For sustained 70–80 kmph Kamareddy-Nizamabad highway runs, SP 160 is noticeably more comfortable.
+**Highway at 80+ kmph**: The Pulsar shows its age here — some vibes enter the handlebar, and the carbureted engine feels less refined than SP 160's FI unit. For sustained 70–80 kmph highway runs, SP 160 is noticeably more comfortable.
 
 ---
 

@@ -101,7 +101,7 @@ However, the Hornet 2.0's 184.4cc is more than adequate for Kamareddy's roads. B
 
 **Analysis for Kamareddy roads**:
 
-The R15 V4 is a proper supersport-inspired motorcycle — the closest you can get to a track bike at this price. But on Kamareddy's roads, the R15's racing crouch is fatiguing for daily commuting, and its 170mm ground clearance scrapes more often than CB200X's 200mm.
+The R15 V4 is a proper supersport-inspired motorcycle — the closest you can get to a track bike at this price. But the R15's racing crouch is fatiguing for daily commuting, and its 170mm ground clearance is less than CB200X's 200mm.
 
 The CB200X is designed for Kamareddy's road reality — mixed highways and rough village roads. Better ground clearance, upright comfort, and significantly lower price. Plus, CB200X is more versatile for both commuting and weekend adventures.
 

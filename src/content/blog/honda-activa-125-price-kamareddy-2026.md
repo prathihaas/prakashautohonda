@@ -29,7 +29,7 @@ readTime: "6 min read"
 
 ## What Kamareddy Buyers Ask First
 
-At our showroom, the very first question we hear is: "Activa 125 price entha?" — followed by a pause and then, "6G ki difference entha?" Local buyers in Kamareddy are practical. They want to know the exact on-road figure, what extra they get for the premium, and whether the 125 is worth it for the roads around here — from the town center to the mandal villages. Many riders from Yellareddy or Domakonda tell us they need a scooter that handles both tar roads and occasional gravel stretches. The Activa 125's 124cc engine gives that extra punch for two-up riding or slight inclines, while the 6G's 109cc is perfectly fine for solo commuting.
+Local buyers in Kamareddy are practical. They want to know the exact on-road figure, what extra they get for the premium, and whether the 125 is worth it for the roads around here — from the town center to the mandal villages. The Activa 125's 124cc engine gives that extra punch for two-up riding or slight inclines, while the 6G's 109cc is perfectly fine for solo commuting.
 
 Another common query: "EMI option undha?" Yes — we offer various EMI schemes starting from Rs 2,599 per month, making either Activa affordable on a monthly budget. Telangana RTO charges and insurance add about Rs 10,000–15,000 to the ex-showroom price, so we always advise factoring that in upfront.
 
@@ -46,7 +46,7 @@ Another common query: "EMI option undha?" Yes — we offer various EMI schemes s
 
 ## Activa 125 vs 6G — Which Variant Do Locals Pick?
 
-In our experience, buyers from Kamareddy town often lean towards the Activa 125 Deluxe because of the LED headlamp — it's genuinely helpful on poorly lit roads near Machareddy or Banswada at night. On the other hand, customers from surrounding mandals, especially those using the scooter primarily for short trips to the market or school, prefer the Activa 6G Standard for its lower price and sufficient performance.
+Buyers from Kamareddy town often lean towards the Activa 125 Deluxe because of the LED headlamp — it's genuinely helpful on poorly lit roads near Machareddy or Banswada at night. On the other hand, customers from surrounding mandals, especially those using the scooter primarily for short trips to the market or school, prefer the Activa 6G Standard for its lower price and sufficient performance.
 
 ### Engine and Performance
 
@@ -62,7 +62,7 @@ The Activa 125 Deluxe gets an LED headlamp, external fuel fill, and a combi-brak
 
 ## Activa 125 vs Competitors in Kamareddy
 
-At Prakash Auto Honda, we often get buyers comparing the Activa 125 with the **TVS Jupiter 125** and **Suzuki Access 125**. Here's a quick take:
+The Activa 125 is often compared with the **TVS Jupiter 125** and **Suzuki Access 125**. Here's a quick take:
 
 - **TVS Jupiter 125**: Priced similarly, but some buyers find the ride softer. Service network in Kamareddy is limited compared to Honda's authorized center.
 - **Suzuki Access 125**: Known for its smooth engine, but on-road price is slightly higher. Fewer service points in surrounding mandals.

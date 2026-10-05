@@ -53,7 +53,7 @@ To give you a clearer picture, here’s an indicative breakdown of the ex-showro
 
 ## What About EMI Options for Your Honda SP 160?
 
-Many of our customers from Kamareddy, Machareddy, and Domakonda prefer to finance their new motorcycle purchase. At Prakash Auto Honda, we understand this, which is why we offer attractive EMI schemes. You could ride home this 160cc bike with EMI options starting from just Rs 2,599/month, and we even have attractive down payment options available for eligible customers. This makes owning a new Honda SP 160 more accessible than ever. Our finance team can help you understand all the options and find a plan that suits your budget.
+At Prakash Auto Honda, we offer attractive EMI schemes. You could ride home this 160cc bike with EMI options starting from just Rs 2,599/month, and we even have attractive down payment options available for eligible customers. This makes owning a new Honda SP 160 more accessible than ever. Our finance team can help you understand all the options and find a plan that suits your budget.
 
 ## Honda SP 160 Mileage: Real-World Performance
 
@@ -73,7 +73,7 @@ The SP 160 is Honda's entry into the competitive 160cc commuter-sport segment, a
 *   **Honda Reliability:** This is perhaps the biggest draw. Honda bikes are known for their bulletproof reliability and low maintenance costs, which is a significant advantage for long-term ownership.
 *   **Safety Features:** The availability of single-channel ABS (Anti-lock Braking System) on both disc variants enhances safety, providing better braking control, especially in emergency situations.
 
-At our Kamareddy showroom, the question we hear most is often about the balance between power and practicality. The SP 160 hits that sweet spot perfectly. It has enough punch for overtakes and highway cruising, but it's also economical and comfortable for daily city rides. It’s a versatile option for anyone upgrading from a 125cc bike or looking for a reliable, stylish, and powerful commuter.
+The SP 160 hits that sweet spot perfectly. It has enough punch for overtakes and highway cruising, but it's also economical and comfortable for daily city rides. It’s a versatile option for anyone upgrading from a 125cc bike or looking for a reliable, stylish, and powerful commuter.
 
 ## Comparing the SP 160 with Other Honda Models
 

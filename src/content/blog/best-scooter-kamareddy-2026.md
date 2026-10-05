@@ -22,7 +22,7 @@ reviewed_on: "2026-10-05"
 
 ## Best Scooter in Kamareddy 2026 — Activa vs Dio vs Jupiter
 
-స్కూటర్ కొనాలా? Confused between Honda Activa, Honda Dio, and TVS Jupiter? You're not alone. These three scooters are the most discussed options at Prakash Auto Honda's Kamareddy showroom every single week.
+స్కూటర్ కొనాలా? Confused between Honda Activa, Honda Dio, and TVS Jupiter? You're not alone. These three scooters are popular options at Prakash Auto Honda's Kamareddy showroom.
 
 Let's break it down honestly — price by price, feature by feature, and road by road — so you can choose the scooter that genuinely suits Kamareddy's roads and your lifestyle.
 
@@ -57,7 +57,7 @@ The 2026 Activa 125 comes with Honda's OBD2-compliant PGM-FI engine, LED headlam
 
 **Ride comfort**: Ground clearance of 171mm handles Kamareddy's speed bumps and monsoon-potholed roads without scraping. Telescopic front suspension absorbs rough patches on the Kamareddy-Banswada road well.
 
-**Real-world mileage in Kamareddy**: 49–52 kmpl based on feedback from our customers.
+**Claimed mileage**: 49–52 kmpl.
 
 ### Who Should Buy Activa 125
 

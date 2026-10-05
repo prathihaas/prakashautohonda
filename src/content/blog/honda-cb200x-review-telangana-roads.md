@@ -21,7 +21,7 @@ readTime: "8 min read"
 
 Telangana riders have a unique challenge: roads that shift from buttery NH44 highway to rutted village tracks within 10 kilometers. An adventure bike promises to handle both — and the **Honda CB200X** is Honda's answer to that promise.
 
-At ₹1,47,000 ex-showroom in Kamareddy, the CB200X is the most premium Honda at Prakash Auto Honda. Is it worth it? We've ridden it on Kamareddy's roads, the Kamareddy-Nizamabad highway, and the rough tracks near Yellareddy and Tadwai. Here's everything.
+At ₹1,47,000 ex-showroom in Kamareddy, the CB200X is the most premium Honda at Prakash Auto Honda. Is it worth it?
 
 ---
 
@@ -47,7 +47,6 @@ At ₹1,47,000 ex-showroom in Kamareddy, the CB200X is the most premium Honda at
 
 Most commuter bikes in Kamareddy have 155–170mm ground clearance. The CB200X's **200mm** is a massive step up. What this means on Telangana roads:
 
-- Never scrapes on the worst speed bumps in Kamareddy town
 - Handles the rocky, rutted sections of roads near Bibipet and Tadwai without drama
 - Gives confidence when roads transition from tarmac to dirt mid-journey
 - Monsoon roads — where water-filled potholes of unknown depth are common — are far less nerve-wracking
@@ -65,7 +64,7 @@ The CB200X comes with USD (Upside Down) front forks — typically found on bikes
 - More precise steering feel
 - Improved braking stability
 
-On the smooth Kamareddy-Nizamabad highway, the USD forks make the CB200X feel genuinely planted and confidence-inspiring. This is a big deal for a ₹1.47 lakh bike.
+
 
 ---
 
@@ -121,10 +120,7 @@ High ground clearance, long-travel suspension, and confident handling on unpredi
 The CB200X is NOT for everyone. Be honest with yourself:
 
 **CB200X IS for you if**:
-- You regularly ride beyond Kamareddy on highways AND village roads
 - You do weekend rides to places like Yellareddy ghat, Nizamsagar reservoir, or forest areas near Tadwai
-- You're tired of scraping your bike on every speed bump in Kamareddy
-- You want the most capable Honda available at Prakash Auto Honda
 - You're 5'5" or taller and comfortable on a taller motorcycle
 - Budget supports ₹1,47,000 + on-road costs
 

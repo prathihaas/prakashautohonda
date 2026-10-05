@@ -51,7 +51,7 @@ Let's start with what everyone notices first: the CB Hornet 125 looks absolutely
 - Blacked-out engine and exhaust for a mean look
 - Split grab rail for a sporty stance
 
-In Kamareddy, where most bikes on the road are Activas, Splendors, and Shines, the Hornet 125 genuinely stands out. Riders report getting constant "which bike is this?" questions at petrol stations and signal stops.
+In Kamareddy, where most bikes on the road are Activas, Splendors, and Shines, the Hornet 125 genuinely stands out.
 
 ---
 
@@ -63,7 +63,7 @@ The 124cc engine in the Hornet 125 is tuned differently from the SP 125's versio
 
 **Mid-range pull**: Strong between 40–80 kmph — the sweet spot for Kamareddy town riding and short highway stretches.
 
-**Top speed**: Comfortable at 90 kmph, can touch 105 kmph. On the Kamareddy-Nizamabad highway (65km), cruising at 75–80 kmph feels effortless and confidence-inspiring.
+**Top speed**: Comfortable at 90 kmph, can touch 105 kmph.
 
 **Engine character**: Higher-revving than commuter bikes. The Hornet 125 wants to be ridden enthusiastically — it rewards riders who use the gears properly.
 
@@ -81,7 +81,7 @@ The [SP 125](/products/sp-125) is listed at 60 kmpl on our product page — a cl
 
 **Seating position**: Slightly more aggressive lean-forward than SP 125 — comfortable for 30–45 minutes but gets tiring on a full 65km Kamareddy-Nizamabad run.
 
-**Suspension**: Telescopic front fork, 5-step adjustable rear shock. Handles Kamareddy town roads well. On rough village roads near Bibipet or Pitlam, the slightly stiffer setup is noticeable but not uncomfortable.
+**Suspension**: Telescopic front fork, 5-step adjustable rear shock. Handles Kamareddy town roads well. On rough village roads, the slightly stiffer setup is noticeable but not uncomfortable.
 
 **Ground clearance**: 167mm — adequate for most Kamareddy roads including the often-rough Kamareddy-Banswada stretches.
 

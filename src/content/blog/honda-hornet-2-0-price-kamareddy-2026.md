@@ -43,7 +43,7 @@ The on-road cost for any two-wheeler, including this Honda model, is a sum of se
 4.  **Handling Charges/Logistics:** Minor charges sometimes included for transportation and dealer services.
 5.  **Optional Accessories:** Things like crash guards, seat covers, or special graphics can add to the final cost.
 
-At our Kamareddy showroom, we provide a transparent breakdown of all these costs so you know exactly what you're paying for. We've noticed that for the Hornet 2.0, many customers from Machareddy and Domakonda often inquire about comprehensive insurance for peace of mind, which is a wise choice.
+
 
 ## Honda Hornet 2.0 Variants and Expected Pricing
 
@@ -85,7 +85,7 @@ This motorcycle is powered by a refined 184.4cc, PGM-FI engine that delivers a s
 *   **Advanced Braking:** Petal disc brakes on both ends with single-channel ABS offer confident stopping power.
 *   **Digital Instrument Cluster:** A fully digital console provides all necessary information at a glance.
 
-At our Kamareddy showroom, the question we hear most about the Hornet 2.0 is regarding its handling and ride comfort, especially given the diverse road conditions from town to rural areas. Riders appreciate its agile nature and stable feel.
+Riders appreciate its agile nature and stable feel, especially given the diverse road conditions from town to rural areas.
 
 ### Comparing the Hornet 2.0 with Competitors
 

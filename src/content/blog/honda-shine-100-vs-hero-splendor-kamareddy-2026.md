@@ -45,7 +45,7 @@ But they're not the same bike. Let's see exactly how they differ — and which o
 
 Both bikes are purchased primarily for commuting efficiency. Let's be precise.
 
-**Hero Splendor Plus**: Widely reported to achieve 65–70 kmpl in Telangana's real-world conditions. Some Kamareddy users report touching 68–70 kmpl on smooth sections of the Kamareddy-Nizamabad highway.
+**Hero Splendor Plus**: Widely reported to achieve 65–70 kmpl in Telangana's real-world conditions.
 
 **Honda Shine 100**: Consistently achieves 60–63 kmpl in similar conditions. The fuel-injected version (available in most 2026 variants) brings slightly better cold-start efficiency than carbureted alternatives.
 

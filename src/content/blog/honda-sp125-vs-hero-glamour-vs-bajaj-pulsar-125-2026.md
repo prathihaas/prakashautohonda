@@ -21,7 +21,7 @@ readTime: "8 min read"
 
 **125cc segment is the sweet spot for Kamareddy buyers** — powerful enough for highway rides to Nizamabad and beyond, yet fuel-efficient enough for daily commuting. Three bikes dominate this segment: Honda SP 125, Hero Glamour 125, and Bajaj Pulsar 125. Here's which one is truly worth your money in 2026.
 
-ఈ comparison specifically Kamareddy మరియు Telangana conditions కోసం రాయబడింది — real fuel prices, real road conditions, మరియు actual ownership experience తో.
+ఈ comparison specifically Kamareddy మరియు Telangana conditions కోసం రాయబడింది — real fuel prices, real road conditions తో.
 
 > **TL;DR — Quick Answer**
 > - **Winner**: Honda SP 125 — fuel injection, CBS brakes, best real-world mileage and lowest 5-year ownership cost

@@ -128,7 +128,7 @@ Authorized Honda service gives Activa 125 owners peace of mind that's hard to pu
 ## Who Should Buy Which?
 
 ### Buy Honda Activa 125 if you:
-- Commute daily in Kamareddy town or to Nizamabad
+- Commute daily
 - Prioritize fuel savings and long-term reliability
 - Want comfortable, stress-free daily riding
 - Value strong resale value

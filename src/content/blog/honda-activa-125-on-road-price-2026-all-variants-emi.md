@@ -38,7 +38,7 @@ When we talk about the Activa 125 on-road price, we're not just looking at the e
 *   **Hypothecation Charges (if applicable):** If you're taking a loan, the bank will charge a fee to register their interest in the vehicle.
 *   **Accessories/Extended Warranty (Optional):** Many customers opt for additional accessories like seat covers, floor mats, or an extended warranty, which add to the total.
 
-At our Kamareddy showroom, the question we hear most often is about the exact final price. It's important to remember that RTO and insurance premiums can see minor fluctuations. So, while we provide a close estimate, always contact us for today's exact details.
+It's important to remember that RTO and insurance premiums can see minor fluctuations. So, while we provide a close estimate, always contact us for today's exact details.
 
 ### Estimated Honda Activa 125 On-Road Price Range (August 2026)
 
@@ -52,7 +52,7 @@ At our Kamareddy showroom, the question we hear most often is about the exact fi
 
 ### Why the Activa 125 is a Smart Choice for Kamareddy Roads
 
-The Honda Activa 125 is more than just a scooter; it's a reliable partner for daily life in Kamareddy. Its 125cc HET engine offers a good balance of power and fuel efficiency. Many of our customers, from students to local business owners, appreciate its smooth ride and comfortable seating, whether navigating town traffic or heading out to nearby Yellareddy. The real mileage you can expect is around 52-57 kmpl, which is quite practical for rising fuel costs.
+The Honda Activa 125 is more than just a scooter; it's a reliable partner for daily life in Kamareddy. Its 125cc HET engine offers a good balance of power and fuel efficiency. It offers a smooth ride and comfortable seating, whether navigating town traffic or heading out to nearby Yellareddy. The real mileage you can expect is around 52-57 kmpl, which is quite practical for rising fuel costs.
 
 ## Understanding EMI Options for Your Activa 125
 
@@ -80,7 +80,7 @@ The Honda Activa 125 comes in different variants, each offering slightly differe
 *   **Activa 125 Disc:** This variant upgrades the front brake to a disc brake, offering improved stopping power and safety. It's a popular choice for those who prioritize enhanced braking performance.
 *   **Activa 125 Smart:** The top-end variant comes with Honda's Smart Key system, which includes features like keyless ignition, an anti-theft system, and smart find. This adds convenience and a modern touch to your daily commute.
 
-Many customers from Banswada mandal visiting our showroom often lean towards the Disc or Smart variants for the added safety or convenience features, especially if they travel longer distances.
+The Disc or Smart variants offer added safety or convenience features, especially if you travel longer distances.
 
 ## Comparing the Activa 125 with Competitors
 

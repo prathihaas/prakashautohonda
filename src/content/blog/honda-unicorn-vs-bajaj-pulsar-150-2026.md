@@ -63,7 +63,7 @@ Bajaj Pulsar 150 has always been the "performance" option in this segment. But 2
 
 Honda CB Unicorn delivers **50–56 kmpl** on Telangana roads — highway stretches from Kamareddy to Nizamabad, village roads through Banswada, Nizamabad, Yellareddy, Bheemgal, Balkonda, and Armoor, and city commutes alike. The fuel injection ensures consistent performance.
 
-Bajaj Pulsar 150 with its carburetor delivers **42–47 kmpl** in real conditions. The carburetor needs periodic tuning, and mileage degrades between services. Many Pulsar owners in Kamareddy report 40–42 kmpl after the first year when maintenance starts getting delayed.
+Bajaj Pulsar 150 with its carburetor delivers **42–47 kmpl** in real conditions. The carburetor needs periodic tuning, and mileage degrades between services.
 
 **At ₹105/litre petrol (40 km/day):**
 - Honda CB Unicorn: ~₹75–84/day
@@ -112,7 +112,7 @@ This is where the Bajaj Pulsar 150 has a significant weakness for Kamareddy buye
 - Electrical issues more common (Pulsar's complex electrical system)
 - **Annual average: ₹4,000–₹6,000**
 
-Kamareddy riders who've owned Pulsar 150 for 3+ years report cumulative repair costs of **₹18,000–₹25,000** over 5 years vs **₹12,000–₹17,000** for Honda Unicorn owners. The difference is primarily carburetor work, electrical repairs, and higher vibration-related wear.
+The difference in maintenance costs is primarily due to carburetor work, electrical repairs, and higher vibration-related wear on the Pulsar 150.
 
 Prakash Auto Honda in Kamareddy is the trusted Honda dealer for Kamareddy town and surrounding mandals — with fast spare parts availability and Honda-certified technicians.
 

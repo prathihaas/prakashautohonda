@@ -30,7 +30,7 @@ readTime: "6 min read"
 
 The buzz around the upcoming activa 7g is incredibly high across Kamareddy, Machareddy, and Domakonda mandals. For over two decades, the Activa brand has been the backbone of local family transport. Whether it is dropping children at school, carrying farm produce from the fields of Yellareddy, or making quick trips to the Kamareddy weekly market, this scooter is an absolute staple. 
 
-Naturally, when rumors of a next-generation model surface, buyers get curious. They want to know if the new model will offer drastically better mileage or if it will come with a steep price hike. As your trusted local authorized dealer, Prakash Auto Honda is here to clear the air. We speak with hundreds of local riders daily, and we know that while a digital screen sounds fancy, what actually matters on our roads is real-world mileage, metal body durability, and trouble-free maintenance.
+Naturally, when rumors of a next-generation model surface, buyers get curious. They want to know if the new model will offer drastically better mileage or if it will come with a steep price hike. As your trusted local authorized dealer, Prakash Auto Honda is here to clear the air. While a digital screen sounds fancy, what actually matters on our roads is real-world mileage, metal body durability, and trouble-free maintenance.
 
 ## Expected activa 7g Price in Telangana vs Activa 6G On-Road Price
 
@@ -62,7 +62,7 @@ The rumored activa 7g is expected to retain this identical, highly reliable engi
 
 ## Should You Wait for the activa 7g or Buy the Activa 6G Today?
 
-This is the most common question we get at our Kamareddy showroom. To give you an honest dealer's advice: for 90% of buyers, waiting is not necessary or recommended.
+For 90% of buyers, waiting is not necessary or recommended.
 
 ### Why You Should Buy the Activa 6G Right Now:
 

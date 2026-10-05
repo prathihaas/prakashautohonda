@@ -80,17 +80,17 @@ At Prakash Auto Honda, we understand that financing plays a big role in your pur
 
 ### Flexible Down Payment Options
 
-We offer various down payment options for eligible customers. This means you can choose a plan that suits your budget, spreading the cost into convenient monthly installments. This is particularly popular among our customers from Machareddy and Domakonda who appreciate the financial flexibility.
+We offer various down payment options for eligible customers. This means you can choose a plan that suits your budget, spreading the cost into convenient monthly installments.
 
 ### Low EMI from Rs 2,599/month
 
-Our EMI plans start from as low as Rs 2,599 per month. The exact EMI amount will depend on the loan tenure, interest rate, and the down payment amount. Our finance team will help you choose a plan that fits your budget perfectly. Many customers inquire about the EMI for the Activa 110cc, and we pride ourselves on offering some of the most competitive rates in the region.
+Our EMI plans start from as low as Rs 2,599 per month. The exact EMI amount will depend on the loan tenure, interest rate, and the down payment amount. Our finance team will help you choose a plan that fits your budget perfectly.
 
 For more details on financing and to check your eligibility, you can visit our dedicated page on [Honda finance guide for Kamareddy](/blog/honda-finance-step-by-step-kamareddy/).
 
 ## Why Locals Prefer the Honda Activa 110cc
 
-At our Kamareddy showroom, the question we hear most is, "Why should I choose the Activa 110cc over other scooters?" The answer is simple: reliability, mileage, and widespread serviceability.
+The Activa 110cc is a popular choice due to its reliability, mileage, and widespread serviceability.
 
 ### Unmatched Reliability
 
@@ -106,7 +106,7 @@ Honda scooters generally hold their value well in the used market. This means th
 
 ### Wide Service Network
 
-As an authorized dealer, we provide genuine Honda parts and skilled technicians. Beyond our main service center in Kamareddy, Honda has a strong network, ensuring that you can find reliable service and support even if you travel to neighboring towns. This peace of mind is invaluable for our customers.
+As an authorized dealer, we provide genuine Honda parts and skilled technicians. Beyond our main service center in Kamareddy, Honda has a strong network, ensuring reliable service and support.
 
 ## How the Activa 110cc Compares to Competitors
 

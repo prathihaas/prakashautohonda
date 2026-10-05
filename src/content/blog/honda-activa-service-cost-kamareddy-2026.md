@@ -72,7 +72,7 @@ Now, let's talk numbers. The exact Honda Activa service cost can vary based on w
 | **Paid General Service** | ₹300 - ₹500             | ₹300 - ₹450          | ₹150 - ₹300                 | ₹750 - ₹1,250                  |
 | **Major Service (e.g., 12,000 km)** | ₹600 - ₹900             | ₹300 - ₹450          | ₹300 - ₹800+ (incl. air filter, spark plug) | ₹1,200 - ₹2,150+               |
 
-*Note: These prices do not include major part replacements like brake pads, tyres, battery, or significant repair work. These would be extra based on actual part cost and additional labour.* At our Kamareddy showroom, the question we hear most is about the difference between free and paid services. The table above clarifies that 'free' services only waive labour fees, not the cost of essential fluids and minor consumables.
+*Note: These prices do not include major part replacements like brake pads, tyres, battery, or significant repair work. These would be extra based on actual part cost and additional labour.* The table above clarifies that 'free' services only waive labour fees, not the cost of essential fluids and minor consumables.
 
 ## Factors Influencing Your Honda Activa Service Cost
 

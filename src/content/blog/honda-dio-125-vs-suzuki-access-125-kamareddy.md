@@ -97,7 +97,7 @@ For practical daily use in Kamareddy — where carrying a helmet safely is impor
 
 **Suzuki Access 125**: Slightly better ride quality due to better suspension calibration and more compliant setup. The 10-inch wheels face the same limitations, but the damping is slightly superior.
 
-For Kamareddy's daily roads — both are adequate. For longer rides to Banswada (28km) or Nizamabad (65km), Access 125's slightly more comfortable setup is appreciable.
+For daily roads — both are adequate. For longer rides, Access 125's slightly more comfortable setup is appreciable.
 
 ---
 

@@ -45,7 +45,7 @@ But which one is right for a Kamareddy buyer in 2026? Let's get into the details
 
 The [Honda SP 125](/products/sp-125) is built around Honda's PGM-FI fuel injection — the same technology Honda uses across its global lineup. The result is extraordinary fuel efficiency for a 125cc bike: **real-world 63–66 kmpl** in Kamareddy riding conditions.
 
-On the Kamareddy-Nizamabad highway (65km), customers regularly report touching 65+ kmpl when riding at steady 60–65 kmph.
+
 
 **Engine character**: Refined, smooth, no vibrations at cruising speeds. The SP 125 pulls cleanly from low revs — great for Kamareddy's stop-go traffic.
 
@@ -100,7 +100,7 @@ The SP 125 costs ~₹15,000 more upfront, but the mileage advantage recovers rou
 
 **Honda SP 125**: Comfortable upright posture, decent seat cushioning, good for 30–40 minute commutes. Suspension handles Kamareddy's road irregularities well but is on the firm side for highway long hauls.
 
-**Hero Glamour**: Slightly more comfortable seat for longer rides. The suspension is tuned for Indian roads and absorbs potholes well — excellent on the bumpy stretches near Bibipet and Pitlam.
+**Hero Glamour**: Slightly more comfortable seat for longer rides. The suspension is tuned for Indian roads and absorbs potholes well.
 
 Both bikes are well-suited to Kamareddy-Banswada road conditions. For the Kamareddy-Nizamabad highway (65km), SP 125's highway-stable geometry edges ahead.
 

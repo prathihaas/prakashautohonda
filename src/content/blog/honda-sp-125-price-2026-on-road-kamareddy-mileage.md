@@ -28,7 +28,7 @@ readTime: "6 min read"
 
 ## What locals ask first about the Honda SP 125
 
-At our Kamareddy showroom, the question we hear most is: "Why does the SP 125 cost nearly ten thousand rupees more than the Shine on the road?" People see both are 125cc Honda bikes and assume they are identical. The difference is in the hardware. The SP 125 gets a digital instrument cluster, a silent starter (ACG), and engine start/stop technology. The Shine still uses an analog dial. When a farmer walks in from Domakonda or Yellareddy, they often prefer the Shine because it feels simpler and tougher. But younger riders and office-goers in Kamareddy town immediately gravitate toward the SP 125 for that digital display and refined silent start.
+The SP 125 costs nearly ten thousand rupees more than the Shine on the road. The difference is in the hardware. The SP 125 gets a digital instrument cluster, a silent starter (ACG), and engine start/stop technology. The Shine still uses an analog dial.
 
 ## Honda SP 125 Price and Variants in Kamareddy
 

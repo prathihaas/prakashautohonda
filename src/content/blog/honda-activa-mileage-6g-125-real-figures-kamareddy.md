@@ -27,7 +27,7 @@ readTime: "10 min read"
 > *   Both models are highly fuel-efficient for daily use in Kamareddy and surrounding areas.
 > *   Prakash Auto Honda offers both models with attractive finance options.
 
-At Prakash Auto Honda in Kamareddy, the question we hear most often from prospective buyers is about fuel efficiency. "*Kitna deti hai?*" (How much does it give?) is practically the first thing everyone asks, and rightly so! In a place like Kamareddy, where daily commutes, running errands to Machareddy, or even short trips to Domakonda are common, a scooter's mileage directly impacts your wallet. Here is what to know about **Honda Activa mileage** for both the 6G and the 125 models.
+In a place like Kamareddy, where daily commutes, running errands to Machareddy, or even short trips to Domakonda are common, a scooter's mileage directly impacts your wallet. Here is what to know about **Honda Activa mileage** for both the 6G and the 125 models.
 
 ## Understanding Honda Activa Mileage: 6G vs. 125
 

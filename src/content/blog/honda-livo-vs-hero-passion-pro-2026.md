@@ -52,7 +52,7 @@ If you're searching "Hero Passion Pro vs Honda Livo Kamareddy" or "best 110cc bi
 
 ## Mileage & Performance — Telangana Conditions
 
-Hero Passion Pro claims an impressive **72 kmpl**. Sounds great, right? But Kamareddy riders who've actually owned the Passion Pro report a sobering reality: real-world mileage is **50–55 kmpl** on Telangana roads — speed bumps, ghat sections near Banswada, Nizamabad, Yellareddy, Bheemgal, Balkonda, and Armoor, and city traffic included.
+Hero Passion Pro claims an impressive **72 kmpl**. However, real-world mileage is **50–55 kmpl** on Telangana roads — speed bumps, ghat sections near Banswada, Nizamabad, Yellareddy, Bheemgal, Balkonda, and Armoor, and city traffic included.
 
 Honda Livo is more conservative: it claims 60+ kmpl and delivers **55–60 kmpl** in actual use. The gap between claimed and real is smaller, which means Honda is being honest with you.
 

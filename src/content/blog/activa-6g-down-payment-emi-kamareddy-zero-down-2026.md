@@ -82,7 +82,7 @@ For example, if you choose a Rs 10,000 down payment on a Rs 96,000 on-road Activ
 - For 36 months, EMI is roughly Rs 2,550.
 - For 48 months, EMI is roughly Rs 2,100.
 
-Longer tenure means lower monthly EMI but slightly higher total interest paid over the years. Most of our customers in Kamareddy prefer the 36-month plan as it balances monthly cash flow and total interest. 
+Longer tenure means lower monthly EMI but slightly higher total interest paid over the years. The 36-month plan balances monthly cash flow and total interest. 
 
 If you are also considering a commuter bike alongside a scooter, the [Honda SP 125](/products/sp-125) is an excellent alternative with a mileage of 60-65 kmpl, though the Activa's convenience of no gears is unmatched in heavy traffic.
 

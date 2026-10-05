@@ -56,11 +56,11 @@ Kamareddy buyers ask one question first: **"Mileage enta?"** Here's the honest t
 
 Hero claims 80 kmpl for both Splendor Plus and HF Deluxe under MIDC test conditions — a lab setting with no traffic, no hills, constant speed. On Telangana roads — with speed breakers every 500 meters, Nizamabad to Kamareddy highway stretches, and village roads through Banswada, Nizamabad, Yellareddy, Bheemgal, Balkonda, and Armoor — the real numbers are very different.
 
-**Honda Shine 100 real-world mileage**: Riders in Kamareddy and Nizamabad district report **58–62 kmpl** consistently. The engine is tuned for real-world smoothness, not laboratory optimization.
+**Honda Shine 100 real-world mileage**: The engine is tuned for real-world smoothness, not laboratory optimization, and delivers **58–62 kmpl** consistently.
 
 **Hero Splendor Plus real-world mileage**: Despite the 80 kmpl claim, actual riders in Telangana report **55–60 kmpl** in mixed conditions. The gap between claimed and real is larger with Hero.
 
-**Hero HF Deluxe real-world mileage**: Honest figures from Kamareddy riders show **50–55 kmpl**. The older, basic engine architecture is less efficient in actual use.
+**Hero HF Deluxe real-world mileage**: Figures show **50–55 kmpl**. The older, basic engine architecture is less efficient in actual use.
 
 At ₹105/litre petrol, for 40 km/day riding:
 - Honda Shine 100: ~₹68/day fuel cost
@@ -114,7 +114,7 @@ Hero Honda split into Hero MotoCorp and Honda (HMSI) in 2010. Since then, the se
 
 The critical difference: **Honda's PGM-FI fuel injection system** (on premium variants) requires trained technicians to diagnose. Hero's carburetor-based HF Deluxe can be serviced by any mechanic, but Honda's superior build means you need fewer repairs overall.
 
-Kamareddy buyers in Banswada, Nizamabad, Yellareddy, Bheemgal, Balkonda, and Armoor area report that local Hero mechanics sometimes use non-genuine parts, leading to faster wear. Honda's network ensures genuine parts reach rural Telangana areas efficiently.
+Honda's network ensures genuine parts reach rural Telangana areas efficiently.
 
 ---
 
@@ -162,7 +162,7 @@ The Honda Shine 100's stronger resale value in Telangana is driven by Honda bran
 A: Yes, for Kamareddy buyers, Honda Shine 100 offers better real-world mileage (58–62 kmpl vs 55–60 kmpl), lower total ownership cost over 5 years, and stronger resale value in Telangana. Hero Splendor Plus claims 80 kmpl but real-world figures are lower.
 
 **Q: What is the mileage of Hero HF Deluxe vs Honda Shine 100?**
-A: Hero HF Deluxe delivers 50–55 kmpl in real Telangana conditions despite claiming 80 kmpl. Honda Shine 100 delivers 58–62 kmpl consistently. The Honda is more honest about its performance.
+A: Hero HF Deluxe delivers 50–55 kmpl despite claiming 80 kmpl. Honda Shine 100 delivers 58–62 kmpl consistently.
 
 **Q: Which has better resale value — Hero Splendor or Honda Shine?**
 A: Honda Shine 100 holds 37–41% depreciation at 3 years vs 48–53% for Hero Splendor Plus in Telangana. Honda's stronger brand recognition in rural Telangana markets drives this premium.

@@ -29,15 +29,15 @@ readTime: "6 min read"
 
 ## Honda Unicorn Price Breakup in Kamareddy (July 2026)
 
-When folks from Yellareddy or Banswada walk into Prakash Auto Honda asking for the honda unicorn price, they usually want the final on-road figure. We believe in transparent dealing. The base variant OTR price in Kamareddy currently sits at approx. Rs 1,15,000. If you opt for the single-channel ABS variant with the premium paint scheme, the upper limit touches Rs 1,25,000.
+The base variant OTR price in Kamareddy currently sits at approx. Rs 1,15,000. If you opt for the single-channel ABS variant with the premium paint scheme, the upper limit touches Rs 1,25,000.
 
 These prices include RTO registration, road tax, and standard insurance. However, if you want the comprehensive Honda Assure insurance package with zero depreciation, there will be a slight bump. We always advise customers from Machareddy and Domakonda to call for today's exact price before visiting, because insurance and RTO charges fluctuate occasionally.
 
 ### Unicorn vs Bajaj Pulsar 150 On-Road Price
 
-A common comparison we see at our Kamareddy showroom is the Unicorn versus the Bajaj Pulsar 150. Let’s look at the on-road price comparison.
+A common comparison is the Unicorn versus the Bajaj Pulsar 150. Let’s look at the on-road price comparison.
 
-| Bike Model | Approx. On-Road Price (Kamareddy) | Engine | Real Mileage (Telangana Roads) |
+| Bike Model | Approx. On-Road Price (Kamareddy) | Engine | Claimed Mileage |
 |---|---|---|---|
 | Honda Unicorn | Rs 1,15,000 - Rs 1,25,000 | 149.6cc | 50-55 kmpl |
 | Bajaj Pulsar 150 | Call for today's exact price | 149.5cc | 45-50 kmpl |

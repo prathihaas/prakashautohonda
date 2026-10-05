@@ -22,7 +22,7 @@ Some bikes split the room — and the Honda Hornet 2.0 is one of them. Half the 
 
 At ₹1,36,000 ex-showroom in Kamareddy, the Hornet 2.0 sits at the top of the accessible premium commuter segment. It's not a budget bike — but is it worth it for Telangana riders in 2026?
 
-We rode it on Kamareddy's daily commute, the Kamareddy-Nizamabad highway, and the rougher stretches near Yellareddy and Banswada. Here's the full picture.
+
 
 ---
 
@@ -103,7 +103,7 @@ The Honda Hornet 2.0's USD (Upside Down) front forks are not just for looks. The
 
 **Better pothole absorption**: The larger diameter tubes of USD forks absorb road impacts more effectively than conventional forks.
 
-For Kamareddy riders who regularly use the highway, the USD forks are genuinely noticeable and confidence-building.
+For riders who regularly use the highway, the USD forks are genuinely noticeable and confidence-building.
 
 ---
 
@@ -168,6 +168,6 @@ But if you want to actually love your daily ride rather than just complete it �
 
 ---
 
-**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Hornet 2.0](/products/hornet-2-0). Experience those USD forks and 17 bhp on a Kamareddy road test.
+**[WhatsApp us](https://wa.me/918886604615)** or visit Prakash Auto Honda, Kamareddy to test ride the [Honda Hornet 2.0](/products/hornet-2-0).
 
 We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals.
