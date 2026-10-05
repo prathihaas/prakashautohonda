@@ -56,9 +56,9 @@ Understanding the on-road price is essential when considering your budget. The H
 
 ## EMI Options for Your Honda Dio 125
 
-Making your dream scooter affordable is our priority. At Prakash Auto Honda, we offer flexible EMI options for the Honda Dio 125. You can drive home a new Dio 125 with our zero down payment EMI schemes, with EMIs starting from as low as Rs 2,599 per month. This makes it incredibly accessible for many local buyers, especially during harvest seasons when cash flow might be different.
+Making your dream scooter affordable is our priority. At Prakash Auto Honda, we offer flexible EMI options for the Honda Dio 125. You can drive home a new Dio 125 with our flexible EMI schemes, with EMIs starting from as low as Rs 2,599 per month. This makes it incredibly accessible for many local buyers, especially during harvest seasons when cash flow might be different.
 
-To understand your specific EMI plan and eligibility, it's best to visit our showroom. Our finance team will guide you through the process, ensuring you get a plan that fits your budget comfortably. For more information on financing, check our [zero down payment EMI blog](/blog/honda-bikes-zero-downpayment-emi-kamareddy-2026).
+To understand your specific EMI plan and eligibility, it's best to visit our showroom. Our finance team will guide you through the process, ensuring you get a plan that fits your budget comfortably. For more information on financing, check our [Honda finance guide for Kamareddy](/blog/honda-finance-step-by-step-kamareddy/).
 
 ## How the Dio 125 Compares on Fuel Efficiency (and More)
 

@@ -53,7 +53,7 @@ To give you a clearer picture, here’s an indicative breakdown of the ex-showro
 
 ## What About EMI Options for Your Honda SP 160?
 
-Many of our customers from Kamareddy, Machareddy, and Domakonda prefer to finance their new motorcycle purchase. At Prakash Auto Honda, we understand this, which is why we offer attractive EMI schemes. You could ride home this 160cc bike with EMI options starting from just Rs 2,599/month, and we even have zero down payment EMI schemes available for eligible customers. This makes owning a new Honda SP 160 more accessible than ever. Our finance team can help you understand all the options and find a plan that suits your budget.
+Many of our customers from Kamareddy, Machareddy, and Domakonda prefer to finance their new motorcycle purchase. At Prakash Auto Honda, we understand this, which is why we offer attractive EMI schemes. You could ride home this 160cc bike with EMI options starting from just Rs 2,599/month, and we even have attractive down payment options available for eligible customers. This makes owning a new Honda SP 160 more accessible than ever. Our finance team can help you understand all the options and find a plan that suits your budget.
 
 ## Honda SP 160 Mileage: Real-World Performance
 
@@ -101,4 +101,4 @@ The Honda SP 160 boasts a refined 162.71cc engine, stylish and muscular design, 
 
 Ready to experience the power and style of the Honda SP 160? Visit us at Prakash Auto Honda in Kamareddy. Our team is here to answer all your questions, help you with financing options, and arrange a test ride. We serve customers from across Kamareddy, Machareddy, Domakonda, Yellareddy, and Banswada mandals, ensuring you get the best service and the best deal.
 
-Don't wait! Call us at **8886604615** or WhatsApp us at **https://wa.me/918886604615?text=Hi** to inquire about the Honda SP 160 price, book a test ride, or learn more about our exciting EMI schemes, including zero down payment options.
+Don't wait! Call us at **8886604615** or WhatsApp us at **https://wa.me/918886604615?text=Hi** to inquire about the Honda SP 160 price, book a test ride, or learn more about our exciting EMI schemes and down payment options.

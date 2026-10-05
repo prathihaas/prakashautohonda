@@ -77,11 +77,11 @@ Many of our customers, particularly those looking for a dependable daily ride, f
 
 We understand that purchasing a new bike is a significant investment. That's why Prakash Auto Honda offers flexible EMI (Equated Monthly Installment) schemes to make owning your Honda Shine 100cc easier. Our EMI plans start from as low as Rs 2,599 per month, making it accessible for a wide range of budgets.
 
-### Zero Down Payment Bike EMI Schemes
+### Flexible Down Payment Bike EMI Schemes
 
-Yes, you read that right! We offer zero down payment EMI schemes for eligible customers. This means you can take home your new Honda Shine 100cc without any upfront payment, spreading the entire cost into convenient monthly installments. This approach has been a great help for many of our customers, especially during festival seasons or harvest times when cash flow might be tighter.
+We offer flexible down payment EMI schemes for eligible customers. This means you can choose a down payment option that suits your budget, spreading the remaining cost into convenient monthly installments. This approach has been a great help for many of our customers, especially during festival seasons or harvest times when cash flow might be tighter.
 
-To find out if you qualify for a zero down payment scheme or to get a personalized EMI quote, we encourage you to visit our showroom. Our finance team will guide you through the process, explaining interest rates, tenure options, and required documents. We partner with leading financial institutions to ensure you get the best possible terms.
+To find out about our down payment options or to get a personalized EMI quote, we encourage you to visit our showroom. Our finance team will guide you through the process, explaining interest rates, tenure options, and required documents. We partner with leading financial institutions to ensure you get the best possible terms.
 
 ## Comparing the Honda Shine 100cc with Other Commuters
 
@@ -112,9 +112,9 @@ The expected on-road price for the Honda Shine 100cc in Kamareddy for 2026 is be
 
 You can generally expect a real-world mileage of 60-65 kmpl from the Honda Shine 100cc. This figure can vary based on your riding style, road conditions around Kamareddy, and how well the bike is maintained. It's designed to be very fuel-efficient for daily commuting.
 
-### ### Are there any zero down payment options available for the Honda Shine 100cc?
+### ### What down payment options are available for the Honda Shine 100cc?
 
-Yes, Prakash Auto Honda offers zero down payment EMI schemes for eligible customers looking to purchase the Honda Shine 100cc. This allows you to finance the entire cost of the bike through easy monthly installments. Visit our showroom to discuss eligibility and options.
+Prakash Auto Honda offers flexible down payment EMI schemes for eligible customers looking to purchase the Honda Shine 100cc. This allows you to finance the bike through easy monthly installments. Visit our showroom to discuss eligibility and options.
 
 ### ### How does the Honda Shine 100cc compare to other 100cc bikes in terms of maintenance?
 

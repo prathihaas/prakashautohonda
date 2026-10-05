@@ -28,7 +28,7 @@ This guide covers every Honda model available at **Prakash Auto Honda**, the aut
 > - **Scooters**: Honda Activa 110 ~₹77,000 | Activa 125 ~₹92,000 | Dio 125 ~₹88,000
 > - **Mid-range**: Honda SP 125 ~₹95,000 (65 kmpl) | Honda Livo ~₹80,000
 > - **Premium**: Honda CB200X ~₹1,47,000 | Honda Unicorn ~₹1,12,000 | Hornet 2.0 ~₹1,36,000
-> - **EMI**: From ₹2,199/month | Zero down payment available | Loan approved in 30 minutes
+> - **EMI**: From ₹2,199/month |  | 
 > - **Dealer**: Prakash Auto Honda — 2 branches in Kamareddy district — ☎ 8886604615
 
 ---
@@ -190,9 +190,9 @@ The adventure-touring bike built for Telangana's mixed terrain. Whether you're o
 
 You don't need to pay the full ex-showroom price upfront. Prakash Auto Honda offers:
 
-- **Zero down payment** options on select models (subject to eligibility)
+- **Flexible down payment** options on select models (subject to eligibility)
 - **EMI starting from ₹2,199/month** on entry-level bikes
-- **Loan approval within 24 hours** through partner banks and NBFCs
+- **Quick loan processing** through partner banks and NBFCs
 - Honda's own financing through **Honda Finance** with competitive rates
 
 For exact on-road prices including registration, insurance, and Telangana road tax, visit our showroom or contact us.

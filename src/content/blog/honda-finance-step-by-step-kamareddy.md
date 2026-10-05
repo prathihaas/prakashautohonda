@@ -71,7 +71,7 @@ Take a test ride — it's free and available every day at our showroom.
 
 **How much down payment can you manage?**
 
-- **Zero down payment**: Finance 100% of ex-showroom price (subject to eligibility; higher EMI)
+
 - **10% down**: Standard comfortable starting point
 - **20% down**: Better — lower EMI, lower interest burden
 - **30%+ down**: Least interest overall
@@ -183,7 +183,7 @@ Sign the loan agreement and related forms. A physical signature or biometric Aad
 
 At the time of delivery, you'll need to arrange:
 
-1. **Down payment**: Your agreed upfront payment (₹0 for zero-down-payment loans, or your chosen amount)
+1. **Down payment**: Your agreed upfront payment (your chosen amount)
 2. **Insurance premium**: First-year comprehensive insurance (₹9,000–₹12,500 depending on model — can often be added to loan)
 3. **Registration costs**: Road tax + RTO registration (₹8,000–₹12,000 depending on model — sometimes financed)
 
@@ -244,4 +244,4 @@ A: Contact your lender immediately. One missed payment = late fee + CIBIL impact
 
 **[WhatsApp us](https://wa.me/918886604615)** your bike choice and we'll start the finance process even before you visit the showroom — saving you time. Or visit Prakash Auto Honda, Kamareddy with your documents.
 
-We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Most loans approved within 24 hours.
+We serve customers from Kamareddy, Banswada, Nizamabad, Yellareddy, Bibipet, Pitlam, and Tadwai mandals. Most loans are approved quickly.

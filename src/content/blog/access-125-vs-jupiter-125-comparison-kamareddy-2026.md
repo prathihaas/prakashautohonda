@@ -68,7 +68,7 @@ The on-road price for any scooter can vary based on the variant, RTO charges in 
 
 *Please note these are approximate ranges. For today's exact details, including current offers and RTO charges specific to Kamareddy, please contact us.* 
 
-At Prakash Auto Honda, we offer attractive finance options, including zero down payment EMI schemes, with EMIs starting from just Rs 2,599/month on our Honda range. While these specific offers apply to our Honda scooters like the [Activa 125](/products/activa-125) and [Activa 110](/products/activa-110), it gives you an idea of the affordability we strive for. We can also guide you on financing for other brands if you decide to explore them.
+At Prakash Auto Honda, we offer attractive finance options, with EMIs starting from just Rs 2,599/month on our Honda range. While these specific offers apply to our Honda scooters like the [Activa 125](/products/activa-125) and [Activa 110](/products/activa-110), it gives you an idea of the affordability we strive for. We can also guide you on financing for other brands if you decide to explore them.
 
 ## Mileage and Running Costs: Access 125 vs Jupiter 125
 

@@ -33,7 +33,7 @@ Here at Prakash Auto Honda in Kamareddy, we understand that choosing a new scoot
 
 When comparing the Activa 6G vs Access 125, the on-road price is always a primary concern. As of August 2026, the Honda Activa 6G's on-road price in Kamareddy typically ranges from **Rs 93,000 to Rs 99,000**, depending on the variant and current offers. This includes RTO, insurance, and other charges specific to Telangana. The Suzuki Access 125 usually falls in a similar price bracket or sometimes slightly higher, depending on its specific variant and features.
 
-It's important to remember that these are approximate figures. Prices can fluctuate due to government taxes, insurance premiums, and manufacturer promotions. For the most accurate, up-to-the-minute pricing and available finance schemes, please contact us directly. We offer attractive [zero down payment EMI schemes](/blog/honda-bikes-zero-downpayment-emi-kamareddy-2026) starting from just Rs 2,599/month, making either scooter more accessible.
+It's important to remember that these are approximate figures. Prices can fluctuate due to government taxes, insurance premiums, and manufacturer promotions. For the most accurate, up-to-the-minute pricing and available finance schemes, please contact us directly. We offer attractive [Honda finance guide for Kamareddy](/blog/honda-finance-step-by-step-kamareddy/) starting from just Rs 2,599/month, making either scooter more accessible.
 
 ## Engine and Performance: Which Scooter Feels More Powerful?
 

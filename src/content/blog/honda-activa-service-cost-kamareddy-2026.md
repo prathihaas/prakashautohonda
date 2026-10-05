@@ -116,6 +116,6 @@ Before taking your Activa for service, it's helpful to note down any specific is
 
 Maintaining your Honda Activa doesn't have to be a guessing game when it comes to costs. At Prakash Auto Honda, we believe in clear communication and quality service. Whether you own an Activa 6G or an <a href="/products/activa-125">Activa 125</a>, we are here to provide the best care for your scooter.
 
-Looking to buy a new Honda Activa or get yours serviced? Visit us at Prakash Auto Honda in Kamareddy. We also offer attractive zero down payment EMI schemes, with EMIs starting from just Rs 2,599/month on new scooters like the <a href="/products/dio-110">Honda Dio</a> or <a href="/products/sp-125">SP 125</a>. Our team is ready to assist you.
+Looking to buy a new Honda Activa or get yours serviced? Visit us at Prakash Auto Honda in Kamareddy. We also offer attractive down payment EMI schemes, with EMIs starting from just Rs 2,599/month on new scooters like the <a href="/products/dio-110">Honda Dio</a> or <a href="/products/sp-125">SP 125</a>. Our team is ready to assist you.
 
 For any inquiries or to book your service appointment, call us at 8886604615 or WhatsApp us at https://wa.me/918886604615?text=Hi. We look forward to seeing you!

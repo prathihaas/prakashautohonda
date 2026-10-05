@@ -296,6 +296,16 @@
       "source": "/products/unicorn-160/",
       "destination": "/products/unicorn/",
       "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-zero-downpayment-emi-kamareddy-2026",
+      "destination": "/blog/honda-finance-step-by-step-kamareddy/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/honda-bikes-zero-downpayment-emi-kamareddy-2026/",
+      "destination": "/blog/honda-finance-step-by-step-kamareddy/",
+      "permanent": true
     }
   ]
 }

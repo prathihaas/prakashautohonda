@@ -68,7 +68,7 @@ Understanding the cost of ownership starts with the on-road price. Here’s an a
 
 ### EMI Options for Honda Activa in Kamareddy
 
-We understand that buying a new scooter is a significant investment. That's why Prakash Auto Honda offers flexible finance options, including zero down payment EMI schemes. You can get an EMI from as low as Rs 2,599/month for your new Activa. Visit our showroom to discuss the best finance plan that suits your budget.
+We understand that buying a new scooter is a significant investment. That's why Prakash Auto Honda offers flexible finance options. You can get an EMI from as low as Rs 2,599/month for your new Activa. Visit our showroom to discuss the best finance plan that suits your budget, including various down payment options.
 
 ## Why Choose Honda Activa for Kamareddy Roads?
 
@@ -120,6 +120,6 @@ As of August 2026, the approximate on-road price for the Honda Activa 6G in Kama
 
 ### ### Can I get EMI options for buying a Honda Activa in Kamareddy?
 
-Absolutely! Prakash Auto Honda offers flexible EMI schemes for the Honda Activa, including zero down payment options. EMIs start from as low as Rs 2,599 per month. Visit our showroom to learn more about our finance solutions.
+Absolutely! Prakash Auto Honda offers flexible EMI schemes for the Honda Activa. EMIs start from as low as Rs 2,599 per month. Visit our showroom to learn more about our finance solutions and down payment options.
 
 Ready to experience the exceptional fuel efficiency and reliability of a Honda Activa? Visit Prakash Auto Honda in Kamareddy today! Our team will be happy to answer all your questions, help you choose the perfect model, and arrange a test ride. You can also call us at 8886604615 or send a WhatsApp message to https://wa.me/918886604615?text=Hi to get started.
