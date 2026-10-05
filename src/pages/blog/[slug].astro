@@ -20,6 +20,16 @@ const {
 
 const displayDate = date.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
 
+// "2026-10-05" -> "5 Oct 2026"
+const fmtDay = (iso: string) => {
+  const [y, m, d] = iso.split('-').map(Number);
+  return `${d} ${['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][m - 1]} ${y}`;
+};
+const { ai_assisted, reviewed_by, reviewed_on } = entry.data;
+const reviewNote = ai_assisted && reviewed_by && reviewed_on
+  ? `Drafted with AI assistance from our dealer price list and fact-checked by ${reviewed_by} on ${fmtDay(reviewed_on)}.`
+  : null;
+
 const isOrgAuthor = !author || author.toLowerCase().includes('team') || author.toLowerCase().includes('honda');
 const articleSchema = {
   "@context": "https://schema.org",
@@ -131,6 +141,7 @@ const featuredBikes = [
         </div>
         <div class="mt-6 mx-auto max-w-2xl text-left bg-gray-50 border border-gray-100 rounded-2xl p-4 text-sm text-gray-600 normal-case tracking-normal">
           <p><strong class="text-gray-800">Who wrote this:</strong> the sales and service team at Prakash Auto Honda, authorised Honda two-wheeler dealer in Kamareddy with 2 branches.</p>
+          {reviewNote && <p class="mt-1">{reviewNote}</p>}
           <p class="mt-1">Prices are checked against our current showroom price list on the "updated" date above; on-road figures vary by variant, insurance and RTO. Call <a href="tel:+918886604615" class="font-bold" style="color:#CC0000">8886604615</a> for today's exact quote.</p>
         </div>
       </header>
